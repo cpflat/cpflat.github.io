@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang xml:lang>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Satoru Kobayashi</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <style type="text/css">
+
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+display: block;
+}
+
+audio,
+canvas,
+video {
+display: inline-block;
+}
+
+audio:not([controls]) {
+display: none;
+height: 0;
+}
+
+[hidden],
+template {
+display: none;
+}
+
+
+html {
+font-family: sans-serif; 
+-ms-text-size-adjust: 100%; 
+-webkit-text-size-adjust: 100%; 
+}
+
+body {
+margin: 0;
+}
+
+
+a {
+background: transparent;
+}
+
+a:focus {
+outline: thin dotted;
+}
+
+a:active,
+a:hover {
+outline: 0;
+}
+
+
+h1 {
+font-size: 2em;
+margin: 0.67em 0;
+}
+
+abbr[title] {
+border-bottom: 1px dotted;
+}
+
+b,
+strong {
+font-weight: bold;
+}
+
+dfn {
+font-style: italic;
+}
+
+hr {
+-moz-box-sizing: content-box;
+box-sizing: content-box;
+height: 0;
+}
+
+mark {
+background: #ff0;
+color: #000;
+}
+
+code,
+kbd,
+pre,
+samp {
+font-family: monospace, serif;
+font-size: 1em;
+}
+
+pre {
+white-space: pre-wrap;
+}
+
+q {
+quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+small {
+font-size: 80%;
+}
+
+sub,
+sup {
+font-size: 75%;
+line-height: 0;
+position: relative;
+vertical-align: baseline;
+}
+sup {
+top: -0.5em;
+}
+sub {
+bottom: -0.25em;
+}
+
+
+img {
+border: 0;
+}
+
+svg:not(:root) {
+overflow: hidden;
+}
+
+
+figure {
+margin: 0;
+}
+
+
+fieldset {
+border: 1px solid #c0c0c0;
+margin: 0 2px;
+padding: 0.35em 0.625em 0.75em;
+}
+
+legend {
+border: 0; 
+padding: 0; 
+}
+
+button,
+input,
+select,
+textarea {
+font-family: inherit; 
+font-size: 100%; 
+margin: 0; 
+}
+
+button,
+input {
+line-height: normal;
+}
+
+button,
+select {
+text-transform: none;
+}
+
+button,
+html input[type="button"], 
+input[type="reset"],
+input[type="submit"] {
+-webkit-appearance: button; 
+cursor: pointer; 
+}
+
+button[disabled],
+html input[disabled] {
+cursor: default;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+box-sizing: border-box; 
+padding: 0; 
+}
+
+input[type="search"] {
+-webkit-appearance: textfield; 
+-moz-box-sizing: content-box;
+-webkit-box-sizing: content-box; 
+box-sizing: content-box;
+}
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+-webkit-appearance: none;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+border: 0;
+padding: 0;
+}
+
+textarea {
+overflow: auto; 
+vertical-align: top; 
+}
+
+
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+.go-top {
+position: fixed;
+bottom: 2em;
+right: 2em;
+text-decoration: none;
+background-color: #E0E0E0;
+font-size: 12px;
+padding: 1em;
+display: inline;
+}
+
+html,body{ margin: auto;
+padding-right: 1em;
+padding-left: 1em;
+max-width: 44em; color:black;}*:not('#mkdbuttons'){margin:0;padding:0}body{font:13.34px helvetica,arial,freesans,clean,sans-serif;-webkit-font-smoothing:subpixel-antialiased;line-height:1.4;padding:3px;background:#fff;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px}p{margin:1em 0}a{color:#4183c4;text-decoration:none}body{background-color:#fff;padding:30px;margin:15px;font-size:14px;line-height:1.6}body>*:first-child{margin-top:0!important}body>*:last-child{margin-bottom:0!important}@media screen{body{box-shadow:0 0 0 1px #cacaca,0 0 0 4px #eee}}h1,h2,h3,h4,h5,h6{margin:20px 0 10px;padding:0;font-weight:bold;-webkit-font-smoothing:subpixel-antialiased;cursor:text}h1{font-size:28px;color:#000}h2{font-size:24px;border-bottom:1px solid #ccc;color:#000}h3{font-size:18px;color:#333}h4{font-size:16px;color:#333}h5{font-size:14px;color:#333}h6{color:#777;font-size:14px}p,blockquote,table,pre{margin:15px 0}ul{padding-left:30px}ol{padding-left:30px}ol li ul:first-of-type{margin-top:0}hr{background:transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;border:0 none;color:#ccc;height:4px;padding:0}body>h2:first-child{margin-top:0;padding-top:0}body>h1:first-child{margin-top:0;padding-top:0}body>h1:first-child+h2{margin-top:0;padding-top:0}body>h3:first-child,body>h4:first-child,body>h5:first-child,body>h6:first-child{margin-top:0;padding-top:0}a:first-child h1,a:first-child h2,a:first-child h3,a:first-child h4,a:first-child h5,a:first-child h6{margin-top:0;padding-top:0}h1+p,h2+p,h3+p,h4+p,h5+p,h6+p,ul li>:first-child,ol li>:first-child{margin-top:0}dl{padding:0}dl dt{font-size:14px;font-weight:bold;font-style:italic;padding:0;margin:15px 0 5px}dl dt:first-child{padding:0}dl dt>:first-child{margin-top:0}dl dt>:last-child{margin-bottom:0}dl dd{margin:0 0 15px;padding:0 15px}dl dd>:first-child{margin-top:0}dl dd>:last-child{margin-bottom:0}blockquote{border-left:4px solid #DDD;padding:0 15px;color:#777}blockquote>:first-child{margin-top:0}blockquote>:last-child{margin-bottom:0}table{border-collapse:collapse;border-spacing:0;font-size:100%;font:inherit}table th{font-weight:bold;border:1px solid #ccc;padding:6px 13px}table td{border:1px solid #ccc;padding:6px 13px}table tr{border-top:1px solid #ccc;background-color:#fff}table tr:nth-child(2n){background-color:#f8f8f8}img{max-width:100%}code,tt{margin:0 2px;padding:0 5px;white-space:nowrap;border:1px solid #eaeaea;background-color:#f8f8f8;border-radius:3px;font-family:Consolas,'Liberation Mono',Courier,monospace;font-size:12px;color:#333}pre>code{margin:0;padding:0;white-space:pre;border:0;background:transparent}.highlight pre{background-color:#f8f8f8;border:1px solid #ccc;font-size:13px;line-height:19px;overflow:auto;padding:6px 10px;border-radius:3px}pre{background-color:#f8f8f8;border:1px solid #ccc;font-size:13px;line-height:19px;overflow:auto;padding:6px 10px;border-radius:3px}pre code,pre tt{background-color:transparent;border:0}.poetry pre{font-family:Georgia,Garamond,serif!important;font-style:italic;font-size:110%!important;line-height:1.6em;display:block;margin-left:1em}.poetry pre code{font-family:Georgia,Garamond,serif!important;word-break:break-all;word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;white-space:pre-wrap}sup,sub,a.footnote{font-size:1.4ex;height:0;line-height:1;vertical-align:super;position:relative}sub{vertical-align:sub;top:-1px}@media print{body{background:#fff}img,pre,blockquote,table,figure{page-break-inside:avoid}body{background:#fff;border:0}code{background-color:#fff;color:#333!important;padding:0 .2em;border:1px solid #dedede}pre{background:#fff}pre code{background-color:white!important;overflow:visible}}@media screen{body.inverted{color:#eee!important;border-color:#555;box-shadow:none}.inverted body,.inverted hr .inverted p,.inverted td,.inverted li,.inverted h1,.inverted h2,.inverted h3,.inverted h4,.inverted h5,.inverted h6,.inverted th,.inverted .math,.inverted caption,.inverted dd,.inverted dt,.inverted blockquote{color:#eee!important;border-color:#555;box-shadow:none}.inverted td,.inverted th{background:#333}.inverted h2{border-color:#555}.inverted hr{border-color:#777;border-width:1px!important}::selection{background:rgba(157,193,200,0.5)}h1::selection{background-color:rgba(45,156,208,0.3)}h2::selection{background-color:rgba(90,182,224,0.3)}h3::selection,h4::selection,h5::selection,h6::selection,li::selection,ol::selection{background-color:rgba(133,201,232,0.3)}code::selection{background-color:rgba(0,0,0,0.7);color:#eee}code span::selection{background-color:rgba(0,0,0,0.7)!important;color:#eee!important}a::selection{background-color:rgba(255,230,102,0.2)}.inverted a::selection{background-color:rgba(255,230,102,0.6)}td::selection,th::selection,caption::selection{background-color:rgba(180,237,95,0.5)}.inverted{background:#0b2531;background:#252a2a}.inverted body{background:#252a2a}.inverted a{color:#acd1d5}}.highlight .c{color:#998;font-style:italic}.highlight .err{color:#a61717;background-color:#e3d2d2}.highlight .k,.highlight .o{font-weight:bold}.highlight .cm{color:#998;font-style:italic}.highlight .cp{color:#999;font-weight:bold}.highlight .c1{color:#998;font-style:italic}.highlight .cs{color:#999;font-weight:bold;font-style:italic}.highlight .gd{color:#000;background-color:#fdd}.highlight .gd .x{color:#000;background-color:#faa}.highlight .ge{font-style:italic}.highlight .gr{color:#a00}.highlight .gh{color:#999}.highlight .gi{color:#000;background-color:#dfd}.highlight .gi .x{color:#000;background-color:#afa}.highlight .go{color:#888}.highlight .gp{color:#555}.highlight .gs{font-weight:bold}.highlight .gu{color:#800080;font-weight:bold}.highlight .gt{color:#a00}.highlight .kc,.highlight .kd,.highlight .kn,.highlight .kp,.highlight .kr{font-weight:bold}.highlight .kt{color:#458;font-weight:bold}.highlight .m{color:#099}.highlight .s{color:#d14}.highlight .na{color:#008080}.highlight .nb{color:#0086b3}.highlight .nc{color:#458;font-weight:bold}.highlight .no{color:#008080}.highlight .ni{color:#800080}.highlight .ne,.highlight .nf{color:#900;font-weight:bold}.highlight .nn{color:#555}.highlight .nt{color:#000080}.highlight .nv{color:#008080}.highlight .ow{font-weight:bold}.highlight .w{color:#bbb}.highlight .mf,.highlight .mh,.highlight .mi,.highlight .mo{color:#099}.highlight .sb,.highlight .sc,.highlight .sd,.highlight .s2,.highlight .se,.highlight .sh,.highlight .si,.highlight .sx{color:#d14}.highlight .sr{color:#009926}.highlight .s1{color:#d14}.highlight .ss{color:#990073}.highlight .bp{color:#999}.highlight .vc,.highlight .vg,.highlight .vi{color:#008080}.highlight .il{color:#099}.highlight .gc{color:#999;background-color:#eaf2f5}.type-csharp .highlight .k,.type-csharp .highlight .kt{color:#00F}.type-csharp .highlight .nf{color:#000;font-weight:normal}.type-csharp .highlight .nc{color:#2b91af}.type-csharp .highlight .nn{color:#000}.type-csharp .highlight .s,.type-csharp .highlight .sc{color:#a31515}
+</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Satoru Kobayashi</h1>
+</header>
+<h2 id="profile">Profile</h2>
+<ul>
+<li><p>Affiliation<br />
+National Institute of Informatics<br />
+Information Systems Architecture Science Research Division, Fukuda
+Lab.<br />
+Project Researcher</p></li>
+<li><p>Experience<br />
+April 2018 - Current: National Institute of Informatics, Project
+Researcher<br />
+September 2019 - March 2022: Shibaura Institute of Technology, Part-time
+Lecturer</p></li>
+<li><p>Degree<br />
+March 2018: Ph.D. degree in Information Science and Technology (The
+University of Tokyo)<br />
+March 2015: Master of Information Science and Technology (The University
+of Tokyo)<br />
+March 2013: Bachelor of Engineering (The University of Tokyo)</p></li>
+<li><p>Membership<br />
+<a href="http://www.fukuda-lab.org/">Fukuda Lab.</a> (Current)<br />
+<a href="http://www.hongo.wide.ad.jp/index.html">Esaki Lab.</a>
+(Bachelor - Ph.D.)<br />
+<a href="http://www.wide.ad.jp/index.html">WIDE Project</a></p></li>
+<li><p>Mail<br />
+sat [at] nii [dt] ac [dt] jp<br />
+sat [at] 3at [dt] work</p></li>
+</ul>
+<h2 id="publications">Publications</h2>
+<!-- 信学会: copyright表示の付いた出版社版を使うこと https://www.ieice.org/jpn/copyright/faq.html -->
+<!-- IEEE: author accepted versionを使うこと -->
+<!-- ACM: author accepted versionを使うこと -->
+<h3 id="journal">Journal</h3>
+<ol type="1">
+<li><p><strong>Satoru Kobayashi</strong>, Yuya Yamashiro, Kazuki Otomo,
+Kensuke Fukuda, “amulog: A General Log Analysis Framework for Comparison
+and Combination of Diverse Template Generation Methods”, International
+Journal of Network Management, vol.32, no.4, Wiley, Dec, 2021 (<a href="http://doi.org/10.1002/nem.2195">10.1002/nem.2195</a>, <a href="papers/ijnm2021_submit.pdf">submit_version</a>)</p></li>
+<li><p>新津 雄大, <strong>小林 諭</strong>, 福田 健介, 江崎 浩,
+“大規模IPv6アドレスの収集・分析”, 電子情報通信学会論文誌, Vol.J103-B,
+No.6, pp.223-233, Jun, 2020 (<a href="http://doi.org/10.14923/transcomj.2019JBT0002">10.14923/transcomj.2019JBT0002</a>,
+<a href="papers/aratsu_ieice2020.pdf">paper</a>)</p></li>
+<li><p>Kazuki Otomo, <strong>Satoru Kobayashi</strong>, Kensuke Fukuda,
+Hiroshi Esaki, “Latent Variable based Anomaly Detection in Network
+System Logs”, IEICE Transactions on Information and Systems,
+pp.1644-1652, Vol.E102-D, No.9, September, 2019 (<a href="https://doi.org/10.1587/transinf.2018OFP0007">10.1587/transinf.2018OFP0007</a>,
+<a href="papers/otomo_ieice2019.pdf">paper</a>)</p></li>
+<li><p><strong>Satoru Kobayashi</strong>, Kazuki Otomo, Kensuke Fukuda,
+Hiroshi Esaki, “Mining Causality of Network Events in Log Data”, IEEE
+Transactions on Network and Service Management, pp.53-67, vol.15, no.1,
+March, 2018 (<a href="https://doi.org/10.1109/TNSM.2017.2778096">10.1109/TNSM.2017.2778096</a>,
+<a href="papers/tnsm2018.pdf">paper</a>)</p></li>
+</ol>
+<h3 id="international-conference-w-review">International Conference (w/
+review)</h3>
+<ol type="1">
+<li><p><strong>Satoru Kobayashi</strong>, Keiichi Shima, Kenjiro Cho,
+Osamu Akashi, Kensuke Fukuda, “Comparative Causal Analysis of Network
+Log Data in Two Large ISPs”, the 7th IEEE/IFIP International Workshop on
+Analytics for Network and Service Management (AnNet 2022), Budapest,
+Hungary, April, 2022 (<a href="https://doi.org/10.1109/NOMS54207.2022.9789823">10.1109/NOMS54207.2022.9789823</a>,
+<a href="papers/annet2022.pdf">paper</a>, <a href="papers/annet2022_slide.pdf">slide</a>)</p></li>
+<li><p>Ryusei Shiiba, <strong>Satoru Kobayashi</strong>, Osamu Akashi,
+Kensuke Fukuda, “Verifying Network Properties in SRv6 based Service
+Function Chaining” , the 16th Asian Internet Engineering Conference
+(AINTEC 2021), pp.18-26, Virtual, December, 2021 (<a href="https://doi.org/10.1145/3497777.3498546">10.1145/3497777.3498546</a>)</p></li>
+<li><p>Daisuke Hanamitsu, Kimihiro Mizutani, <strong>Satoru
+Kobayashi</strong>, Kensuke Fukuda, Osamu Akashi, “A Scheme of
+Extracting Network Configuration Template Blocks Based on Tucker
+Decomposition”, International Conference on Emerging Technologies for
+Communications, p.1, December, 2021 (<a href="https://doi.org/10.34385/proc.68.P1-14">10.34385/proc.68.P1-14</a>)</p></li>
+<li><p>Kazuki Otomo, <strong>Satoru Kobayashi</strong>, Kensuke Fukuda,
+Osamu Akashi, Kimihiro Mizutani, Hiroshi Esaki, “Towards Extracting
+Semantics of Network Config Blocks”, the 9th IEEE International Workshop
+on Architecture, Design, Deployment &amp; Management of Networks &amp;
+Applications (ADMNET 2021), pp.1444-1449, Virtual, July, 2021 (<a href="https://doi.org/10.1109/COMPSAC51774.2021.00214">10.1109/COMPSAC51774.2021.00214</a>,
+<a href="papers/otomo_admnet2021.pdf">paper</a>)
+<!-- https://doi.org/10.1109/COMPSAC51774.2021.00214 --></p></li>
+<li><p>Richard Jarry, <strong>Satoru Kobayashi</strong>, Kensuke Fukuda,
+“A Quantitative Causal Analysis for Network Log Data”, the 9th IEEE
+International Workshop on Architecture, Design, Deployment &amp;
+Management of Networks &amp; Applications (ADMNET 2021), pp.1438-1443,
+Virtual, July, 2021 (<a href="https://doi.org/10.1109/COMPSAC51774.2021.00213">10.1109/COMPSAC51774.2021.00213</a>,
+<a href="papers/richard_admnet2021.pdf">paper</a> <a href="papers/admnet2021.pdf">slide</a>)
+<!-- https://doi.org/10.1109/COMPSAC51774.2021.00213 --></p></li>
+<li><p>Thieu Nguyen, <strong>Satoru Kobayashi</strong>, Kensuke Fukuda,
+“LogDTL: Network Log Template Generation with Deep Transfer Learning”,
+the 6th IEEE/IFIP International Workshop on Analytics for Network and
+Service Management (AnNet 2021), pp.848-853, Virtual, May, 2021 (<a href="http://dl.ifip.org/db/conf/im/im2021-ws1-annet/index.html">IFIP</a>,
+<a href="https://ieeexplore.ieee.org/document/9464068">IEEE</a>, <a href="papers/thieu_annet2021.pdf">paper</a> <a href="papers/annet2021.pdf">slide</a>)</p></li>
+<li><p>Kazuki Otomo, <strong>Satoru Kobayashi</strong>, Kensuke Fukuda,
+Hiroshi Esaki, “Latent Semantics Approach for Network Log Analysis:
+Modeling and its application”, the 17th IFIP/IEEE International
+Symposium on Integrated Network Management (IM’21), pp.215-223, Virtual,
+May, 2021 (<a href="http://dl.ifip.org/db/conf/im/im2021/index.html">IFIP</a>, <a href="https://ieeexplore.ieee.org/document/9464048">IEEE</a>, <a href="papers/otomo_im2021.pdf">paper</a>)</p></li>
+<li><p><strong>Satoru Kobayashi</strong>, Yuya Yamashiro, Kazuki Otomo,
+Kensuke Fukuda, “amulog: A General Log Analysis Framework for Diverse
+Template Generation Methods”, the 16th IFIP/IEEE International
+Conference on Network and Service Management (CNSM’20), pp.1-5, Virtual,
+November, 2020 (<a href="https://doi.org/10.23919/CNSM50824.2020.9269049">10.23919/CNSM50824.2020.9269049</a>,
+<a href="http://dl.ifip.org/db/conf/cnsm/cnsm2020/index.html">IFIP</a>,
+<a href="papers/cnsm2020.pdf">paper</a>, <a href="papers/cnsm2020_poster.pdf">poster</a>, <a href="papers/cnsm2020_slide.pdf">slide</a>)</p></li>
+<li><p><strong>Satoru Kobayashi</strong>, Kazuki Otomo, Kensuke Fukuda,
+“Causal analysis of network logs with layered protocols and topology
+knowledge”, the 15th IFIP/IEEE International Conference on Network and
+Service Management (CNSM’19), pp.1-9, Halifax, Canada, October, 2019 (<a href="https://doi.org/10.23919/CNSM46954.2019.9012718">10.23919/CNSM46954.2019.9012718</a>,
+<a href="http://dl.ifip.org/db/conf/cnsm/cnsm2019/index.html">IFIP</a>,
+<a href="papers/cnsm2019.pdf">paper</a>, <a href="papers/cnsm2019_slide.pdf">slide</a>)
+<!--Acceptance rate: 16.5% (21/127)--></p></li>
+<li><p>Kai Matsufuji, <strong>Satoru Kobayashi</strong>, Hiroshi Esaki,
+Hideya Ochiai, “ARP Request Trend Fitting for Detecting Malicious
+Activity in LAN”, International Conference on Ubiquitous Information
+Management and Communication (IMCOM), pp.89-96, Phuket, Thailand,
+January, 2019 (<a href="https://doi.org/10.1007/978-3-030-19063-7_8">10.1007/978-3-030-19063-7_8</a>)</p></li>
+<li><p>Kazuki Otomo, <strong>Satoru Kobayashi</strong>, Kensuke Fukuda,
+Hiroshi Esaki, “Finding Anomalies in Network System Logs with Latent
+Variables”, Workshop on Big Data Analytics and Machine Learning for Data
+Communication Networks (Big-DAMA), ACM SIGCOMM, pp.8-14, Budapest,
+Hungary, August, 2018 (<a href="https://doi.org/10.1145/3229607.3229608">10.1145/3229607.3229608</a>,
+<a href="papers/otomo_bigdama2018.pdf">paper</a>)</p></li>
+<li><p>Kazuki Otomo, <strong>Satoru Kobayashi</strong>, Kensuke Fukuda,
+Hiroshi Esaki, “Analyzing Burstiness and Causality of System logs”, the
+13th International Conference on emerging Networking EXperiments and
+Technologies (CoNEXT’17) Student Workshop, ACM SIGCOMM, p.2, Seoul,
+South Korea, December, 2017</p></li>
+<li><p>Kazuki Otomo, <strong>Satoru Kobayashi</strong>, Kensuke Fukuda,
+Hiroshi Esaki, “An Analysis of Burstiness and Causality of System Logs”,
+Asian Internet Engineering Conference (AINTEC’17), pp.16-23, Bangkok,
+Thailand, November, 2017 (<a href="https://doi.org/10.1145/3154970.3154973">10.1145/3154970.3154973</a>,
+<a href="papers/otomo_aintec2017.pdf">paper</a>)</p></li>
+<li><p><strong>Satoru Kobayashi</strong>, Kensuke Fukuda and Hiroshi
+Esaki, “Mining causes of network events in log data with causal
+inference”, the 13th IFIP/IEEE International Symposium on Integrated
+Network Management (IM’17), pp.45-53, Lisbon, Portugal, May, 2017 (<a href="https://doi.org/10.23919/INM.2017.7987263">10.23919/INM.2017.7987263</a>,
+<a href="http://dl.ifip.org/db/conf/im/im2017/index.html">IFIP</a> <a href="papers/im2017.pdf">paper</a>, <a href="papers/im2017_slide.pdf">slide</a>)</p></li>
+<li><p><strong>Satoru Kobayashi</strong>, Kensuke Fukuda and Hiroshi
+Esaki, “Causation mining in network logs”, the 12th International
+Conference on emerging Networking EXperiments and Technologies
+(CoNEXT’16) Student Workshop, ACM SIGCOMM, p.2, Irvine, California,
+December, 2016 (<a href="papers/conext2016.pdf">paper</a>)</p></li>
+<li><p>Yu Komohara, <strong>Satoru Kobayashi</strong>, Hideya Ochiai,
+Hiroshi Esaki, “Application of Change Point Detection to System Logs for
+Fault Detection”, the 12th International Conference on emerging
+Networking EXperiments and Technologies (CoNEXT’16) Student Workshop
+(Poster Session), p.2, Irvine, California, December, 2016</p></li>
+<li><p><strong>Satoru Kobayashi</strong>, Kensuke Fukuda, Hiroshi Esaki,
+“Towards an NLP-based Log Template Generation Algorithm for System Log
+Analysis”, the Ninth International Conference on Future Internet
+Technologies (CFI’14), p.4, Tokyo, Japan, June, 2014 (<a href="https://doi.org/10.1145/2619287.2619290">10.1145/2619287.2619290</a>,
+<a href="papers/cfi2014.pdf">paper</a>)</p></li>
+</ol>
+<h3 id="domestic-conference-w-review">Domestic Conference (w/
+review)</h3>
+<ol type="1">
+<li>大友 一樹, <strong>小林 諭</strong>, 福田 健介, 江崎 浩,
+“システムログ異常予測に向けたバースト性と因果関係の解析”, The Eighteenth
+Workshop on Internet Technology (WIT2017), p.8, 愛媛, 2017年6月</li>
+</ol>
+<h3 id="domestic-conference-wo-review">Domestic Conference (w/o
+review)</h3>
+<ol type="1">
+<li><p>明石 修, 水谷 后宏, <strong>小林 諭</strong>, 福田 健介,
+“ネットワーク管理ワークフローの自動実行機構の提案”,
+情報処理学会第83回全国大会, pp.3-33 – 3-34, オンライン,
+2021年3月</p></li>
+<li><p><strong>小林 諭</strong>, 江崎 浩,
+“CLI環境におけるオペレーションミス低減手法の検討と実装”,
+電子情報通信学会総合大会, p.1, 岐阜, 2013年3月</p></li>
+</ol>
+<h3 id="technical-report">Technical Report</h3>
+<ol type="1">
+<li><p><strong>小林 諭</strong>, 福田 健介,
+“ネットワーク運用自動化のための運用データ連携解析の検討”, 信学技報,
+vol. 122, no. 85, IA2022-1, pp. 1-7, 2022年6月 (<a href="https://www.ieice.org/ken/paper/20220623nCKR/">link</a>, <a href="papers/ia2022_slide.pdf">slide</a>)</p></li>
+<li><p>徳備彩人, 大友 一樹, <strong>小林 諭</strong>, 福田 健介, 江崎
+浩, “ネットワークログデータへの自動文書ラベリングの提案”, 信学技報,
+vol. 120, no. 186, IA2020-14, pp. 1-6, 2020年10月 (<a href="https://www.ieice.org/cs/ia/jpn/doku.php?id=award">2020年度IA研究賞(優秀賞)</a>,
+<a href="https://www.ieice.org/ken/paper/20201009MCAG/">link</a>)</p></li>
+<li><p>大友 一樹, <strong>小林 諭</strong>, 福田 健介, 江崎 浩,
+“ネットワークログ解析におけるセマンティクス活用の検討”, 信学技報,
+vol. 119, no. 343, IA2019-49, pp. 7-12, 2019年12月 (<a href="https://www.ieice.org/ken/paper/20191219o1sR/">link</a>)</p></li>
+<li><p>小林 日向, 新津 雄大, <strong>小林 諭</strong>, 福田 健介, 江崎
+浩, “IPv6エイリアス空間検出を考慮したハニーネットの検討”, 信学技報,
+vol. 119, no. 343, IA2019-50, pp. 13-18, 2019年12月 (<a href="https://www.ieice.org/ken/paper/20191219I1Tf/">link</a>)</p></li>
+<li><p>山城 裕陽, <strong>小林 諭</strong>, 福田 健介, 江崎 浩, “Bridged
+Refinementによるログテンプレート推定手法の検討”, 信学技報, vol. 119, no.
+318, IA2019-45, pp. 13-18, 2019年11月 (<a href="https://www.ieice.org/ken/paper/20191129n1Sd/">link</a>)</p></li>
+<li><p><strong>小林 諭</strong>, 大友 一樹, 福田 健介,
+“ネットワーク構成情報を考慮したネットワークログ因果解析の検討”,
+信学技報, vol. 118, no. 360, IA2018-40, pp. 1-8, 2018年12月 (<a href="https://www.ieice.org/ken/paper/20181213Q1i1/">link</a>, <a href="papers/ia2018_slide.pdf">slide</a>)</p></li>
+<li><p>山城 裕陽, <strong>小林 諭</strong>, 福田 健介, 江崎 浩,
+“ソースコードからのネットワークログテンプレート自動生成に関する検討”,
+信学技報, vol. 118, no. 204, IA2018-18, pp. 15-22, 2018年9月 (<a href="https://www.ieice.org/ken/paper/20180903q1GL/">link</a>)</p></li>
+<li><p>新津 雄大, <strong>小林 諭</strong>, 福田 健介, 江崎 浩,
+“大規模IPv6アドレス収集手法の検討”, 信学技報, vol. 118, no. 204,
+IA2018-16, pp. 1-8, 2018年9月 (<a href="http://www.ieice.org/cs/ia/jpn/award">2018年度IA研究賞(優秀賞)</a>)
+(<a href="https://www.ieice.org/ken/paper/2018090361Gl/">link</a>)</p></li>
+</ol>
+<h3 id="ph.d.-thesis">Ph.D. Thesis</h3>
+<ul>
+<li>小林 諭,
+“ネットワークログの因果解析による障害の原因究明支援技術に関する研究”,
+2018年3月 (<a href="papers/dthesis.pdf">thesis</a>)</li>
+</ul>
+<h2 id="activities">Activities</h2>
+<h3 id="oral-presentation">Oral Presentation</h3>
+<ol type="1">
+<li><p>Satoru Kobayashi, “Causal Analysis of Network Log Events”, JFLI
+Workshop 2020 on Next Generation Networking, Tokyo, Japan, Feb, 2020
+(Invited, <a href="https://tlab.hongo.wide.ad.jp/jfli-workshop-2020/">link</a>, <a href="papers/jfli2020.pdf">slide</a>)</p></li>
+<li><p>Satoru Kobayashi, “Mining causality of network events in log
+data”, International Cloud Resiliency Workshop 2018, Xi’an, China, Oct,
+2018 (Invited, <a href="http://www.i2crw.org/">link</a>, <a href="papers/crw2018.pdf">slide</a>)</p></li>
+</ol>
+<h3 id="poster-presentation">Poster Presentation</h3>
+<ol type="1">
+<li><p>Yuya Yamashiro, <strong>Satoru Kobayashi</strong>, Kensuke
+Fukuda, Hiroshi Esaki, “Approach to Better Log Template Generation”,
+Internet Conference 2018, Tokyo, Japan, Nov, 2018 (<a href="https://www.internetconference.org/ic2018/program.html#award">Poster
+Award</a>)</p></li>
+<li><p>Yudai Aratsu, <strong>Satoru Kobayashi</strong>, Kensuke Fukuda,
+Hiroshi Esaki, “Collecting a large number of active IPv6 addresses”,
+Internet Conference 2018, Tokyo, Japan, Nov, 2018 (<a href="https://www.internetconference.org/ic2018/program.html#award">Poster
+Award</a>)</p></li>
+<li><p><strong>小林 諭</strong>, 福田 健介, 江崎 浩,
+“システムログの意味抽出のための自然言語処理的アプローチによる解析手法の検討”,
+インターネットコンファレンス2013, p.2, 東京, 2013年10月</p></li>
+</ol>
+<h3 id="awards">Awards</h3>
+<ol type="1">
+<li><p>徳備彩人, 大友 一樹, <strong>小林 諭</strong>, 福田 健介, 江崎
+浩,
+電子情報通信学会インターネットアーキテクチャ研究会IA研究賞(優秀研究賞)
+“ネットワークログデータへの自動文書ラベリングの提案”, Jun, 2021</p></li>
+<li><p>新津 雄大, <strong>小林 諭</strong>, 福田 健介, 江崎 浩,
+電子情報通信学会インターネットアーキテクチャ研究会IA研究賞(優秀研究賞)
+“大規模IPv6アドレス収集手法に関する検討”, Jun, 2019</p></li>
+<li><p>IEEE/IFIP IM 2017 Student Travel Grants, May, 2017</p></li>
+<li><p>ACM SIGCOMM Grants/CoNext 2016, Dec, 2016</p></li>
+<li><p>Dean’s award for outstanding thesis (master’s thesis), March,
+2015
+<!-- 東京大学大学院情報理工学系研究科 研究科長賞, 2015年3月 --></p></li>
+</ol>
+<h3 id="research-funds">Research Funds</h3>
+<ol type="1">
+<li><p>科研費若手研究, “ネットワーク自動運用のための運用データ連携解析”,
+2022年度-2024年度 (<a href="https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K17886/">22K17886</a>,
+研究代表者)</p></li>
+<li><p>戦略的情報通信研究開発推進事業(SCOPE)社会展開指向型研究開発(3年枠),
+“セマンティクス抽出と因果解析によるネットワーク障害対応支援に関する研究”,
+2019年度-2021年度 (研究分担者)</p></li>
+<li><p>科研費若手研究,
+“トラブルシューティング・予測のための大規模ネットワークシステムログからの知識抽出”,
+2019年度-2020年度 (<a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K20262/">19K20262</a>,
+研究代表者)</p></li>
+</ol>
+<h3 id="committee">Committee</h3>
+<ol type="1">
+<li>IPSJ Journal Reviewer, 2021-Current</li>
+</ol>
+<h3 id="external-peer-review">External Peer Review</h3>
+<ol type="1">
+<li><p>IEEE Transactions on Network and Service Management,
+2019-2020</p></li>
+<li><p>IEICE Transactions on Communications, 2018</p></li>
+<li><p>IEEE International Workshop on Big Data Management and
+Infrastructure for the Internet of Things, 2018</p></li>
+</ol>
+<h3 id="lecture">Lecture</h3>
+<ul>
+<li>芝浦工業大学デザイン工学部 情報ネットワーク (冬学期,
+2019年度-2021年度)</li>
+</ul>
+<h3 id="others">Others</h3>
+<ul>
+<li><p><a href="https://github.com/cpflat">GitHub</a></p></li>
+<li><p><a href="https://scholar.google.co.jp/citations?user=9G_WRYEAAAAJ">Google
+scholar</a></p></li>
+<li><p><a href="https://www.linkedin.com/in/sat-pub/">Linkedin</a></p></li>
+<li><p><a href="https://researchmap.jp/sat-pub/">researchmap</a></p></li>
+<li><p>Bio</p></li>
+</ul>
+<pre><code>Satoru Kobayashi received the Ph.D. degree in information science and technology from the University of Tokyo, Tokyo Japan, in 2018.
+He is a Project Researcher at the National Institute of Informatics (NII).
+His research interests are network management and data mining.</code></pre>
+<h2 id="about-this-page">About this page</h2>
+<ul>
+<li><a href="http://www.3at.work">www.3at.work</a> is a personal home
+server</li>
+<li><a href="http://sat.hongo.wide.ad.jp">sat.hongo.wide.ad.jp</a> is a
+mirror server hosted in <a href="http://www.hongo.wide.ad.jp/index.html">Esaki Lab</a>.</li>
+</ul>
+</body>
+</html>
