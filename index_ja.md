@@ -1,37 +1,41 @@
-% Satoru Kobayashi
+% 小林 諭
 
 ![](crw_speak_face.jpg)
 
-english / [japanese](index_ja.html)
+[english](index.html) / japanese
 
-## Profile
+## 概要
 
-### Affiliation
-Project Researcher,
-Information Systems Architecture Science Research Division,
-National Institute of Informatics
+### 所属
+国立情報学研究所
+アーキテクチャ科学研究系
+特任研究員
 
-### Experience
-- April 2018 - Current: National Institute of Informatics, Project Researcher
-- September 2019 - March 2022: Shibaura Institute of Technology, Part-time Lecturer
+### 経歴
+- 2018年4月 - 現職: 国立情報学研究所 特任研究員
+- 2019年9月 - 2022年3月: 芝浦工業大学 非常勤講師
 
-### Degree
-- March 2018: Ph.D. degree in Information Science and Technology (The University of Tokyo)
-- March 2015: Master of Information Science and Technology (The University of Tokyo)
-- March 2013: Bachelor of Engineering (The University of Tokyo)
+### 学位
+- 2018年3月22日: 東京大学大学院 情報理工学系研究科 創造情報学専攻 博士(情報理工学)
+- 2015年3月24日: 東京大学大学院 情報理工学系研究科 創造情報学専攻 修士(情報理工学)
+- 2013年3月26日: 東京大学工学部 電子情報工学科 学士(工学)
 
-### Related organization
+### 関連組織
 - [WIDE Project](http://www.wide.ad.jp/index.html)
-- National Institute of Informatics, [Fukuda Lab.](http://www.fukuda-lab.org/)
-- The University of Tokyo, [Esaki Lab.](https://www.hongo.wide.ad.jp/en/)
+- 国立情報学研究所 [福田研究室](http://www.fukuda-lab.org/)
+- 東京大学 [江崎研究室](http://www.hongo.wide.ad.jp/)
 
-### Mail
+### メール
 - sat [at] 3at [dt] work
-- sat [at] nii [dt] ac [dt] jp  <- will be expired soon
+- sat [at] nii [dt] ac [dt] jp  <- 近日中に失効します、注意
 
-## Publications
+## 業績
 
-### Journal
+<!-- 信学会: copyright表示の付いた出版社版を使うこと https://www.ieice.org/jpn/copyright/faq.html -->
+<!-- IEEE: author accepted versionを使うこと -->
+<!-- ACM: author accepted versionを使うこと -->
+
+### 論文誌
 
 1. __Satoru Kobayashi__, Yuya Yamashiro, Kazuki Otomo, Kensuke Fukuda, "amulog: A General Log Analysis Framework for Comparison and Combination of Diverse Template Generation Methods", International Journal of Network Management, vol.32, no.4, Wiley, Dec, 2021 ([10.1002/nem.2195](http://doi.org/10.1002/nem.2195), [submit_version](papers/ijnm2021_submit.pdf))
 
@@ -41,8 +45,7 @@ National Institute of Informatics
 
 1. __Satoru Kobayashi__, Kazuki Otomo, Kensuke Fukuda, Hiroshi Esaki, "Mining Causality of Network Events in Log Data", IEEE Transactions on Network and Service Management, pp.53-67, vol.15, no.1, March, 2018 ([10.1109/TNSM.2017.2778096](https://doi.org/10.1109/TNSM.2017.2778096), [paper](papers/tnsm2018.pdf))
 
-
-### International Conference (w/ review)
+### 国際会議
 
 1. __Satoru Kobayashi__, Keiichi Shima, Kenjiro Cho, Osamu Akashi, Kensuke Fukuda, "Comparative Causal Analysis of Network Log Data in Two Large ISPs", the 7th IEEE/IFIP International Workshop on Analytics for Network and Service Management (AnNet 2022), Budapest, Hungary, April, 2022 ([10.1109/NOMS54207.2022.9789823](https://doi.org/10.1109/NOMS54207.2022.9789823), [paper](papers/annet2022.pdf), [slide](papers/annet2022_slide.pdf))
 
@@ -81,63 +84,82 @@ National Institute of Informatics
 
 1. __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Towards an NLP-based Log Template Generation Algorithm for System Log Analysis", the Ninth International Conference on Future Internet Technologies (CFI'14), p.4, Tokyo, Japan, June, 2014 ([10.1145/2619287.2619290](https://doi.org/10.1145/2619287.2619290), [paper](papers/cfi2014.pdf))
 
+### 査読あり国内会議
 
-### Technical Report
+1. 大友 一樹, __小林 諭__, 福田 健介, 江崎 浩, "システムログ異常予測に向けたバースト性と因果関係の解析", The Eighteenth Workshop on Internet Technology (WIT2017), p.8, 愛媛, 2017年6月
 
-1. __Satoru Kobayashi__, Kensuke Fukuda, "Towards a Collaborative Operational Data Analysis for Automated Network Management ", IEICE Technical Report, vol. 122, no. 85, IA2022-1, pp. 1-7, Jun, 2022 ([link](https://www.ieice.org/ken/paper/20220623nCKR/))
+### 査読なし国内会議
 
-1. Ayato Tokubi, Kazuki Otomo, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Automatic Document Labelling to Network Log Data", IEICE Technical Report, vol. 120, no. 186, IA2020-14, pp. 1-6, Oct, 2020 ([link](https://www.ieice.org/ken/paper/20201009MCAG/))
+1. 明石 修, 水谷 后宏, __小林 諭__, 福田 健介, "ネットワーク管理ワークフローの自動実行機構の提案", 情報処理学会第83回全国大会, pp.3-33 -- 3-34, オンライン, 2021年3月
 
-1. Kazuki Otomo, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Improving Network Log Analysis by Semantics", IEICE Technical Report, vol. 119, no. 343, IA2019-49, pp. 7-12, Dec, 2019 ([link](https://www.ieice.org/ken/paper/20191219o1sR/))
+1. __小林 諭__, 江崎 浩, "CLI環境におけるオペレーションミス低減手法の検討と実装", 電子情報通信学会総合大会, p.1, 岐阜, 2013年3月
 
-1. Hyuga Kobayashi, Yudai Aratsu, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Design of Honeynet to avoid IPv6 alias detection", IEICE Technical Report, vol. 119, no. 343, IA2019-50, pp. 13-18, Dec, 2019 ([link](https://www.ieice.org/ken/paper/20191219I1Tf/))
+### 技術報告
 
-1. Yuya Yamashiro, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Log Template Estimation with Bridged Refinement", IEICE Technical Report, vol. 119, no. 318, IA2019-45, pp. 13-18, Nov, 2019 ([link](https://www.ieice.org/ken/paper/20191129n1Sd/))
+1. __小林 諭__, 福田 健介, "ネットワーク運用自動化のための運用データ連携解析の検討", 信学技報, vol. 122, no. 85, IA2022-1, pp. 1-7, 2022年6月 ([link](https://www.ieice.org/ken/paper/20220623nCKR/), [slide](papers/ia2022_slide.pdf))
 
-1.  __Satoru Kobayashi__, Kazuki Otomo, Kensuke Fukuda, "Towards application of network topology information to network log causal anlaysis ", IEICE Technical Report, vol. 118, no. 360, IA2018-40, pp. 1-8, Dec, 2018 ([link](https://www.ieice.org/ken/paper/20181213Q1i1/), [slide](papers/ia2018_slide.pdf))
+1. 徳備彩人, 大友 一樹, __小林 諭__, 福田 健介, 江崎 浩, "ネットワークログデータへの自動文書ラベリングの提案", 信学技報, vol. 120, no. 186, IA2020-14, pp. 1-6, 2020年10月 ([2020年度IA研究賞(優秀賞)](https://www.ieice.org/cs/ia/jpn/doku.php?id=award), [link](https://www.ieice.org/ken/paper/20201009MCAG/))
 
-1. Yuya Yamashiro, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Network Log Template Generation from Open Source Software", IEICE Technical Report, vol. 118, no. 204, IA2018-18, pp. 15-22, Sep, 2018 ([link](https://www.ieice.org/ken/paper/20180903q1GL/))
+1. 大友 一樹, __小林 諭__, 福田 健介, 江崎 浩, "ネットワークログ解析におけるセマンティクス活用の検討", 信学技報, vol. 119, no. 343, IA2019-49, pp. 7-12, 2019年12月 ([link](https://www.ieice.org/ken/paper/20191219o1sR/))
 
-1. Yudai Aratsu, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Collecting a large number of active IPv6 addresses", IEICE Technical Report, vol. 118, no. 204, IA2018-16, pp. 1-8, Sep, 2018 ([link](https://www.ieice.org/ken/paper/2018090361Gl/))
+1. 小林 日向, 新津 雄大, __小林 諭__, 福田 健介, 江崎 浩, "IPv6エイリアス空間検出を考慮したハニーネットの検討", 信学技報, vol. 119, no. 343, IA2019-50, pp. 13-18, 2019年12月 ([link](https://www.ieice.org/ken/paper/20191219I1Tf/))
 
-### Oral Presentation
+1. 山城 裕陽, __小林 諭__, 福田 健介, 江崎 浩, "Bridged Refinementによるログテンプレート推定手法の検討", 信学技報, vol. 119, no. 318, IA2019-45, pp. 13-18, 2019年11月 ([link](https://www.ieice.org/ken/paper/20191129n1Sd/))
+
+1.  __小林 諭__, 大友 一樹, 福田 健介, "ネットワーク構成情報を考慮したネットワークログ因果解析の検討", 信学技報, vol. 118, no. 360, IA2018-40, pp. 1-8, 2018年12月 ([link](https://www.ieice.org/ken/paper/20181213Q1i1/), [slide](papers/ia2018_slide.pdf))
+
+1. 山城 裕陽, __小林 諭__, 福田 健介, 江崎 浩, "ソースコードからのネットワークログテンプレート自動生成に関する検討", 信学技報, vol. 118, no. 204, IA2018-18, pp. 15-22, 2018年9月 ([link](https://www.ieice.org/ken/paper/20180903q1GL/))
+
+1. 新津 雄大, __小林 諭__, 福田 健介, 江崎 浩, "大規模IPv6アドレス収集手法の検討", 信学技報, vol. 118, no. 204, IA2018-16, pp. 1-8, 2018年9月 ([2018年度IA研究賞(優秀賞)](http://www.ieice.org/cs/ia/jpn/award)) ([link](https://www.ieice.org/ken/paper/2018090361Gl/))
+
+
+### 口頭発表
 
 1. Satoru Kobayashi, "Causal Analysis of Network Log Events", JFLI Workshop 2020 on Next Generation Networking, Tokyo, Japan, Feb, 2020 (Invited, [link](https://tlab.hongo.wide.ad.jp/jfli-workshop-2020/), [slide](papers/jfli2020.pdf))
 
 1. Satoru Kobayashi, "Mining causality of network events in log data", International Cloud Resiliency Workshop 2018, Xi'an, China, Oct, 2018 (Invited, [link](http://www.i2crw.org/), [slide](papers/crw2018.pdf))
 
-### Poster Presentation
+### ポスター発表
 
 1. Yuya Yamashiro, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Approach to Better Log Template Generation", Internet Conference 2018, Tokyo, Japan, Nov, 2018 ([Poster Award](https://www.internetconference.org/ic2018/program.html#award))
 
 1. Yudai Aratsu, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Collecting a large number of active IPv6 addresses", Internet Conference 2018, Tokyo, Japan, Nov, 2018 ([Poster Award](https://www.internetconference.org/ic2018/program.html#award))
 
+1. __小林 諭__, 福田 健介, 江崎 浩, "システムログの意味抽出のための自然言語処理的アプローチによる解析手法の検討", インターネットコンファレンス2013, p.2, 東京, 2013年10月
 
-## Activities
 
-### Awards
+### 博士論文
+
+- 小林 諭, "ネットワークログの因果解析による障害の原因究明支援技術に関する研究", 2018年3月 ([thesis](papers/dthesis.pdf))
+
+
+## 活動
+
+### 受賞
+
+1. 徳備彩人, 大友 一樹, __小林 諭__, 福田 健介, 江崎 浩, 電子情報通信学会インターネットアーキテクチャ研究会IA研究賞(優秀研究賞) "ネットワークログデータへの自動文書ラベリングの提案", Jun, 2021
+
+1. 新津 雄大, __小林 諭__, 福田 健介, 江崎 浩, 電子情報通信学会インターネットアーキテクチャ研究会IA研究賞(優秀研究賞) "大規模IPv6アドレス収集手法に関する検討", Jun, 2019
 
 1. IEEE/IFIP IM 2017 Student Travel Grants, May, 2017
 
 1. ACM SIGCOMM Grants/CoNext 2016, Dec, 2016
 
-1. Dean's award for outstanding thesis (master's thesis), March, 2015
-<!-- 東京大学大学院情報理工学系研究科 研究科長賞, 2015年3月 -->
+1. 東京大学大学院情報理工学系研究科 研究科長賞, 2015年3月
 
-### Research Funds
+### 競争的研究費
 
-1. JSPS Grant-in-Aid for Early-Career Scientists, "Collaborative operational data analysis for network automation", Apr 2022 - Mar 2025 (As principal researcher, [22K17886](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22K17886/))
+1. 科研費若手研究, "ネットワーク自動運用のための運用データ連携解析", 2022年4月-2025年3月 ([22K17886](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K17886/), 研究代表者)
 
-1. MIC Strategic Information and Communications R&D Promotion Programme (SCOPE), "セマンティクス抽出と因果解析によるネットワーク障害対応支援に関する研究", Apr 2019 - Mar 2022 (#191603009)
+1. 戦略的情報通信研究開発推進事業(SCOPE)社会展開指向型研究開発(3年枠), "セマンティクス抽出と因果解析によるネットワーク障害対応支援に関する研究", 2019年4月-2022年3月 (研究分担者, #191603009)
 
-1. JSPS Grant-in-Aid for Early-Career Scientists, "Knowledge mining of large-scale network operational data for troubleshooting and predictive analysis", Apr 2019 - Mar 2021 (As principal researcher, [19K20262](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K20262/))
+1. 科研費若手研究, "トラブルシューティング・予測のための大規模ネットワークシステムログからの知識抽出", 2019年4月-2021年3月 ([19K20262](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K20262/), 研究代表者)
 
+### 委員
 
-### Committee
+1. 情報処理学会 論文誌査読委員, 2021年4月以降
 
-1. IPSJ Journal Reviewer, 2021-Current
-
-### External Peer Review
+### 外部査読
 
 1. IEEE Transactions on Network and Service Management, 2019-2022
 
@@ -145,11 +167,11 @@ National Institute of Informatics
 
 1. IEEE International Workshop on Big Data Management and Infrastructure for the Internet of Things, 2018
 
-### Lecture
+### 講義
 
-- College of Engineering and Design Department of Engineering and Design, Shibaura Institute of Technology, "Information Network" (Winter term, [2019](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2019/dsn/115765.html.en), [2020](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2020/dsn/120860.html.en), [2021](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2021/dsn/126034.html.en))
+- 芝浦工業大学デザイン工学部 情報ネットワーク (冬学期, [2019](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2019/dsn/115765.html.ja), [2020](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2020/dsn/120860.html.ja), [2021](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2021/dsn/126034.html.ja))
 
-### Others
+### その他
 
 - [GitHub](https://github.com/cpflat)
 - [Google scholar](https://scholar.google.co.jp/citations?user=9G_WRYEAAAAJ)
@@ -163,12 +185,12 @@ He is a Project Researcher at the National Institute of Informatics (NII).
 His research interests are network management and data mining.
 ```
 
-## About this page
+## このページについて
 
 <!--
 - [www.3at.work](http://www.3at.work) is a personal home server
 - [sat.hongo.wide.ad.jp](http://sat.hongo.wide.ad.jp) is a mirror server hosted in [Esaki Lab](http://www.hongo.wide.ad.jp/index.html).
 -->
-- This page is hosted on Github Pages. [cpflat.github.io](https://cpflat.github.io)
+- 現在このページはGithub Pagesでホストされています [cpflat.github.io](https://cpflat.github.io)
 
 
