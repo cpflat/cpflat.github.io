@@ -8,7 +8,7 @@ all: $(TARGET)
 	$(NULL)
 
 %.html: %.md
-	pandoc $< --standalone --self-contained -t html5 -c pandoc-github.css -o $@
+	pandoc $< --embed-resources --standalone -t html5 -c pandoc-github.css -o $@
 
 index.md:
 	python convert.py index_en_base.md > $@
