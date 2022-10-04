@@ -7,12 +7,13 @@ english / [japanese](index_ja.html)
 ## Profile
 
 ### Affiliation  
-Project Researcher, 
-Information Systems Architecture Science Research Division, 
-National Institute of Informatics  
+Assistant Professor,
+Graduate School of Natural Science and Technology,
+Okayama University
 
 ### Experience  
-- April 2018 - Current: National Institute of Informatics, Project Researcher  
+- Oct 2022 - Current: Okayama University, Assistant Professor
+- April 2018 - Sep 2022: National Institute of Informatics, Project Researcher
 - September 2019 - March 2022: Shibaura Institute of Technology, Part-time Lecturer  
 
 ### Degree  
@@ -26,8 +27,8 @@ National Institute of Informatics
 - The University of Tokyo, [Esaki Lab.](https://www.hongo.wide.ad.jp/en/)
 
 ### Mail  
+- sat [at] okayama-u [dt] ac [dt] jp
 - sat [at] 3at [dt] work  
-- sat [at] nii [dt] ac [dt] jp  <- will be expired soon  
 
 ## Publications
 
