@@ -20,8 +20,12 @@
 - 2015年3月24日: 東京大学大学院 情報理工学系研究科 創造情報学専攻 修士(情報理工学)
 - 2013年3月26日: 東京大学工学部 電子情報工学科 学士(工学)
 
+### 参加学会
+- 情報処理学会 (会員番号: 202205265)
+
 ### 関連組織
 - [WIDE Project](http://www.wide.ad.jp/index.html)
+- 岡山大学 [山内研究室](https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index-j.html)
 - 国立情報学研究所 [福田研究室](http://www.fukuda-lab.org/)
 - 東京大学 [江崎研究室](http://www.hongo.wide.ad.jp/)
 

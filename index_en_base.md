@@ -21,8 +21,12 @@ Okayama University
 - March 2015: Master of Information Science and Technology (The University of Tokyo)  
 - March 2013: Bachelor of Engineering (The University of Tokyo)  
 
+### Membership
+- Information Processing Society of Japan (Number: 202205265)
+
 ### Related organization
 - [WIDE Project](http://www.wide.ad.jp/index.html)  
+- Okayama University, [Yamauchi Lab.](https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index.html)
 - National Institute of Informatics, [Fukuda Lab.](http://www.fukuda-lab.org/)
 - The University of Tokyo, [Esaki Lab.](https://www.hongo.wide.ad.jp/en/)
 

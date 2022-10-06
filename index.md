@@ -21,14 +21,18 @@ Okayama University
 - March 2015: Master of Information Science and Technology (The University of Tokyo)
 - March 2013: Bachelor of Engineering (The University of Tokyo)
 
+### Membership
+- Information Processing Society of Japan (Number: 202205265)
+
 ### Related organization
 - [WIDE Project](http://www.wide.ad.jp/index.html)
+- Okayama University, [Yamauchi Lab.](https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index.html)
 - National Institute of Informatics, [Fukuda Lab.](http://www.fukuda-lab.org/)
 - The University of Tokyo, [Esaki Lab.](https://www.hongo.wide.ad.jp/en/)
 
 ### Mail
+- sat [at] okayama-u [dt] ac [dt] jp
 - sat [at] 3at [dt] work
-- sat [at] nii [dt] ac [dt] jp  <- will be expired soon
 
 ## Publications
 
@@ -171,4 +175,5 @@ His research interests are network management and data mining.
 - [sat.hongo.wide.ad.jp](http://sat.hongo.wide.ad.jp) is a mirror server hosted in [Esaki Lab](http://www.hongo.wide.ad.jp/index.html).
 -->
 - This page is hosted on Github Pages. [cpflat.github.io](https://cpflat.github.io)
+
 
