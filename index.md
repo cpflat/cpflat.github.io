@@ -22,6 +22,7 @@ Okayama University
 - March 2013: Bachelor of Engineering (The University of Tokyo)
 
 ### Membership
+- Association for Computing Machinery (Number: 8865604)
 - Information Processing Society of Japan (Number: 202205265)
 
 ### Related organization
