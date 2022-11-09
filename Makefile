@@ -1,6 +1,6 @@
 # -*- makefile -*-
 
-TARGET = index.html index_ja.html
+TARGET = index.html index_ja.html amulog.html amulog_ja.html
 #TARGET = $(shell ls *.md | sed 's/.md/.html/g')
 MDSCRIPT = $(shell ls *.md)
 
