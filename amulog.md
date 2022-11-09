@@ -1,7 +1,6 @@
 % Amulog project
 
 In [amulog project](https://github.com/amulog), we have constructed a platform for analyzing log data of large-scale systems such as networks.
-Following tools are provided in open-source software.
 
 - Log template generation framework for diverse algorithms ([amulog](https://github.com/amulog/amulog))
 - Log data preprocessing tool for header parsing and word segmentation ([log2seq](https://github.com/amulog/log2seq))
