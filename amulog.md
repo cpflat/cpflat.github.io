@@ -12,8 +12,6 @@ In [amulog project](https://github.com/amulog), we have constructed a platform f
 
 ### Supervised log template generation
 
-1. Satoru Kobayashi, Keiichi Shima, Kenjiro Cho, Osamu Akashi, Kensuke Fukuda, "Comparative Causal Analysis of Network Log Data in Two Large ISPs", In proceedings of the 7th IEEE/IFIP International Workshop on Analytics for Network and Service Management (AnNet 2022), Budapest, Hungary, April, 2022 ([10.1109/NOMS54207.2022.9789823](https://doi.org/10.1109/NOMS54207.2022.9789823), [paper](papers/annet2022.pdf), [slide](papers/annet2022_slide.pdf))
-
 1. Thieu Nguyen, Satoru Kobayashi, Kensuke Fukuda, "LogDTL: Network Log Template Generation with Deep Transfer Learning", In proceesings of the 6th IEEE/IFIP International Workshop on Analytics for Network and Service Management (AnNet 2021), pp.848-853, Virtual, May, 2021 ([IFIP](http://dl.ifip.org/db/conf/im/im2021-ws1-annet/index.html), [IEEE](https://ieeexplore.ieee.org/document/9464068), [paper](papers/thieu_annet2021.pdf), [slide](papers/annet2021.pdf))
 
 1. Satoru Kobayashi, Kensuke Fukuda, Hiroshi Esaki, "Towards an NLP-based Log Template Generation Algorithm for System Log Analysis", In proceedings of the Ninth International Conference on Future Internet Technologies (CFI'14), p.4, Tokyo, Japan, June, 2014 ([10.1145/2619287.2619290](https://doi.org/10.1145/2619287.2619290), [paper](papers/cfi2014.pdf))
