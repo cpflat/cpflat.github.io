@@ -2,7 +2,7 @@
 
 ![](crw_speak_face.jpg)
 
-english / [japanese](index_ja.html)
+[english](./index.html) / [japanese](./index_ja.html)
 
 ## Profile
 
@@ -22,16 +22,18 @@ Okayama University
 - March 2013: Bachelor of Engineering (The University of Tokyo)
 
 ### Membership
-- Association for Computing Machinery (Number: 8865604)
-- Information Processing Society of Japan (Number: 202205265)
+- [ACM](https://www.acm.org/) (ID: 8865604)
+- [IEEE](https://www.ieee.org/) (ID: 98801198)
+- [IPSJ](https://www.ipsj.or.jp/english/index.html) (ID: 202205265)
+- [IEICE](https://www.ieice.org/eng_r/index.html) (ID: 2212090)
 
 ### Related organization
 - [WIDE Project](http://www.wide.ad.jp/index.html)
-- Okayama University, [Yamauchi Lab.](https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index.html)
-- National Institute of Informatics, [Fukuda Lab.](http://www.fukuda-lab.org/)
-- The University of Tokyo, [Esaki Lab.](https://www.hongo.wide.ad.jp/en/)
+- [Yamauchi Lab., Okayama University](https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index.html)
+- [Fukuda Lab., National Institute of Informatics](http://www.fukuda-lab.org/)
+- [Esaki Lab., The University of Tokyo](https://www.hongo.wide.ad.jp/en/)
 
-### Mail
+### E-mail
 - sat [at] okayama-u [dt] ac [dt] jp
 - sat [at] 3at [dt] work
 

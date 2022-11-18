@@ -1,5 +1,7 @@
 % amulogプロジェクト
 
+[english](./amulog.html) / [japanese](amulog_ja.html)
+
 [amulogプロジェクト](https://github.com/amulog)はネットワークをはじめとする大規模システムのログデータを統合的に扱うための解析基盤の構築に取り組んでいます。現在以下の様な機能を持つツールをオープンソースで公開しています。
 
 - 多様なログテンプレート生成手法でのログデータ前処理、蓄積と検索、および比較評価 ([amulog](https://github.com/amulog/amulog))

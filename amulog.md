@@ -1,5 +1,7 @@
 % Amulog project
 
+[english](./amulog.html) / [japanese](./amulog_ja.html)
+
 In [amulog project](https://github.com/amulog), we have constructed a platform for analyzing log data of large-scale systems such as networks.
 
 - Log template generation framework for diverse algorithms ([amulog](https://github.com/amulog/amulog))
