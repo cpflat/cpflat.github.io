@@ -1,6 +1,8 @@
 % amulogプロジェクト
 
-[english](./amulog.html) / [japanese](amulog_ja.html)
+[english](./amulog.html) / [japanese](./amulog_ja.html)
+
+<img src="./amulogo.png" width="200">
 
 [amulogプロジェクト](https://github.com/amulog)はネットワークをはじめとする大規模システムのログデータを統合的に扱うための解析基盤の構築に取り組んでいます。現在以下の様な機能を持つツールをオープンソースで公開しています。
 
@@ -9,6 +11,7 @@
 - ログデータの意味論解析 ([amulog-semantics](https://github.com/amulog/amulog-semantics))
 - ログイベント時系列の因果解析 ([logdag](https://github.com/amulog/logdag))
 
+![](./amulog_implementation_ja.png)
 
 ## これまでの研究テーマ (2022時点)
 

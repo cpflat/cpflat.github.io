@@ -2,6 +2,8 @@
 
 [english](./amulog.html) / [japanese](./amulog_ja.html)
 
+<img src="./amulogo.png" width="200">
+
 In [amulog project](https://github.com/amulog), we have constructed a platform for analyzing log data of large-scale systems such as networks.
 
 - Log template generation framework for diverse algorithms ([amulog](https://github.com/amulog/amulog))
@@ -9,6 +11,7 @@ In [amulog project](https://github.com/amulog), we have constructed a platform f
 - Semantic analysis of log messages ([amulog-semantics](https://github.com/amulog/amulog-semantics))
 - Causal analysis of log time-series ([logdag](https://github.com/amulog/logdag))
 
+![](./amulog_implementation.png)
 
 ## Research topics and performance (2022 ver)
 
