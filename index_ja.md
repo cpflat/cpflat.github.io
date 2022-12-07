@@ -198,6 +198,7 @@ His research interests are network management and data mining.
 - [www.3at.work](http://www.3at.work) is a personal home server
 - [sat.hongo.wide.ad.jp](http://sat.hongo.wide.ad.jp) is a mirror server hosted in [Esaki Lab](http://www.hongo.wide.ad.jp/index.html).
 -->
-- 現在このページはGithub Pagesでホストされています [cpflat.github.io](https://cpflat.github.io)
+- [www.3at.work](http://www.3at.work) はGithub Pagesでホストされています [cpflat.github.io](https://cpflat.github.io)
+- [www.swlab.cs.okayama-u.ac.jp/~sat/](https://www.swlab.cs.okayama-u.ac.jp/~sat/index_ja.html) は[山内研究室@岡山大学]((https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index-j.html))でホストされています
 
 
