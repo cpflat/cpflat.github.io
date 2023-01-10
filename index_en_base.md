@@ -61,6 +61,8 @@ Okayama University
 
 ### Poster Presentation
 
+1. __Satoru Kobayashi__, Ryusei Shiiba, Kensuke Fukuda, "Dot2tinet: A graph-based network configuration platform for large-scale emulation networks", The 17th Asian Internet Engineering Conference (AINTEC 2022), Hiroshima, Japan, Dec 2022
+
 1. Yuya Yamashiro, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Approach to Better Log Template Generation", Internet Conference 2018, Tokyo, Japan, Nov, 2018 ([Poster Award](https://www.internetconference.org/ic2018/program.html#award))
 
 1. Yudai Aratsu, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Collecting a large number of active IPv6 addresses", Internet Conference 2018, Tokyo, Japan, Nov, 2018 ([Poster Award](https://www.internetconference.org/ic2018/program.html#award))
@@ -90,13 +92,19 @@ Okayama University
 
 1. IPSJ Journal Reviewer, 2021-Current
 
+<!--
 ### External Peer Review
 
 1. IEEE Transactions on Network and Service Management, 2019-2022
 
+1. Elsevier Information and Software Technology, 2022
+
+1. 情報処理学会論文誌デジタルプラクティス, 2022
+
 1. IEICE Transactions on Communications, 2018
 
 1. IEEE International Workshop on Big Data Management and Infrastructure for the Internet of Things, 2018
+-->
 
 ### Lecture
 

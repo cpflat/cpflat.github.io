@@ -73,6 +73,8 @@
 
 ### ポスター発表
 
+1. __Satoru Kobayashi__, Ryusei Shiiba, Kensuke Fukuda, "Dot2tinet: A graph-based network configuration platform for large-scale emulation networks", The 17th Asian Internet Engineering Conference (AINTEC 2022), Hiroshima, Japan, Dec 2022
+
 1. Yuya Yamashiro, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Approach to Better Log Template Generation", Internet Conference 2018, Tokyo, Japan, Nov, 2018 ([Poster Award](https://www.internetconference.org/ic2018/program.html#award))
 
 1. Yudai Aratsu, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Collecting a large number of active IPv6 addresses", Internet Conference 2018, Tokyo, Japan, Nov, 2018 ([Poster Award](https://www.internetconference.org/ic2018/program.html#award))
@@ -111,14 +113,6 @@
 
 1. 情報処理学会 論文誌査読委員, 2021年4月以降
 
-### 外部査読
-
-1. IEEE Transactions on Network and Service Management, 2019-2022
-
-1. IEICE Transactions on Communications, 2018
-
-1. IEEE International Workshop on Big Data Management and Infrastructure for the Internet of Things, 2018
-
 ### 講義
 
 - 芝浦工業大学デザイン工学部 情報ネットワーク (冬学期, [2019](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2019/dsn/115765.html.ja), [2020](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2020/dsn/120860.html.ja), [2021](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2021/dsn/126034.html.ja))
@@ -144,6 +138,6 @@ His research interests are network management and data mining.
 - [sat.hongo.wide.ad.jp](http://sat.hongo.wide.ad.jp) is a mirror server hosted in [Esaki Lab](http://www.hongo.wide.ad.jp/index.html).
 -->
 - [www.3at.work](http://www.3at.work) はGithub Pagesでホストされています [cpflat.github.io](https://cpflat.github.io)
-- [www.swlab.cs.okayama-u.ac.jp/~sat/](https://www.swlab.cs.okayama-u.ac.jp/~sat/index_ja.html) は[山内研究室@岡山大学]((https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index-j.html))でホストされています
+- [www.swlab.cs.okayama-u.ac.jp/~sat/](https://www.swlab.cs.okayama-u.ac.jp/~sat/index_ja.html) は[山内研究室@岡山大学](https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index-j.html)でホストされています
 
 
