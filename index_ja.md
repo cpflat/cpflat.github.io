@@ -172,9 +172,11 @@
 
 ### 委員
 
+1. Technical Program Committee, International Workshop on Intent-Based Networking, [2023](http://www.adda-association.org/win-2023/Committees.html)
+
 1. 情報処理学会 論文誌査読委員, 2021年4月以降
 
-### 講義
+### 外部講義
 
 - 芝浦工業大学デザイン工学部 情報ネットワーク (冬学期, [2019](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2019/dsn/115765.html.ja), [2020](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2020/dsn/120860.html.ja), [2021](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2021/dsn/126034.html.ja))
 

@@ -92,6 +92,8 @@ Okayama University
 
 ### Committee
 
+1. Technical Program Committee, International Workshop on Intent-Based Networking, [2023](http://www.adda-association.org/win-2023/Committees.html)
+
 1. IPSJ Journal Reviewer, 2021-Current
 
 <!--
