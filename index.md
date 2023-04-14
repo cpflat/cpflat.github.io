@@ -52,6 +52,10 @@ Okayama University
 
 ### International Conference (w/ review)
 
+1. Toshiki Kawakita, Kimihiro Mizutani, __Satoru Kobayashi__, Kensuke Fukuda, and Osamu Akashi, "An Implementation of Effective Resource Management Scheme Using Deep Reinforcement Learning," in Proceedings of the International Conference on Emerging Technologies for Communications, S8-5, Nov 2022 ([10.34385/proc.72.S8-5](https://doi.org/10.34385/proc.72.S8-5))
+
+1. Masaya Suzuki, Kimihiro Mizutani, __Satoru Kobayashi__, Kensuke Fukuda, and Osamu Akashi, "A Novel Network Configuration Generation Scheme from Network Operator's Intent Described by Natural Language," in Proceedings of the International Conference on Emerging Technologies for Communications, S2-1, p.1, Nov 2022 ([10.34385/proc.72.S2-1](https://doi.org/10.34385/proc.72.S2-1))
+
 1. __Satoru Kobayashi__, Keiichi Shima, Kenjiro Cho, Osamu Akashi, Kensuke Fukuda, "Comparative Causal Analysis of Network Log Data in Two Large ISPs", the 7th IEEE/IFIP International Workshop on Analytics for Network and Service Management (AnNet 2022), Budapest, Hungary, April, 2022 ([10.1109/NOMS54207.2022.9789823](https://doi.org/10.1109/NOMS54207.2022.9789823), [paper](papers/annet2022.pdf), [slide](papers/annet2022_slide.pdf))
 
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Verifying Network Properties in SRv6 based Service Function Chaining" , the 16th Asian Internet Engineering Conference (AINTEC 2021), pp.18-26, Virtual, December, 2021 ([10.1145/3497777.3498546](https://doi.org/10.1145/3497777.3498546))
