@@ -8,7 +8,7 @@
 
 ### Affiliation
 Assistant Professor,
-Graduate School of Natural Science and Technology,
+Fuculty of Environmental, Life, Natural Science and Technology,
 Okayama University
 
 ### Experience
