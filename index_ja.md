@@ -45,7 +45,7 @@
 
 ### 論文誌
 
-1. __Satoru Kobayashi__, Yuya Yamashiro, Kazuki Otomo, Kensuke Fukuda, "amulog: A General Log Analysis Framework for Comparison and Combination of Diverse Template Generation Methods", International Journal of Network Management, vol.32, no.4, Wiley, Dec, 2021 ([10.1002/nem.2195](http://doi.org/10.1002/nem.2195), [submit_version](papers/ijnm2021_submit.pdf))
+1. __Satoru Kobayashi__, Yuya Yamashiro, Kazuki Otomo, Kensuke Fukuda, "amulog: A General Log Analysis Framework for Comparison and Combination of Diverse Template Generation Methods", International Journal of Network Management, Wiley, vol.32, no.4, 2022 ([10.1002/nem.2195](http://doi.org/10.1002/nem.2195), [accepted_version](papers/ijnm2021_accepted.pdf), [submit_version](papers/ijnm2021_submit.pdf))
 
 1. 新津 雄大, __小林 諭__, 福田 健介, 江崎 浩, "大規模IPv6アドレスの収集・分析", 電子情報通信学会論文誌, Vol.J103-B, No.6, pp.223-233, Jun, 2020 ([10.14923/transcomj.2019JBT0002](http://doi.org/10.14923/transcomj.2019JBT0002), [paper](papers/aratsu_ieice2020.pdf))
 
@@ -111,6 +111,8 @@
 1. 大谷航平, __小林諭__, 山内利宏, 谷口秀夫, "VM間通信に対応したKVM上の機密情報の拡散追跡機能の実現", 第100回コンピュータセキュリティ研究発表会, 情報処理学会研究報告, 2023年3月 ([link](http://id.nii.ac.jp/1001/00224698/))
 
 1. 西本伊織, __小林諭__, 山内利宏, 加藤純, 佐藤充, 谷口秀夫, "HPCクラウドにおける割り込み処理によるOSノイズの評価", 第158回システムソフトウェアとオペレーティング・システム研究会, 情報処理学会研究報告, 2023年2月 ([link](http://id.nii.ac.jp/1001/00224198/))
+
+1. 花光 大輔, 水谷 后宏, 小林 諭, 福田 健介, 明石 修, "ネットワークコンフィグの潜在的特徴抽出手法の提案と評価", 情報処理学会関西支部 支部大会 講演論文集, G-02, 2022年9月 ([link](http://id.nii.ac.jp/1001/00223956/))
 
 1. __小林 諭__, 福田 健介, "ネットワーク運用自動化のための運用データ連携解析の検討", 信学技報, vol. 122, no. 85, IA2022-1, pp. 1-7, 2022年6月 ([link](https://www.ieice.org/ken/paper/20220623nCKR/), [slide](papers/ia2022_slide.pdf))
 
