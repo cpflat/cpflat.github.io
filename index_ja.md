@@ -55,6 +55,8 @@
 
 ### 国際会議
 
+1. __Satoru Kobayashi__, Ryusei Shiiba, Ryosuke Miura, Shinsuke Miwa, Toshiyuki Miyachi, and Kensuke Fukuda, "dot2net: A labeled graph approach for template-based configuration of emulation networks", in Proceedings of the 19th International Conference on Network and Service Management (CNSM 2023), Niagara Falls, Canada, Oct 2023 (To appear)
+
 1. Toshiki Kawakita, Kimihiro Mizutani, __Satoru Kobayashi__, Kensuke Fukuda, and Osamu Akashi, "An Implementation of Effective Resource Management Scheme Using Deep Reinforcement Learning," in Proceedings of the International Conference on Emerging Technologies for Communications, S8-5, Nov 2022 ([10.34385/proc.72.S8-5](https://doi.org/10.34385/proc.72.S8-5))
 
 1. Masaya Suzuki, Kimihiro Mizutani, __Satoru Kobayashi__, Kensuke Fukuda, and Osamu Akashi, "A Novel Network Configuration Generation Scheme from Network Operator's Intent Described by Natural Language," in Proceedings of the International Conference on Emerging Technologies for Communications, S2-1, p.1, Nov 2022 ([10.34385/proc.72.S2-1](https://doi.org/10.34385/proc.72.S2-1))
