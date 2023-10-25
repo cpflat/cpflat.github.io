@@ -52,11 +52,17 @@ Okayama University
 
 ### International Conference (w/ review)
 
-1. __Satoru Kobayashi__, Ryusei Shiiba, Ryosuke Miura, Shinsuke Miwa, Toshiyuki Miyachi, and Kensuke Fukuda, "dot2net: A labeled graph approach for template-based configuration of emulation networks", in Proceedings of the 19th International Conference on Network and Service Management (CNSM 2023), Niagara Falls, Canada, Oct 2023 (To appear)
+1. Colin Regal-Mezin, __Satoru Kobayashi__, Toshihiro Yamauchi, "netroub: Towards an Emulation Platform for Network Trouble Scenarios", in Proceedings of the 19th International Conference on emerging Networking EXperiments and Technologies (CoNEXT'23) student workshop, p.2, Paris, France, Dec 2023 (To appear)
 
-1. Toshiki Kawakita, Kimihiro Mizutani, __Satoru Kobayashi__, Kensuke Fukuda, and Osamu Akashi, "An Implementation of Effective Resource Management Scheme Using Deep Reinforcement Learning," in Proceedings of the International Conference on Emerging Technologies for Communications, S8-5, Nov 2022 ([10.34385/proc.72.S8-5](https://doi.org/10.34385/proc.72.S8-5))
+1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Evaluation of Effectiveness of MAC Systems Based on LSM for Protecting IoT Devices", in Proceedings of the 11th International Symposium on Computing and Networking (CANDAR 2023), p.7, Matsue, Japan, Nov 2023 (To appear)
 
-1. Masaya Suzuki, Kimihiro Mizutani, __Satoru Kobayashi__, Kensuke Fukuda, and Osamu Akashi, "A Novel Network Configuration Generation Scheme from Network Operator's Intent Described by Natural Language," in Proceedings of the International Conference on Emerging Technologies for Communications, S2-1, p.1, Nov 2022 ([10.34385/proc.72.S2-1](https://doi.org/10.34385/proc.72.S2-1))
+1. Hervet Victor, __Satoru Kobayashi__, Toshihiro Yamauchi, "Analyzing Post-injection Attacker Activities in IoT Devices: A Comprehensive Log Analysis Approach", in Proceedings of the 10th International Workshop on Information and Communication Security (WICS 2023), p.6, Matsue, Japan, Nov 2023 (To appear)
+
+1. __Satoru Kobayashi__, Ryusei Shiiba, Ryosuke Miura, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "dot2net: A labeled graph approach for template-based configuration of emulation networks", in Proceedings of the 19th International Conference on Network and Service Management (CNSM 2023), pp.319-327, Niagara Falls, Canada, Oct 2023 (To appear)
+
+1. Toshiki Kawakita, Kimihiro Mizutani, __Satoru Kobayashi__, Kensuke Fukuda, Osamu Akashi, "An Implementation of Effective Resource Management Scheme Using Deep Reinforcement Learning," in Proceedings of the International Conference on Emerging Technologies for Communications, S8-5, Nov 2022 ([10.34385/proc.72.S8-5](https://doi.org/10.34385/proc.72.S8-5))
+
+1. Masaya Suzuki, Kimihiro Mizutani, __Satoru Kobayashi__, Kensuke Fukuda, Osamu Akashi, "A Novel Network Configuration Generation Scheme from Network Operator's Intent Described by Natural Language," in Proceedings of the International Conference on Emerging Technologies for Communications, S2-1, p.1, Nov 2022 ([10.34385/proc.72.S2-1](https://doi.org/10.34385/proc.72.S2-1))
 
 1. __Satoru Kobayashi__, Keiichi Shima, Kenjiro Cho, Osamu Akashi, Kensuke Fukuda, "Comparative Causal Analysis of Network Log Data in Two Large ISPs", the 7th IEEE/IFIP International Workshop on Analytics for Network and Service Management (AnNet 2022), Budapest, Hungary, April, 2022 ([10.1109/NOMS54207.2022.9789823](https://doi.org/10.1109/NOMS54207.2022.9789823), [paper](papers/annet2022.pdf), [slide](papers/annet2022_slide.pdf))
 
@@ -127,6 +133,8 @@ Okayama University
 1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Design and Implementation of IPv6 Scan Detection System", IEICE General Conference, Omiya, 2023年3月
 
 1. __Satoru Kobayashi__, Ryusei Shiiba, Kensuke Fukuda, "Dot2tinet: A graph-based network configuration platform for large-scale emulation networks", The 17th Asian Internet Engineering Conference (AINTEC 2022), Hiroshima, Japan, Dec 2022
+
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Toward a compositional data plane verification for large-scale networks", The 17th Asian Internet Engineering Conference (AINTEC 2022), Hiroshima, Japan, Dec 2022
 
 1. Yuya Yamashiro, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Approach to Better Log Template Generation", Internet Conference 2018, Tokyo, Japan, Nov, 2018 ([Poster Award](https://www.internetconference.org/ic2018/program.html#award))
 
