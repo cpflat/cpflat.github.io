@@ -57,6 +57,8 @@
 
 ### 査読なし国内会議
 
+1. 佐治和馬, 山内利宏, __小林諭__, 谷口秀夫, "実行ファイルにおける関数配置順序のランダム化によるコード再利用攻撃への耐性向上手法の提案", コンピュータセキュリティシンポジウム2023 (CSS2023) 論文集, vol.2023, pp.1357-1364, 福岡, 2023年11月 (to appear)
+
 1. 明石 修, 水谷 后宏, __小林 諭__, 福田 健介, "ネットワーク管理ワークフローの自動実行機構の提案", 情報処理学会第83回全国大会, pp.3-33 -- 3-34, オンライン, 2021年3月
 
 1. __小林 諭__, 江崎 浩, "CLI環境におけるオペレーションミス低減手法の検討と実装", 電子情報通信学会総合大会, p.1, 岐阜, 2013年3月
@@ -94,9 +96,11 @@
 
 ### 受賞
 
-1. 徳備彩人, 大友 一樹, __小林 諭__, 福田 健介, 江崎 浩, 電子情報通信学会インターネットアーキテクチャ研究会IA研究賞(優秀研究賞) "ネットワークログデータへの自動文書ラベリングの提案", Jun, 2021
+1. 佐治和馬, 山内利宏, __小林諭__, 谷口秀夫, コンピュータセキュリティシンポジウム2023 CSS奨励賞 "実行ファイルにおける関数配置順序のランダム化によるコード再利用攻撃への耐性向上手法の提案", 2023年11月
 
-1. 新津 雄大, __小林 諭__, 福田 健介, 江崎 浩, 電子情報通信学会インターネットアーキテクチャ研究会IA研究賞(優秀研究賞) "大規模IPv6アドレス収集手法に関する検討", Jun, 2019
+1. 徳備彩人, 大友 一樹, __小林 諭__, 福田 健介, 江崎 浩, 電子情報通信学会インターネットアーキテクチャ研究会IA研究賞(優秀研究賞) "ネットワークログデータへの自動文書ラベリングの提案", 2021年6月
+
+1. 新津 雄大, __小林 諭__, 福田 健介, 江崎 浩, 電子情報通信学会インターネットアーキテクチャ研究会IA研究賞(優秀研究賞) "大規模IPv6アドレス収集手法に関する検討", 2019年6月
 
 1. IEEE/IFIP IM 2017 Student Travel Grants, May, 2017
 
@@ -132,16 +136,12 @@
 - Bio 
 ```
 Satoru Kobayashi received the Ph.D. degree in information science and technology from the University of Tokyo, Tokyo Japan, in 2018.
-He is a Project Researcher at the National Institute of Informatics (NII).
+He is an Assistant Professor at Fuculty of Environmental, Life, Natural Science and Technology, Okayama University.
 His research interests are network management and data mining.
 ```
 
 ## このページについて
 
-<!--
-- [www.3at.work](http://www.3at.work) is a personal home server
-- [sat.hongo.wide.ad.jp](http://sat.hongo.wide.ad.jp) is a mirror server hosted in [Esaki Lab](http://www.hongo.wide.ad.jp/index.html).
--->
 - [www.3at.work](http://www.3at.work) はGithub Pagesでホストされています [cpflat.github.io](https://cpflat.github.io)
 - [www.swlab.cs.okayama-u.ac.jp/~sat/](https://www.swlab.cs.okayama-u.ac.jp/~sat/index_ja.html) は[山内研究室@岡山大学](https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index-j.html)でホストされています
 

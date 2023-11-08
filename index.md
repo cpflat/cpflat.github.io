@@ -8,7 +8,7 @@
 
 ### Affiliation
 Assistant Professor,
-Fuculty of Environmental, Life, Natural Science and Technology,
+Faculty of Environmental, Life, Natural Science and Technology,
 Okayama University
 
 ### Experience
@@ -195,16 +195,12 @@ Okayama University
 - Bio
 ```
 Satoru Kobayashi received the Ph.D. degree in information science and technology from the University of Tokyo, Tokyo Japan, in 2018.
-He is a Project Researcher at the National Institute of Informatics (NII).
+He is an Assistant Professor at Fuculty of Environmental, Life, Natural Science and Technology, Okayama University.
 His research interests are network management and data mining.
 ```
 
 ## About this page
 
-<!--
-- [www.3at.work](http://www.3at.work) is a personal home server
-- [sat.hongo.wide.ad.jp](http://sat.hongo.wide.ad.jp) is a mirror server hosted in [Esaki Lab](http://www.hongo.wide.ad.jp/index.html).
--->
 - [www.3at.work](http://www.3at.work) is hosted on Github Pages. [cpflat.github.io](https://cpflat.github.io)
 - [www.swlab.cs.okayama-u.ac.jp/~sat/](https://www.swlab.cs.okayama-u.ac.jp/~sat/index.html) is hosted on [Yamauchi Lab.](https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index.html) servers.
 
