@@ -136,7 +136,7 @@
 - Bio 
 ```
 Satoru Kobayashi received the Ph.D. degree in information science and technology from the University of Tokyo, Tokyo Japan, in 2018.
-He is an Assistant Professor at Fuculty of Environmental, Life, Natural Science and Technology, Okayama University.
+He is an Assistant Professor at Faculty of Environmental, Life, Natural Science and Technology, Okayama University.
 His research interests are network management and data mining.
 ```
 
