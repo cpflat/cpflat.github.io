@@ -57,7 +57,7 @@
 
 ### 査読なし国内会議
 
-1. 佐治和馬, 山内利宏, __小林諭__, 谷口秀夫, "実行ファイルにおける関数配置順序のランダム化によるコード再利用攻撃への耐性向上手法の提案", コンピュータセキュリティシンポジウム2023 (CSS2023) 論文集, vol.2023, pp.1357-1364, 福岡, 2023年11月 (to appear)
+1. 佐治和馬, 山内利宏, __小林諭__, 谷口秀夫, "実行ファイルにおける関数配置順序のランダム化によるコード再利用攻撃への耐性向上手法の提案", コンピュータセキュリティシンポジウム2023 (CSS2023) 論文集, vol.2023, pp.1357-1364, 福岡, 2023年11月
 
 1. 明石 修, 水谷 后宏, __小林 諭__, 福田 健介, "ネットワーク管理ワークフローの自動実行機構の提案", 情報処理学会第83回全国大会, pp.3-33 -- 3-34, オンライン, 2021年3月
 
@@ -76,21 +76,12 @@
 
 ### ポスター発表
 
-1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Design and Implementation of IPv6 Scan Detection System", 電子情報通信学会総合大会, 大宮, 2023年3月
-
-1. __Satoru Kobayashi__, Ryusei Shiiba, Kensuke Fukuda, "Dot2tinet: A graph-based network configuration platform for large-scale emulation networks", The 17th Asian Internet Engineering Conference (AINTEC 2022), Hiroshima, Japan, Dec 2022
-
-1. Yuya Yamashiro, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Approach to Better Log Template Generation", Internet Conference 2018, Tokyo, Japan, Nov, 2018 ([Poster Award](https://www.internetconference.org/ic2018/program.html#award))
-
-1. Yudai Aratsu, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Collecting a large number of active IPv6 addresses", Internet Conference 2018, Tokyo, Japan, Nov, 2018 ([Poster Award](https://www.internetconference.org/ic2018/program.html#award))
-
-1. __小林 諭__, 福田 健介, 江崎 浩, "システムログの意味抽出のための自然言語処理的アプローチによる解析手法の検討", インターネットコンファレンス2013, p.2, 東京, 2013年10月
+<<< ./list_poster_ja.md
 
 
 ### 博士論文
 
 - 小林 諭, "ネットワークログの因果解析による障害の原因究明支援技術に関する研究", 2018年3月 ([thesis](papers/dthesis.pdf))
-
 
 ## 活動
 
@@ -116,11 +107,20 @@
 
 1. 科研費若手研究, "トラブルシューティング・予測のための大規模ネットワークシステムログからの知識抽出", 2019年4月-2021年3月 ([19K20262](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K20262/), 研究代表者)
 
-### 委員
+### 委員(国内)
+
+1. 情報処理学会中国支部運営委員, 2023年4月-2025年3月 ([url](https://www.ipsj-chugoku.jp/))
+
+1. 情報処理学会 論文誌査読委員, 2021年4月-現在
+
+### 委員(国外)
+
+1. Student Travel Awards chair, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees)
+
+1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees)
 
 1. Technical Program Committee, International Workshop on Intent-Based Networking, [2023](http://www.adda-association.org/win-2023/Committees.html)
 
-1. 情報処理学会 論文誌査読委員, 2021年4月以降
 
 ### 外部講義
 

@@ -57,11 +57,11 @@
 
 1. Colin Regal-Mezin, __Satoru Kobayashi__, Toshihiro Yamauchi, "netroub: Towards an Emulation Platform for Network Trouble Scenarios", in Proceedings of the 19th International Conference on emerging Networking EXperiments and Technologies (CoNEXT'23) student workshop, p.2, Paris, France, Dec 2023 (To appear)
 
-1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Evaluation of Effectiveness of MAC Systems Based on LSM for Protecting IoT Devices", in Proceedings of the 11th International Symposium on Computing and Networking (CANDAR 2023), p.7, Matsue, Japan, Nov 2023 (To appear)
+1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Evaluation of Effectiveness of MAC Systems Based on LSM for Protecting IoT Devices", in Proceedings of the 11th International Symposium on Computing and Networking (CANDAR 2023), p.7, Matsue, Japan, Nov 2023 ([10.1109/CANDAR60563.2023.00029](https://doi.org/10.1109/CANDAR60563.2023.00029))
 
-1. Hervet Victor, __Satoru Kobayashi__, Toshihiro Yamauchi, "Analyzing Post-injection Attacker Activities in IoT Devices: A Comprehensive Log Analysis Approach", in Proceedings of the 10th International Workshop on Information and Communication Security (WICS 2023), p.6, Matsue, Japan, Nov 2023 (To appear)
+1. Hervet Victor, __Satoru Kobayashi__, Toshihiro Yamauchi, "Analyzing Post-injection Attacker Activities in IoT Devices: A Comprehensive Log Analysis Approach", in Proceedings of the 2023 Eleventh International Symposium on Computing and Networking Workshops (CANDARW), presented in the 10th International Workshop on Information and Communication Security (WICS 2023), p.6, Matsue, Japan, Nov 2023 ([10.1109/CANDARW60564.2023.00055](https://doi.org/10.1109/CANDARW60564.2023.00055))
 
-1. __Satoru Kobayashi__, Ryusei Shiiba, Ryosuke Miura, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "dot2net: A labeled graph approach for template-based configuration of emulation networks", in Proceedings of the 19th International Conference on Network and Service Management (CNSM 2023), pp.319-327, Niagara Falls, Canada, Oct 2023 (To appear)
+1. __Satoru Kobayashi__, Ryusei Shiiba, Ryosuke Miura, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "dot2net: A labeled graph approach for template-based configuration of emulation networks", in Proceedings of the 19th International Conference on Network and Service Management (CNSM 2023), pp.319-327, Niagara Falls, Canada, Oct 2023 ([paper](papers/cnsm2023.pdf), [slide](papers/cnsm2023_slide.pdf))
 
 1. Toshiki Kawakita, Kimihiro Mizutani, __Satoru Kobayashi__, Kensuke Fukuda, Osamu Akashi, "An Implementation of Effective Resource Management Scheme Using Deep Reinforcement Learning," in Proceedings of the International Conference on Emerging Technologies for Communications, S8-5, Nov 2022 ([10.34385/proc.72.S8-5](https://doi.org/10.34385/proc.72.S8-5))
 
@@ -110,15 +110,13 @@
 
 ### 査読なし国内会議
 
-1. 佐治和馬, 山内利宏, __小林諭__, 谷口秀夫, "実行ファイルにおける関数配置順序のランダム化によるコード再利用攻撃への耐性向上手法の提案", コンピュータセキュリティシンポジウム2023 (CSS2023) 論文集, vol.2023, pp.1357-1364, 福岡, 2023年11月 (to appear)
+1. 佐治和馬, 山内利宏, __小林諭__, 谷口秀夫, "実行ファイルにおける関数配置順序のランダム化によるコード再利用攻撃への耐性向上手法の提案", コンピュータセキュリティシンポジウム2023 (CSS2023) 論文集, vol.2023, pp.1357-1364, 福岡, 2023年11月
 
 1. 明石 修, 水谷 后宏, __小林 諭__, 福田 健介, "ネットワーク管理ワークフローの自動実行機構の提案", 情報処理学会第83回全国大会, pp.3-33 -- 3-34, オンライン, 2021年3月
 
 1. __小林 諭__, 江崎 浩, "CLI環境におけるオペレーションミス低減手法の検討と実装", 電子情報通信学会総合大会, p.1, 岐阜, 2013年3月
 
 ### 技術報告
-
-1. 佐治和馬, 山内利宏, __小林諭__, 谷口秀夫, "実行ファイルにおける関数配置順序のランダム化によるコード再利用攻撃への耐性向上手法の提案", コンピュータセキュリティシンポジウム2023, 2023年11月 (to appear)
 
 1. 大谷航平, __小林諭__, 山内利宏, 谷口秀夫, "VM間通信に対応したKVM上の機密情報の拡散追跡機能の実現", 第100回コンピュータセキュリティ研究発表会, 情報処理学会研究報告, 2023年3月 ([link](http://id.nii.ac.jp/1001/00224698/))
 
@@ -155,6 +153,8 @@
 
 1. __Satoru Kobayashi__, Ryusei Shiiba, Kensuke Fukuda, "Dot2tinet: A graph-based network configuration platform for large-scale emulation networks", The 17th Asian Internet Engineering Conference (AINTEC 2022), Hiroshima, Japan, Dec 2022
 
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Toward a compositional data plane verification for large-scale networks", The 17th Asian Internet Engineering Conference (AINTEC 2022), Hiroshima, Japan, Dec 2022
+
 1. Yuya Yamashiro, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Approach to Better Log Template Generation", Internet Conference 2018, Tokyo, Japan, Nov, 2018 ([Poster Award](https://www.internetconference.org/ic2018/program.html#award))
 
 1. Yudai Aratsu, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Collecting a large number of active IPv6 addresses", Internet Conference 2018, Tokyo, Japan, Nov, 2018 ([Poster Award](https://www.internetconference.org/ic2018/program.html#award))
@@ -165,7 +165,6 @@
 ### 博士論文
 
 - 小林 諭, "ネットワークログの因果解析による障害の原因究明支援技術に関する研究", 2018年3月 ([thesis](papers/dthesis.pdf))
-
 
 ## 活動
 
@@ -191,11 +190,20 @@
 
 1. 科研費若手研究, "トラブルシューティング・予測のための大規模ネットワークシステムログからの知識抽出", 2019年4月-2021年3月 ([19K20262](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K20262/), 研究代表者)
 
-### 委員
+### 委員(国内)
+
+1. 情報処理学会中国支部運営委員, 2023年4月-2025年3月 ([url](https://www.ipsj-chugoku.jp/))
+
+1. 情報処理学会 論文誌査読委員, 2021年4月-現在
+
+### 委員(国外)
+
+1. Student Travel Awards chair, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees)
+
+1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees)
 
 1. Technical Program Committee, International Workshop on Intent-Based Networking, [2023](http://www.adda-association.org/win-2023/Committees.html)
 
-1. 情報処理学会 論文誌査読委員, 2021年4月以降
 
 ### 外部講義
 
