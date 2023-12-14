@@ -55,7 +55,7 @@
 
 ### 国際会議
 
-1. Colin Regal-Mezin, __Satoru Kobayashi__, Toshihiro Yamauchi, "netroub: Towards an Emulation Platform for Network Trouble Scenarios", in Proceedings of the 19th International Conference on emerging Networking EXperiments and Technologies (CoNEXT'23) student workshop, p.2, Paris, France, Dec 2023 (To appear)
+1. Colin Regal-Mezin, __Satoru Kobayashi__, Toshihiro Yamauchi, "netroub: Towards an Emulation Platform for Network Trouble Scenarios", in Proceedings of the CoNEXT Student Workshop 2023 (CoNEXT-SW '23), ACM SIGCOMM, pp. 17-18, Paris, France, Dec 2023 ([10.1145/3630202.3630222](https://doi.org/10.1145/3630202.3630222))
 
 1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Evaluation of Effectiveness of MAC Systems Based on LSM for Protecting IoT Devices", in Proceedings of the 11th International Symposium on Computing and Networking (CANDAR 2023), p.7, Matsue, Japan, Nov 2023 ([10.1109/CANDAR60563.2023.00029](https://doi.org/10.1109/CANDAR60563.2023.00029))
 
@@ -206,6 +206,8 @@
 
 
 ### 外部講義
+
+- 岡山大学での講義情報は[こちら](https://soran.cc.okayama-u.ac.jp/html/f5c5f5b65f24e484d077bc38d49d4023_en.html)
 
 - 芝浦工業大学デザイン工学部 情報ネットワーク (冬学期, [2019](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2019/dsn/115765.html.ja), [2020](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2020/dsn/120860.html.ja), [2021](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2021/dsn/126034.html.ja))
 
