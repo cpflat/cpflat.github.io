@@ -124,7 +124,7 @@
 
 ### 外部講義
 
-- 岡山大学での講義情報は[こちら](https://soran.cc.okayama-u.ac.jp/html/f5c5f5b65f24e484d077bc38d49d4023_en.html)
+- 岡山大学での講義情報は[こちら](https://soran.cc.okayama-u.ac.jp/html/f5c5f5b65f24e484d077bc38d49d4023_ja.html)
 
 - 芝浦工業大学デザイン工学部 情報ネットワーク (冬学期, [2019](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2019/dsn/115765.html.ja), [2020](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2020/dsn/120860.html.ja), [2021](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2021/dsn/126034.html.ja))
 
