@@ -1,3 +1,5 @@
+1. __Satoru Kobayashi__, Hironori Ishii, Toshihiro Yamauchi, Osamu Akashi, Kensuke Fukuda, "Towards Interactive Causal Analysis of Network Logs", IEICE Technical Report, Mar 2024 (To appear)
+
 1. Kohei Otani, __Satoru Kobayashi__, Toshihiro Yamauchi, Hideo Taniguchi, "Implementation of Function for Tracing Diffusion of Classified Information to Support Inter-VM Communication on KVM", IPSJ SIG Technical Report, 2023-CSEC-100, no. 62, pp. 1-8, Mar 2023
 
 1. __Satoru Kobayashi__, Kensuke Fukuda, "Towards a Collaborative Operational Data Analysis for Automated Network Management", IEICE Technical Report, vol. 122, no. 85, IA2022-1, pp. 1-7, Jun 2022 ([link](https://www.ieice.org/ken/paper/20220623nCKR/))
