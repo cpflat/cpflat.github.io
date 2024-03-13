@@ -55,7 +55,7 @@
 
 ### 国際会議
 
-1. Liang Zhao, Satoru Kobayashi, Kensuke Fukuda, "Exploring the Discovery Process of Fresh IPv6 Prefixes: An Analysis of Scanning Behavior in Darknet and Honeynet," Passive and Active Measurement Conference (PAM 2024), Lecture Notes in Computer Science(LNCS), Springer, Mar 2024 (To appear)
+1. Liang Zhao, Satoru Kobayashi, Kensuke Fukuda, "Exploring the Discovery Process of Fresh IPv6 Prefixes: An Analysis of Scanning Behavior in Darknet and Honeynet," Passive and Active Measurement Conference (PAM 2024), Lecture Notes in Computer Science(LNCS), Springer, Mar 2024 ([paper](https://pam2024.cs.northwestern.edu/pdfs/paper-15.pdf))
 
 1. Colin Regal-Mezin, __Satoru Kobayashi__, Toshihiro Yamauchi, "netroub: Towards an Emulation Platform for Network Trouble Scenarios", in Proceedings of the CoNEXT Student Workshop 2023 (CoNEXT-SW '23), ACM SIGCOMM, pp. 17-18, Paris, France, Dec 2023 ([10.1145/3630202.3630222](https://doi.org/10.1145/3630202.3630222))
 
@@ -122,9 +122,9 @@
 
 1. 大野 裕美子, 山内 利宏, __小林 諭__, 谷口秀夫, "シグナル受信処理の即時実行開始手法", 情報処理学会第86回全国大会，情報処理学会第86回全国大会講演論文集, 2024年3月 (掲載予定)
 
-1. __小林諭__, 石井 宏典, 山内 利宏, 明石 修, 福田 健介, "ネットワークログの対話的因果解析の検討", インターネットアーキテクチャ研究会, 信学技報, 2024年3月 (掲載予定)
+1. __小林諭__, 石井 宏典, 山内 利宏, 明石 修, 福田 健介, "ネットワークログの対話的因果解析の検討", インターネットアーキテクチャ研究会, 信学技報, 2024年3月 ([link(IEICE)](https://ken.ieice.org/ken/paper/202403135c1v/), [link(IPSJ)](http://id.nii.ac.jp/1001/00232970/))
 
-1. 石井 宏典, __小林 諭__, 福田 健介, 山内 利宏, "ネットワークログ解析におけるイベント間因果情報可視化の検討", 電子情報通信学会総合大会, 2024年3月 (掲載予定)
+1. 石井 宏典, __小林 諭__, 福田 健介, 山内 利宏, "ネットワークログ解析におけるイベント間因果情報可視化の検討", 電子情報通信学会総合大会, B-7-25, 2024年3月 ([link](https://pub.confit.atlas.jp/ja/event/general2024/presentation/B-7-25))
 
 1. 西本 伊織, 山内 利宏, __小林 諭__, 加藤 純, 三輪 真弘, 谷口 秀夫, "HPCにおけるGang Schedulingの切替間隔動的変更手法", 第162回システムソフトウェアとオペレーティング・システム研究発表会, 情報処理学会研究報告, 2024年2月 ([link](http://id.nii.ac.jp/1001/00232270/))
 
