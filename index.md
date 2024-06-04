@@ -37,6 +37,14 @@ Okayama University
 - sat [at] okayama-u [dt] ac [dt] jp
 - sat [at] 3at [dt] work
 
+
+## Main research topics
+
+1. [amulog (Automated network log analysis)](./amulog_ja.html)
+2. [netroub (Synthetic data collection platform based on emulation networks)](https://github.com/3atlab/netroub)
+3. [dot2net (Topology-driven emulation network configuraion platform)](https://github.com/cpflat/dot2net)
+
+
 ## Publications
 
 ### Journal

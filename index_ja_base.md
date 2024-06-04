@@ -37,6 +37,14 @@
 - sat [at] okayama-u [dt] ac [dt] jp
 - sat [at] 3at [dt] work
 
+
+## 主な研究トピック
+
+1. [amulog (ネットワークログの自動解析)](./amulog_ja.html)
+2. [netroub (擬似運用データの収集基盤)](https://github.com/3atlab/netroub)
+3. [dot2net (トポロジ駆動型の模倣ネットワーク統合設定基盤)](https://github.com/cpflat/dot2net)
+
+
 ## 業績
 
 <!-- 信学会: copyright表示の付いた出版社版を使うこと https://www.ieice.org/jpn/copyright/faq.html -->
