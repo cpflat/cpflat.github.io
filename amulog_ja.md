@@ -13,7 +13,7 @@
 
 ![](./amulog_implementation_ja.png)
 
-## これまでの研究テーマ (2022時点)
+## これまでの研究テーマ (2024年時点)
 
 ### 教師あり学習によるログテンプレート生成技術の研究
 
@@ -42,6 +42,8 @@
 1. Kazuki Otomo, Satoru Kobayashi, Kensuke Fukuda, Hiroshi Esaki, "An Analysis of Burstiness and Causality of System Logs", Asian Internet Engineering Conference (AINTEC'17), pp.16-23, Bangkok, Thailand, November, 2017 ([10.1145/3154970.3154973](https://doi.org/10.1145/3154970.3154973), [paper](papers/otomo_aintec2017.pdf))
 
 ### ログイベント時系列の因果解析に関する研究
+
+1. __小林 諭__, 石井 宏典, 山内 利宏, 明石 修, 福田 健介, "ネットワークログの対話的因果解析の検討", インターネットアーキテクチャ研究会, 信学技報, vol.123, no.422, IA2023-111, pp.233-240, 2024年3月 ([link](https://ken.ieice.org/ken/paper/202403135c1v/), [slide](papers/sat_ia202403_slide.pdf))
 
 1. Satoru Kobayashi, Keiichi Shima, Kenjiro Cho, Osamu Akashi, Kensuke Fukuda, "Comparative Causal Analysis of Network Log Data in Two Large ISPs", In proceedings of the 7th IEEE/IFIP International Workshop on Analytics for Network and Service Management (AnNet 2022), Budapest, Hungary, April, 2022 ([10.1109/NOMS54207.2022.9789823](https://doi.org/10.1109/NOMS54207.2022.9789823), [paper](papers/annet2022.pdf), [slide](papers/annet2022_slide.pdf))
 

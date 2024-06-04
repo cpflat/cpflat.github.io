@@ -52,13 +52,13 @@ Okayama University
 
 ### International Conference (w/ review)
 
-1. Liang Zhao, Satoru Kobayashi, Kensuke Fukuda, "Exploring the Discovery Process of Fresh IPv6 Prefixes: An Analysis of Scanning Behavior in Darknet and Honeynet," Passive and Active Measurement Conference (PAM 2024), Lecture Notes in Computer Science(LNCS), Springer, vol.14537, pp.95-111, Mar 2024 ([10.1007/978-3-031-56249-5_4](https://doi.org/10.1007/978-3-031-56249-5_4), [paper](https://pam2024.cs.northwestern.edu/pdfs/paper-15.pdf))
+1. Liang Zhao, Satoru Kobayashi, Kensuke Fukuda, "Exploring the Discovery Process of Fresh IPv6 Prefixes: An Analysis of Scanning Behavior in Darknet and Honeynet," Passive and Active Measurement Conference (PAM 2024), Lecture Notes in Computer Science (LNCS), Springer, vol.14537, pp.95-111, Mar 2024 ([10.1007/978-3-031-56249-5_4](https://doi.org/10.1007/978-3-031-56249-5_4), [paper](https://pam2024.cs.northwestern.edu/pdfs/paper-15.pdf))
 
 1. Colin Regal-Mezin, __Satoru Kobayashi__, Toshihiro Yamauchi, "netroub: Towards an Emulation Platform for Network Trouble Scenarios", in Proceedings of the CoNEXT Student Workshop 2023 (CoNEXT-SW '23), ACM SIGCOMM, pp.17-18, Paris, France, Dec 2023 ([10.1145/3630202.3630222](https://doi.org/10.1145/3630202.3630222))
 
-1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Evaluation of Effectiveness of MAC Systems Based on LSM for Protecting IoT Devices", in Proceedings of the 11th International Symposium on Computing and Networking (CANDAR 2023), p.7, Matsue, Japan, Nov 2023 ([10.1109/CANDAR60563.2023.00029](https://doi.org/10.1109/CANDAR60563.2023.00029))
+1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Evaluation of Effectiveness of MAC Systems Based on LSM for Protecting IoT Devices", in Proceedings of the 11th International Symposium on Computing and Networking (CANDAR 2023), p.161-167, Matsue, Japan, Nov 2023 ([10.1109/CANDAR60563.2023.00029](https://doi.org/10.1109/CANDAR60563.2023.00029))
 
-1. Hervet Victor, __Satoru Kobayashi__, Toshihiro Yamauchi, "Analyzing Post-injection Attacker Activities in IoT Devices: A Comprehensive Log Analysis Approach", in Proceedings of the 2023 Eleventh International Symposium on Computing and Networking Workshops (CANDARW), presented in the 10th International Workshop on Information and Communication Security (WICS 2023), p.6, Matsue, Japan, Nov 2023 ([10.1109/CANDARW60564.2023.00055](https://doi.org/10.1109/CANDARW60564.2023.00055))
+1. Hervet Victor, __Satoru Kobayashi__, Toshihiro Yamauchi, "Analyzing Post-injection Attacker Activities in IoT Devices: A Comprehensive Log Analysis Approach", in Proceedings of the 2023 Eleventh International Symposium on Computing and Networking Workshops (CANDARW), presented in the 10th International Workshop on Information and Communication Security (WICS 2023), p.292-297, Matsue, Japan, Nov 2023 ([10.1109/CANDARW60564.2023.00055](https://doi.org/10.1109/CANDARW60564.2023.00055))
 
 1. __Satoru Kobayashi__, Ryusei Shiiba, Ryosuke Miura, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "dot2net: A labeled graph approach for template-based configuration of emulation networks", in Proceedings of the 19th International Conference on Network and Service Management (CNSM 2023), pp.319-327, Niagara Falls, Canada, Oct 2023 ([10.23919/CNSM59352.2023.10327865](https://doi.org/10.23919/CNSM59352.2023.10327865), [paper](papers/cnsm2023.pdf), [slide](papers/cnsm2023_slide.pdf))
 
@@ -66,7 +66,7 @@ Okayama University
 
 1. Masaya Suzuki, Kimihiro Mizutani, __Satoru Kobayashi__, Kensuke Fukuda, Osamu Akashi, "A Novel Network Configuration Generation Scheme from Network Operator's Intent Described by Natural Language," in Proceedings of the International Conference on Emerging Technologies for Communications, S2-1, p.1, Nov 2022 ([10.34385/proc.72.S2-1](https://doi.org/10.34385/proc.72.S2-1))
 
-1. __Satoru Kobayashi__, Keiichi Shima, Kenjiro Cho, Osamu Akashi, Kensuke Fukuda, "Comparative Causal Analysis of Network Log Data in Two Large ISPs", the 7th IEEE/IFIP International Workshop on Analytics for Network and Service Management (AnNet 2022), Budapest, Hungary, April, 2022 ([10.1109/NOMS54207.2022.9789823](https://doi.org/10.1109/NOMS54207.2022.9789823), [paper](papers/annet2022.pdf), [slide](papers/annet2022_slide.pdf))
+1. __Satoru Kobayashi__, Keiichi Shima, Kenjiro Cho, Osamu Akashi, Kensuke Fukuda, "Comparative Causal Analysis of Network Log Data in Two Large ISPs", the 7th IEEE/IFIP International Workshop on Analytics for Network and Service Management (AnNet 2022), p.6, Budapest, Hungary, April, 2022 ([10.1109/NOMS54207.2022.9789823](https://doi.org/10.1109/NOMS54207.2022.9789823), [paper](papers/annet2022.pdf), [slide](papers/annet2022_slide.pdf))
 
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Verifying Network Properties in SRv6 based Service Function Chaining" , the 16th Asian Internet Engineering Conference (AINTEC 2021), pp.18-26, Virtual, December, 2021 ([10.1145/3497777.3498546](https://doi.org/10.1145/3497777.3498546))
 
@@ -106,25 +106,25 @@ Okayama University
 
 ### Technical Report
 
-1. __Satoru Kobayashi__, Hironori Ishii, Toshihiro Yamauchi, Osamu Akashi, Kensuke Fukuda, "Towards Interactive Causal Analysis of Network Logs", IEICE Technical Report, Mar 2024 (To appear)
+1. __Satoru Kobayashi__, Hironori Ishii, Toshihiro Yamauchi, Osamu Akashi, Kensuke Fukuda, "Towards Interactive Causal Analysis of Network Logs", IEICE Technical Report, Mar 2024 ([link](https://ken.ieice.org/ken/paper/202403135c1v/eng/))
 
 1. Kohei Otani, __Satoru Kobayashi__, Toshihiro Yamauchi, Hideo Taniguchi, "Implementation of Function for Tracing Diffusion of Classified Information to Support Inter-VM Communication on KVM", IPSJ SIG Technical Report, 2023-CSEC-100, no. 62, pp. 1-8, Mar 2023
 
-1. __Satoru Kobayashi__, Kensuke Fukuda, "Towards a Collaborative Operational Data Analysis for Automated Network Management", IEICE Technical Report, vol. 122, no. 85, IA2022-1, pp. 1-7, Jun 2022 ([link](https://www.ieice.org/ken/paper/20220623nCKR/))
+1. __Satoru Kobayashi__, Kensuke Fukuda, "Towards a Collaborative Operational Data Analysis for Automated Network Management", IEICE Technical Report, vol. 122, no. 85, IA2022-1, pp. 1-7, Jun 2022 ([link](https://www.ieice.org/ken/paper/20220623nCKR/eng/))
 
-1. Ayato Tokubi, Kazuki Otomo, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Automatic Document Labelling to Network Log Data", IEICE Technical Report, vol. 120, no. 186, IA2020-14, pp. 1-6, Oct 2020 ([link](https://www.ieice.org/ken/paper/20201009MCAG/))
+1. Ayato Tokubi, Kazuki Otomo, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Automatic Document Labelling to Network Log Data", IEICE Technical Report, vol. 120, no. 186, IA2020-14, pp. 1-6, Oct 2020 ([link](https://ken.ieice.org/ken/paper/20201009MCAG/eng/))
 
-1. Kazuki Otomo, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Improving Network Log Analysis by Semantics", IEICE Technical Report, vol. 119, no. 343, IA2019-49, pp. 7-12, Dec 2019 ([link](https://www.ieice.org/ken/paper/20191219o1sR/))
+1. Kazuki Otomo, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Improving Network Log Analysis by Semantics", IEICE Technical Report, vol. 119, no. 343, IA2019-49, pp. 7-12, Dec 2019 ([link](https://www.ieice.org/ken/paper/20191219o1sR/eng/))
 
-1. Hyuga Kobayashi, Yudai Aratsu, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Design of Honeynet to avoid IPv6 alias detection", IEICE Technical Report, vol. 119, no. 343, IA2019-50, pp. 13-18, Dec 2019 ([link](https://www.ieice.org/ken/paper/20191219I1Tf/))
+1. Hyuga Kobayashi, Yudai Aratsu, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Design of Honeynet to avoid IPv6 alias detection", IEICE Technical Report, vol. 119, no. 343, IA2019-50, pp. 13-18, Dec 2019 ([link](https://www.ieice.org/ken/paper/20191219I1Tf/eng/))
 
-1. Yuya Yamashiro, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Log Template Estimation with Bridged Refinement", IEICE Technical Report, vol. 119, no. 318, IA2019-45, pp. 13-18, Nov 2019 ([link](https://www.ieice.org/ken/paper/20191129n1Sd/))
+1. Yuya Yamashiro, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Log Template Estimation with Bridged Refinement", IEICE Technical Report, vol. 119, no. 318, IA2019-45, pp. 13-18, Nov 2019 ([link](https://www.ieice.org/ken/paper/20191129n1Sd/eng/))
 
-1.  __Satoru Kobayashi__, Kazuki Otomo, Kensuke Fukuda, "Towards application of network topology information to network log causal anlaysis ", IEICE Technical Report, vol. 118, no. 360, IA2018-40, pp. 1-8, Dec 2018 ([link](https://www.ieice.org/ken/paper/20181213Q1i1/), [slide](papers/ia2018_slide.pdf))
+1.  __Satoru Kobayashi__, Kazuki Otomo, Kensuke Fukuda, "Towards application of network topology information to network log causal anlaysis ", IEICE Technical Report, vol. 118, no. 360, IA2018-40, pp. 1-8, Dec 2018 ([link](https://www.ieice.org/ken/paper/20181213Q1i1/eng/), [slide](papers/ia2018_slide.pdf))
 
-1. Yuya Yamashiro, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Network Log Template Generation from Open Source Software", IEICE Technical Report, vol. 118, no. 204, IA2018-18, pp. 15-22, Sep 2018 ([link](https://www.ieice.org/ken/paper/20180903q1GL/))
+1. Yuya Yamashiro, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Network Log Template Generation from Open Source Software", IEICE Technical Report, vol. 118, no. 204, IA2018-18, pp. 15-22, Sep 2018 ([link](https://www.ieice.org/ken/paper/20180903q1GL/eng/))
 
-1. Yudai Aratsu, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Collecting a large number of active IPv6 addresses", IEICE Technical Report, vol. 118, no. 204, IA2018-16, pp. 1-8, Sep 2018 ([link](https://www.ieice.org/ken/paper/2018090361Gl/))
+1. Yudai Aratsu, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Collecting a large number of active IPv6 addresses", IEICE Technical Report, vol. 118, no. 204, IA2018-16, pp. 1-8, Sep 2018 ([link](https://www.ieice.org/ken/paper/2018090361Gl/eng/))
 
 ### Oral Presentation
 
