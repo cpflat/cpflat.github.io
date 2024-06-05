@@ -43,7 +43,7 @@ In [amulog project](https://github.com/amulog), we have constructed a platform f
 
 ### Causal analysis of log time-series
 
-1. __Satoru Kobayashi__, Hironori Ishii, Toshihiro Yamauchi, Osamu Akashi, Kensuke Fukuda, "Towards Interactive Causal Analysis of Network Logs", IEICE Technical Report, Mar 2024 ([link](https://ken.ieice.org/ken/paper/202403135c1v/eng/))
+1. Satoru Kobayashi, Hironori Ishii, Toshihiro Yamauchi, Osamu Akashi, Kensuke Fukuda, "Towards Interactive Causal Analysis of Network Logs", IEICE Technical Report, Mar 2024 ([link](https://ken.ieice.org/ken/paper/202403135c1v/eng/))
 
 1. Satoru Kobayashi, Keiichi Shima, Kenjiro Cho, Osamu Akashi, Kensuke Fukuda, "Comparative Causal Analysis of Network Log Data in Two Large ISPs", In proceedings of the 7th IEEE/IFIP International Workshop on Analytics for Network and Service Management (AnNet 2022), Budapest, Hungary, April, 2022 ([10.1109/NOMS54207.2022.9789823](https://doi.org/10.1109/NOMS54207.2022.9789823), [paper](papers/annet2022.pdf), [slide](papers/annet2022_slide.pdf))
 
