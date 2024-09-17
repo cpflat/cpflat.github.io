@@ -53,6 +53,8 @@
 
 ### 論文誌
 
+1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Effectiveness of MAC Systems Based on LSM and Their Security Policy Configuration for Protecting IoT Device", Journal of Internet Services and Information Security (JISIS), vol.14, issue 3, pp. 293-315, 2024 ([10.58346/JISIS.2024.I3.018](https://doi.org/10.58346/JISIS.2024.I3.018))
+
 1. __Satoru Kobayashi__, Yuya Yamashiro, Kazuki Otomo, Kensuke Fukuda, "amulog: A General Log Analysis Framework for Comparison and Combination of Diverse Template Generation Methods", International Journal of Network Management, Wiley, vol.32, no.4, 2022 ([10.1002/nem.2195](http://doi.org/10.1002/nem.2195), [accepted_version](papers/ijnm2021_accepted.pdf), [submit_version](papers/ijnm2021_submit.pdf))
 
 1. 新津 雄大, __小林 諭__, 福田 健介, 江崎 浩, "大規模IPv6アドレスの収集・分析", 電子情報通信学会論文誌, Vol.J103-B, No.6, pp.223-233, Jun, 2020 ([10.14923/transcomj.2019JBT0002](http://doi.org/10.14923/transcomj.2019JBT0002), [paper](papers/aratsu_ieice2020.pdf))
@@ -209,6 +211,10 @@
 1. 科研費若手研究, "トラブルシューティング・予測のための大規模ネットワークシステムログからの知識抽出", 2019年4月-2021年3月 ([19K20262](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K20262/), 研究代表者)
 
 ### 委員(国内)
+
+1. 電子情報通信学会 インターネットアーキテクチャ研究会 専門委員, 2024年6月-現在 ([url](https://www.ieice.org/cs/ia/jpn/doku.php))
+
+1. 電子情報通信学会 英文論文誌B編集委員, 2024年6月-現在
 
 1. 情報処理学会中国支部運営委員, 2023年4月-2025年3月 ([url](https://www.ipsj-chugoku.jp/))
 

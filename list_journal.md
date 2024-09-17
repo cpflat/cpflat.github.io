@@ -1,3 +1,5 @@
+1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Effectiveness of MAC Systems Based on LSM and Their Security Policy Configuration for Protecting IoT Device", Journal of Internet Services and Information Security (JISIS), vol.14, issue 3, pp. 293-315, 2024 ([10.58346/JISIS.2024.I3.018](https://doi.org/10.58346/JISIS.2024.I3.018))
+
 1. __Satoru Kobayashi__, Yuya Yamashiro, Kazuki Otomo, Kensuke Fukuda, "amulog: A General Log Analysis Framework for Comparison and Combination of Diverse Template Generation Methods", International Journal of Network Management, Wiley, vol.32, no.4, 2022 ([10.1002/nem.2195](http://doi.org/10.1002/nem.2195), [accepted_version](papers/ijnm2021_accepted.pdf), [submit_version](papers/ijnm2021_submit.pdf))
 
 1. 新津 雄大, __小林 諭__, 福田 健介, 江崎 浩, "大規模IPv6アドレスの収集・分析", 電子情報通信学会論文誌, Vol.J103-B, No.6, pp.223-233, Jun, 2020 ([10.14923/transcomj.2019JBT0002](http://doi.org/10.14923/transcomj.2019JBT0002), [paper](papers/aratsu_ieice2020.pdf))
