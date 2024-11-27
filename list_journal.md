@@ -1,3 +1,5 @@
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Verifying network-level properties for large-scale networks with header transformations in realtime," Journal of Information Processing, 2025 (To appear)
+
 1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Effectiveness of MAC Systems Based on LSM and Their Security Policy Configuration for Protecting IoT Device", Journal of Internet Services and Information Security (JISIS), vol.14, issue 3, pp. 293-315, 2024 ([10.58346/JISIS.2024.I3.018](https://doi.org/10.58346/JISIS.2024.I3.018))
 
 1. __Satoru Kobayashi__, Yuya Yamashiro, Kazuki Otomo, Kensuke Fukuda, "amulog: A General Log Analysis Framework for Comparison and Combination of Diverse Template Generation Methods", International Journal of Network Management, Wiley, vol.32, no.4, 2022 ([10.1002/nem.2195](http://doi.org/10.1002/nem.2195), [accepted_version](papers/ijnm2021_accepted.pdf), [submit_version](papers/ijnm2021_submit.pdf))

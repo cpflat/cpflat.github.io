@@ -1,6 +1,8 @@
 1. __Satoru Kobayashi__, Hironori Ishii, Toshihiro Yamauchi, Osamu Akashi, Kensuke Fukuda, "Towards Interactive Causal Analysis of Network Logs", IEICE Technical Report, Mar 2024 ([link](https://ken.ieice.org/ken/paper/202403135c1v/eng/))
 
-1. Kohei Otani, __Satoru Kobayashi__, Toshihiro Yamauchi, Hideo Taniguchi, "Implementation of Function for Tracing Diffusion of Classified Information to Support Inter-VM Communication on KVM", IPSJ SIG Technical Report, 2023-CSEC-100, no. 62, pp. 1-8, Mar 2023
+1. 	Kazuma Saji, Toshihiro Yamauchi, __Satoru Kobayashi__, Hideo Taniguchi, "Improving Code Reuse Attack Resistance based on Function Address Randomization in Executable Files", Computer Securiry Symposium 2023, vol.2023, pp.1357-1364, 2023. ([link](http://id.nii.ac.jp/1001/00228688/))
+
+1. Kohei Otani, __Satoru Kobayashi__, Toshihiro Yamauchi, Hideo Taniguchi, "Implementation of Function for Tracing Diffusion of Classified Information to Support Inter-VM Communication on KVM", IPSJ SIG Technical Report, 2023-CSEC-100, no. 62, pp. 1-8, Mar 2023 ([link](http://id.nii.ac.jp/1001/00224698/))
 
 1. __Satoru Kobayashi__, Kensuke Fukuda, "Towards a Collaborative Operational Data Analysis for Automated Network Management", IEICE Technical Report, vol. 122, no. 85, IA2022-1, pp. 1-7, Jun 2022 ([link](https://www.ieice.org/ken/paper/20220623nCKR/eng/))
 

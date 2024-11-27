@@ -53,6 +53,8 @@
 
 ### 論文誌
 
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Verifying network-level properties for large-scale networks with header transformations in realtime," Journal of Information Processing, 2025 (To appear)
+
 1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Effectiveness of MAC Systems Based on LSM and Their Security Policy Configuration for Protecting IoT Device", Journal of Internet Services and Information Security (JISIS), vol.14, issue 3, pp. 293-315, 2024 ([10.58346/JISIS.2024.I3.018](https://doi.org/10.58346/JISIS.2024.I3.018))
 
 1. __Satoru Kobayashi__, Yuya Yamashiro, Kazuki Otomo, Kensuke Fukuda, "amulog: A General Log Analysis Framework for Comparison and Combination of Diverse Template Generation Methods", International Journal of Network Management, Wiley, vol.32, no.4, 2022 ([10.1002/nem.2195](http://doi.org/10.1002/nem.2195), [accepted_version](papers/ijnm2021_accepted.pdf), [submit_version](papers/ijnm2021_submit.pdf))
@@ -73,7 +75,7 @@
 
 1. Hervet Victor, __Satoru Kobayashi__, Toshihiro Yamauchi, "Analyzing Post-injection Attacker Activities in IoT Devices: A Comprehensive Log Analysis Approach", in Proceedings of the 2023 Eleventh International Symposium on Computing and Networking Workshops (CANDARW), presented in the 10th International Workshop on Information and Communication Security (WICS 2023), p.292-297, Matsue, Japan, Nov 2023 ([10.1109/CANDARW60564.2023.00055](https://doi.org/10.1109/CANDARW60564.2023.00055))
 
-1. __Satoru Kobayashi__, Ryusei Shiiba, Ryosuke Miura, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "dot2net: A labeled graph approach for template-based configuration of emulation networks", in Proceedings of the 19th International Conference on Network and Service Management (CNSM 2023), pp.319-327, Niagara Falls, Canada, Oct 2023 ([10.23919/CNSM59352.2023.10327865](https://doi.org/10.23919/CNSM59352.2023.10327865), [paper](papers/cnsm2023.pdf), [slide](papers/cnsm2023_slide.pdf))
+1. __Satoru Kobayashi__, Ryusei Shiiba, Ryosuke Miura, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "dot2net: A labeled graph approach for template-based configuration of emulation networks", in Proceedings of the 19th International Conference on Network and Service Management (CNSM 2023), pp.342-350, Niagara Falls, Canada, Oct 2023 ([10.23919/CNSM59352.2023.10327865](https://doi.org/10.23919/CNSM59352.2023.10327865), [IFIP](https://dl.ifip.org/db/conf/cnsm/cnsm2023/index.html), [paper](papers/cnsm2023.pdf), [slide](papers/cnsm2023_slide.pdf))
 
 1. Toshiki Kawakita, Kimihiro Mizutani, __Satoru Kobayashi__, Kensuke Fukuda, Osamu Akashi, "An Implementation of Effective Resource Management Scheme Using Deep Reinforcement Learning," in Proceedings of the International Conference on Emerging Technologies for Communications, S8-5, Nov 2022 ([10.34385/proc.72.S8-5](https://doi.org/10.34385/proc.72.S8-5))
 
@@ -120,23 +122,22 @@
 
 1. 大友 一樹, __小林 諭__, 福田 健介, 江崎 浩, "システムログ異常予測に向けたバースト性と因果関係の解析", The Eighteenth Workshop on Internet Technology (WIT2017), p.8, 愛媛, 2017年6月
 
-### 査読なし国内会議
 
-1. 佐治和馬, 山内利宏, __小林諭__, 谷口秀夫, "実行ファイルにおける関数配置順序のランダム化によるコード再利用攻撃への耐性向上手法の提案", コンピュータセキュリティシンポジウム2023 (CSS2023) 論文集, vol.2023, pp.1357-1364, 福岡, 2023年11月
+### 国内会議・技術報告
 
-1. 明石 修, 水谷 后宏, __小林 諭__, 福田 健介, "ネットワーク管理ワークフローの自動実行機構の提案", 情報処理学会第83回全国大会, pp.3-33 -- 3-34, オンライン, 2021年3月
+1. 道下大悟, __小林 諭__, 山内利宏, "偽ショッピングサイトへ誘導する踏み台サイトの検出のための実態調査", コンピュータセキュリティシンポジウム2024 (CSS2024) 論文集, vol.2024, pp. 1095-1101, 2024年10月
 
-1. __小林 諭__, 江崎 浩, "CLI環境におけるオペレーションミス低減手法の検討と実装", 電子情報通信学会総合大会, p.1, 岐阜, 2013年3月
+1. 佐治和馬, 山内利宏, __小林諭__, 谷口秀夫, "実行ファイルにおける関数配置順序ランダム化手法の適用によるコード再利用攻撃への耐性評価", コンピュータセキュリティシンポジウム2024 (CSS2024) 論文集, vol.2024, pp.8-15, 神戸, 2024年10月
 
-### 技術報告
-
-1. 大野 裕美子, 山内 利宏, __小林 諭__, 谷口 秀夫, "シグナル受信処理の即時実行開始手法", 情報処理学会第86回全国大会，情報処理学会第86回全国大会講演論文集, 2024年3月 ([link](https://onsite.gakkai-web.net/ipsj/abstract/data/pdf/4J-05.html))
+1. 大野 裕美子, 山内 利宏, __小林 諭__, 谷口 秀夫, "シグナル受信処理の即時実行開始手法", 情報処理学会第86回全国大会, 情報処理学会第86回全国大会講演論文集, 2024年3月 ([link](http://id.nii.ac.jp/1001/00235518/))
 
 1. __小林 諭__, 石井 宏典, 山内 利宏, 明石 修, 福田 健介, "ネットワークログの対話的因果解析の検討", インターネットアーキテクチャ研究会, 信学技報, vol.123, no.422, IA2023-111, pp.233-240, 2024年3月 ([link](https://ken.ieice.org/ken/paper/202403135c1v/), [slide](papers/sat_ia202403_slide.pdf))
 
 1. 石井 宏典, __小林 諭__, 福田 健介, 山内 利宏, "ネットワークログ解析におけるイベント間因果情報可視化の検討", 電子情報通信学会総合大会, B-7-25, 2024年3月 ([link](https://pub.confit.atlas.jp/ja/event/general2024/presentation/B-7-25))
 
 1. 西本 伊織, 山内 利宏, __小林 諭__, 加藤 純, 三輪 真弘, 谷口 秀夫, "HPCにおけるGang Schedulingの切替間隔動的変更手法", 第162回システムソフトウェアとオペレーティング・システム研究発表会, 情報処理学会研究報告, 2024年2月 ([link](http://id.nii.ac.jp/1001/00232270/))
+
+1. 佐治和馬, 山内利宏, __小林諭__, 谷口秀夫, "実行ファイルにおける関数配置順序のランダム化によるコード再利用攻撃への耐性向上手法の提案", コンピュータセキュリティシンポジウム2023 (CSS2023) 論文集, vol.2023, pp.1357-1364, 福岡, 2023年11月 ([link](http://id.nii.ac.jp/1001/00228688/))
 
 1. 大谷 航平, __小林 諭__, 山内 利宏, 谷口 秀夫, "VM間通信に対応したKVM上の機密情報の拡散追跡機能の実現", 第100回コンピュータセキュリティ研究発表会, 情報処理学会研究報告, 2023年3月 ([link](http://id.nii.ac.jp/1001/00224698/))
 
@@ -159,6 +160,10 @@
 1. 山城 裕陽, __小林 諭__, 福田 健介, 江崎 浩, "ソースコードからのネットワークログテンプレート自動生成に関する検討", 信学技報, vol. 118, no. 204, IA2018-18, pp. 15-22, 2018年9月 ([link](https://www.ieice.org/ken/paper/20180903q1GL/))
 
 1. 新津 雄大, __小林 諭__, 福田 健介, 江崎 浩, "大規模IPv6アドレス収集手法の検討", 信学技報, vol. 118, no. 204, IA2018-16, pp. 1-8, 2018年9月 ([2018年度IA研究賞(優秀賞)](http://www.ieice.org/cs/ia/jpn/award)) ([link](https://www.ieice.org/ken/paper/2018090361Gl/))
+
+1. 明石 修, 水谷 后宏, __小林 諭__, 福田 健介, "ネットワーク管理ワークフローの自動実行機構の提案", 情報処理学会第83回全国大会, 情報処理学会第86回全国大会講演論文集, pp.3-33 -- 3-34, オンライン, 2021年3月
+
+1. __小林 諭__, 江崎 浩, "CLI環境におけるオペレーションミス低減手法の検討と実装", 電子情報通信学会総合大会, p.1, 岐阜, 2013年3月
 
 
 ### 口頭発表

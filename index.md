@@ -49,6 +49,8 @@ Okayama University
 
 ### Journal
 
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Verifying network-level properties for large-scale networks with header transformations in realtime," Journal of Information Processing, 2025 (To appear)
+
 1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Effectiveness of MAC Systems Based on LSM and Their Security Policy Configuration for Protecting IoT Device", Journal of Internet Services and Information Security (JISIS), vol.14, issue 3, pp. 293-315, 2024 ([10.58346/JISIS.2024.I3.018](https://doi.org/10.58346/JISIS.2024.I3.018))
 
 1. __Satoru Kobayashi__, Yuya Yamashiro, Kazuki Otomo, Kensuke Fukuda, "amulog: A General Log Analysis Framework for Comparison and Combination of Diverse Template Generation Methods", International Journal of Network Management, Wiley, vol.32, no.4, 2022 ([10.1002/nem.2195](http://doi.org/10.1002/nem.2195), [accepted_version](papers/ijnm2021_accepted.pdf), [submit_version](papers/ijnm2021_submit.pdf))
@@ -70,7 +72,7 @@ Okayama University
 
 1. Hervet Victor, __Satoru Kobayashi__, Toshihiro Yamauchi, "Analyzing Post-injection Attacker Activities in IoT Devices: A Comprehensive Log Analysis Approach", in Proceedings of the 2023 Eleventh International Symposium on Computing and Networking Workshops (CANDARW), presented in the 10th International Workshop on Information and Communication Security (WICS 2023), p.292-297, Matsue, Japan, Nov 2023 ([10.1109/CANDARW60564.2023.00055](https://doi.org/10.1109/CANDARW60564.2023.00055))
 
-1. __Satoru Kobayashi__, Ryusei Shiiba, Ryosuke Miura, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "dot2net: A labeled graph approach for template-based configuration of emulation networks", in Proceedings of the 19th International Conference on Network and Service Management (CNSM 2023), pp.319-327, Niagara Falls, Canada, Oct 2023 ([10.23919/CNSM59352.2023.10327865](https://doi.org/10.23919/CNSM59352.2023.10327865), [paper](papers/cnsm2023.pdf), [slide](papers/cnsm2023_slide.pdf))
+1. __Satoru Kobayashi__, Ryusei Shiiba, Ryosuke Miura, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "dot2net: A labeled graph approach for template-based configuration of emulation networks", in Proceedings of the 19th International Conference on Network and Service Management (CNSM 2023), pp.342-350, Niagara Falls, Canada, Oct 2023 ([10.23919/CNSM59352.2023.10327865](https://doi.org/10.23919/CNSM59352.2023.10327865), [IFIP](https://dl.ifip.org/db/conf/cnsm/cnsm2023/index.html), [paper](papers/cnsm2023.pdf), [slide](papers/cnsm2023_slide.pdf))
 
 1. Toshiki Kawakita, Kimihiro Mizutani, __Satoru Kobayashi__, Kensuke Fukuda, Osamu Akashi, "An Implementation of Effective Resource Management Scheme Using Deep Reinforcement Learning," in Proceedings of the International Conference on Emerging Technologies for Communications, S8-5, Nov 2022 ([10.34385/proc.72.S8-5](https://doi.org/10.34385/proc.72.S8-5))
 
@@ -118,7 +120,9 @@ Okayama University
 
 1. __Satoru Kobayashi__, Hironori Ishii, Toshihiro Yamauchi, Osamu Akashi, Kensuke Fukuda, "Towards Interactive Causal Analysis of Network Logs", IEICE Technical Report, Mar 2024 ([link](https://ken.ieice.org/ken/paper/202403135c1v/eng/))
 
-1. Kohei Otani, __Satoru Kobayashi__, Toshihiro Yamauchi, Hideo Taniguchi, "Implementation of Function for Tracing Diffusion of Classified Information to Support Inter-VM Communication on KVM", IPSJ SIG Technical Report, 2023-CSEC-100, no. 62, pp. 1-8, Mar 2023
+1. 	Kazuma Saji, Toshihiro Yamauchi, __Satoru Kobayashi__, Hideo Taniguchi, "Improving Code Reuse Attack Resistance based on Function Address Randomization in Executable Files", Computer Securiry Symposium 2023, vol.2023, pp.1357-1364, 2023. ([link](http://id.nii.ac.jp/1001/00228688/))
+
+1. Kohei Otani, __Satoru Kobayashi__, Toshihiro Yamauchi, Hideo Taniguchi, "Implementation of Function for Tracing Diffusion of Classified Information to Support Inter-VM Communication on KVM", IPSJ SIG Technical Report, 2023-CSEC-100, no. 62, pp. 1-8, Mar 2023 ([link](http://id.nii.ac.jp/1001/00224698/))
 
 1. __Satoru Kobayashi__, Kensuke Fukuda, "Towards a Collaborative Operational Data Analysis for Automated Network Management", IEICE Technical Report, vol. 122, no. 85, IA2022-1, pp. 1-7, Jun 2022 ([link](https://www.ieice.org/ken/paper/20220623nCKR/eng/))
 
