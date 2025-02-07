@@ -1,3 +1,5 @@
+1. __Satoru Kobayashi__, Gaspard Damoiseau-Malraux, Kensuke Fukuda, "Identifying original logging functions in source code from network log messages," IEICE Technical Report, Mar 2025 ([link](https://ken.ieice.org/ken/paper/20250303VciO/))
+
 1. __Satoru Kobayashi__, Hironori Ishii, Toshihiro Yamauchi, Osamu Akashi, Kensuke Fukuda, "Towards Interactive Causal Analysis of Network Logs", IEICE Technical Report, Mar 2024 ([link](https://ken.ieice.org/ken/paper/202403135c1v/eng/))
 
 1. 	Kazuma Saji, Toshihiro Yamauchi, __Satoru Kobayashi__, Hideo Taniguchi, "Improving Code Reuse Attack Resistance based on Function Address Randomization in Executable Files", Computer Securiry Symposium 2023, vol.2023, pp.1357-1364, 2023. ([link](http://id.nii.ac.jp/1001/00228688/))

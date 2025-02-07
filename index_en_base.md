@@ -4,6 +4,13 @@
 
 [english](./index.html) / [japanese](./index_ja.html)
 
+
+## For foreign students
+Satoru Kobayashi is not the head of a laboratory, so he will not handle the admission of international students or research fellows.
+He will not respond to any emails requesting such admissions.
+Please direct these requests to the appropriate person.
+
+
 ## Profile
 
 ### Affiliation  

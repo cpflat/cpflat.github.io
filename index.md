@@ -4,6 +4,13 @@
 
 [english](./index.html) / [japanese](./index_ja.html)
 
+
+## For foreign students
+Satoru Kobayashi is not the head of a laboratory, so he will not handle the admission of international students or research fellows.
+He will not respond to any emails requesting such admissions.
+Please direct these requests to the appropriate person.
+
+
 ## Profile
 
 ### Affiliation
@@ -64,7 +71,9 @@ Okayama University
 
 ### International Conference (w/ review)
 
-1. Liang Zhao, Satoru Kobayashi, Kensuke Fukuda, "Exploring the Discovery Process of Fresh IPv6 Prefixes: An Analysis of Scanning Behavior in Darknet and Honeynet," Passive and Active Measurement Conference (PAM 2024), Lecture Notes in Computer Science (LNCS), Springer, vol.14537, pp.95-111, Mar 2024 ([10.1007/978-3-031-56249-5_4](https://doi.org/10.1007/978-3-031-56249-5_4), [paper](https://pam2024.cs.northwestern.edu/pdfs/paper-15.pdf))
+1. Daigo Michishita, __Satoru Kobayashi__, Toshihiro Yamauchi, "Investigation Towards Detecting Landing Websites for Fake Japanese Shopping Websites," The 13-th International Conference on Emerging Internet, Data & Web Technologies (EIDWT-2025), Lecture Notes in Data Engineering and Communication Technologies, Springer, Feb 2025 (To appear)
+
+1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Exploring the Discovery Process of Fresh IPv6 Prefixes: An Analysis of Scanning Behavior in Darknet and Honeynet," Passive and Active Measurement Conference (PAM 2024), Lecture Notes in Computer Science (LNCS), Springer, vol.14537, pp.95-111, Mar 2024 ([10.1007/978-3-031-56249-5_4](https://doi.org/10.1007/978-3-031-56249-5_4), [paper](https://pam2024.cs.northwestern.edu/pdfs/paper-15.pdf))
 
 1. Colin Regal-Mezin, __Satoru Kobayashi__, Toshihiro Yamauchi, "netroub: Towards an Emulation Platform for Network Trouble Scenarios", in Proceedings of the CoNEXT Student Workshop 2023 (CoNEXT-SW '23), ACM SIGCOMM, pp.17-18, Paris, France, Dec 2023 ([10.1145/3630202.3630222](https://doi.org/10.1145/3630202.3630222))
 
@@ -117,6 +126,8 @@ Okayama University
 
 
 ### Technical Report
+
+1. __Satoru Kobayashi__, Gaspard Damoiseau-Malraux, Kensuke Fukuda, "Identifying original logging functions in source code from network log messages," IEICE Technical Report, Mar 2025 ([link](https://ken.ieice.org/ken/paper/20250303VciO/))
 
 1. __Satoru Kobayashi__, Hironori Ishii, Toshihiro Yamauchi, Osamu Akashi, Kensuke Fukuda, "Towards Interactive Causal Analysis of Network Logs", IEICE Technical Report, Mar 2024 ([link](https://ken.ieice.org/ken/paper/202403135c1v/eng/))
 

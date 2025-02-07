@@ -67,7 +67,9 @@
 
 ### 国際会議
 
-1. Liang Zhao, Satoru Kobayashi, Kensuke Fukuda, "Exploring the Discovery Process of Fresh IPv6 Prefixes: An Analysis of Scanning Behavior in Darknet and Honeynet," Passive and Active Measurement Conference (PAM 2024), Lecture Notes in Computer Science (LNCS), Springer, vol.14537, pp.95-111, Mar 2024 ([10.1007/978-3-031-56249-5_4](https://doi.org/10.1007/978-3-031-56249-5_4), [paper](https://pam2024.cs.northwestern.edu/pdfs/paper-15.pdf))
+1. Daigo Michishita, __Satoru Kobayashi__, Toshihiro Yamauchi, "Investigation Towards Detecting Landing Websites for Fake Japanese Shopping Websites," The 13-th International Conference on Emerging Internet, Data & Web Technologies (EIDWT-2025), Lecture Notes in Data Engineering and Communication Technologies, Springer, Feb 2025 (To appear)
+
+1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Exploring the Discovery Process of Fresh IPv6 Prefixes: An Analysis of Scanning Behavior in Darknet and Honeynet," Passive and Active Measurement Conference (PAM 2024), Lecture Notes in Computer Science (LNCS), Springer, vol.14537, pp.95-111, Mar 2024 ([10.1007/978-3-031-56249-5_4](https://doi.org/10.1007/978-3-031-56249-5_4), [paper](https://pam2024.cs.northwestern.edu/pdfs/paper-15.pdf))
 
 1. Colin Regal-Mezin, __Satoru Kobayashi__, Toshihiro Yamauchi, "netroub: Towards an Emulation Platform for Network Trouble Scenarios", in Proceedings of the CoNEXT Student Workshop 2023 (CoNEXT-SW '23), ACM SIGCOMM, pp.17-18, Paris, France, Dec 2023 ([10.1145/3630202.3630222](https://doi.org/10.1145/3630202.3630222))
 
@@ -125,13 +127,15 @@
 
 ### 国内会議・技術報告
 
+1. __小林 諭__, Gaspard Damoiseau-Malraux, 福田 健介, "ネットワークログメッセージの出力元関数の自動特定手法の提案", 電子情報通信学会インターネットアーキテクチャ研究会, 信学技報, 2025年3月 ([link](https://ken.ieice.org/ken/paper/20250303VciO/))
+
 1. 道下大悟, __小林 諭__, 山内利宏, "偽ショッピングサイトへ誘導する踏み台サイトの検出のための実態調査", コンピュータセキュリティシンポジウム2024 (CSS2024) 論文集, vol.2024, pp. 1095-1101, 2024年10月
 
 1. 佐治和馬, 山内利宏, __小林諭__, 谷口秀夫, "実行ファイルにおける関数配置順序ランダム化手法の適用によるコード再利用攻撃への耐性評価", コンピュータセキュリティシンポジウム2024 (CSS2024) 論文集, vol.2024, pp.8-15, 神戸, 2024年10月
 
 1. 大野 裕美子, 山内 利宏, __小林 諭__, 谷口 秀夫, "シグナル受信処理の即時実行開始手法", 情報処理学会第86回全国大会, 情報処理学会第86回全国大会講演論文集, 2024年3月 ([link](http://id.nii.ac.jp/1001/00235518/))
 
-1. __小林 諭__, 石井 宏典, 山内 利宏, 明石 修, 福田 健介, "ネットワークログの対話的因果解析の検討", インターネットアーキテクチャ研究会, 信学技報, vol.123, no.422, IA2023-111, pp.233-240, 2024年3月 ([link](https://ken.ieice.org/ken/paper/202403135c1v/), [slide](papers/sat_ia202403_slide.pdf))
+1. __小林 諭__, 石井 宏典, 山内 利宏, 明石 修, 福田 健介, "ネットワークログの対話的因果解析の検討", 電子情報通信学会インターネットアーキテクチャ研究会, 信学技報, vol.123, no.422, IA2023-111, pp.233-240, 2024年3月 ([link](https://ken.ieice.org/ken/paper/202403135c1v/), [slide](papers/sat_ia202403_slide.pdf))
 
 1. 石井 宏典, __小林 諭__, 福田 健介, 山内 利宏, "ネットワークログ解析におけるイベント間因果情報可視化の検討", 電子情報通信学会総合大会, B-7-25, 2024年3月 ([link](https://pub.confit.atlas.jp/ja/event/general2024/presentation/B-7-25))
 
