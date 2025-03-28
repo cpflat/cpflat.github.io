@@ -127,7 +127,7 @@ Okayama University
 
 ### Technical Report
 
-1. __Satoru Kobayashi__, Gaspard Damoiseau-Malraux, Kensuke Fukuda, "Identifying original logging functions in source code from network log messages," IEICE Technical Report, Mar 2025 ([link](https://ken.ieice.org/ken/paper/20250303VciO/))
+1. __Satoru Kobayashi__, Gaspard Damoiseau-Malraux, Kensuke Fukuda, "Identifying original logging functions in source code from network log messages," IEICE Technical Report, vol. 124, no. 393, IA2024-69, pp. 15-22, Mar 2025 ([link](https://ken.ieice.org/ken/paper/20250303VciO/))
 
 1. __Satoru Kobayashi__, Hironori Ishii, Toshihiro Yamauchi, Osamu Akashi, Kensuke Fukuda, "Towards Interactive Causal Analysis of Network Logs", IEICE Technical Report, Mar 2024 ([link](https://ken.ieice.org/ken/paper/202403135c1v/eng/))
 
