@@ -1,3 +1,5 @@
+1. __Satoru Kobayashi__, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "Topology-Driven Configuration of Emulation Networks With Deterministic Templating", IEEE Transactions on Network and Service Management, 2025 (Early access, [10.1109/TNSM.2025.3582212](https://doi.org/10.1109/TNSM.2025.3582212), [paper](papers/tnsm2025.pdf))
+
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Verifying network-level properties for large-scale networks with header transformations in realtime," Journal of Information Processing, vol.33, pp.41-54, 2025 ([10.2197/ipsjjip.33.41](https://doi.org/10.2197/ipsjjip.33.41))
 
 1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Effectiveness of MAC Systems Based on LSM and Their Security Policy Configuration for Protecting IoT Device", Journal of Internet Services and Information Security (JISIS), vol.14, issue 3, pp. 293-315, 2024 ([10.58346/JISIS.2024.I3.018](https://doi.org/10.58346/JISIS.2024.I3.018))

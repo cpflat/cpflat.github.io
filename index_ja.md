@@ -53,6 +53,8 @@
 
 ### 論文誌
 
+1. __Satoru Kobayashi__, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "Topology-Driven Configuration of Emulation Networks With Deterministic Templating", IEEE Transactions on Network and Service Management, 2025 (Early access, [10.1109/TNSM.2025.3582212](https://doi.org/10.1109/TNSM.2025.3582212), [paper](papers/tnsm2025.pdf))
+
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Verifying network-level properties for large-scale networks with header transformations in realtime," Journal of Information Processing, vol.33, pp.41-54, 2025 ([10.2197/ipsjjip.33.41](https://doi.org/10.2197/ipsjjip.33.41))
 
 1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Effectiveness of MAC Systems Based on LSM and Their Security Policy Configuration for Protecting IoT Device", Journal of Internet Services and Information Security (JISIS), vol.14, issue 3, pp. 293-315, 2024 ([10.58346/JISIS.2024.I3.018](https://doi.org/10.58346/JISIS.2024.I3.018))
@@ -66,6 +68,10 @@
 1. __Satoru Kobayashi__, Kazuki Otomo, Kensuke Fukuda, Hiroshi Esaki, "Mining Causality of Network Events in Log Data", IEEE Transactions on Network and Service Management, pp.53-67, vol.15, no.1, March, 2018 ([10.1109/TNSM.2017.2778096](https://doi.org/10.1109/TNSM.2017.2778096), [paper](papers/tnsm2018.pdf))
 
 ### 国際会議
+
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Refining specifications for configuration repair with side effect diagnosis," The ACM SIGCOMM Workshop on Formal Methods Aided Network Operation (FMANO'25), Sydney, Australia, August 2025 (To appear)
+
+1. Gaspard Damoiseau-Malraux, __Satoru Kobayashi__, Kensuke Fukuda, "Automatically pinpointing original logging functions from log messages for network troubleshooting," The 49th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2025), Toronto, Canada, July 2025 (To appear)
 
 1. Daigo Michishita, __Satoru Kobayashi__, Toshihiro Yamauchi, "Investigation Towards Detecting Landing Websites for Fake Japanese Shopping Websites," The 13-th International Conference on Emerging Internet, Data & Web Technologies (EIDWT-2025), Lecture Notes in Data Engineering and Communication Technologies, Springer, vol. 243, pp. 107-119, Feb 2025 ([10.1007/978-3-031-86149-9_11](https://doi.org/10.1007/978-3-031-86149-9_11))
 
@@ -213,9 +219,11 @@
 
 ### 競争的研究費
 
+1. 科研費基盤研究(C), "オペレータ知識を活用するネットワーク障害原因究明支援技術の研究", 2025年4月-2030年3月 ([25K15079](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K15079/), 研究代表者)
+
 1. 科研費若手研究, "ネットワーク自動運用のための運用データ連携解析", 2022年4月-2025年3月 ([22K17886](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K17886/), 研究代表者)
 
-1. 戦略的情報通信研究開発推進事業(SCOPE)社会展開指向型研究開発(3年枠), "セマンティクス抽出と因果解析によるネットワーク障害対応支援に関する研究", 2019年4月-2022年3月 (研究分担者, #191603009)
+1. 戦略的情報通信研究開発推進事業(SCOPE)社会展開指向型研究開発(3年枠), "セマンティクス抽出と因果解析によるネットワーク障害対応支援に関する研究", 2019年4月-2022年3月 (#191603009, 研究分担者)
 
 1. 科研費若手研究, "トラブルシューティング・予測のための大規模ネットワークシステムログからの知識抽出", 2019年4月-2021年3月 ([19K20262](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K20262/), 研究代表者)
 
@@ -225,9 +233,11 @@
 
 1. 電子情報通信学会 英文論文誌B編集委員, 2024年6月-現在
 
-1. 情報処理学会中国支部運営委員, 2023年4月-2025年3月 ([url](https://www.ipsj-chugoku.jp/))
+1. 情報処理学会中国支部運営委員, 2023年6月-2025年6月 ([url](https://www.ipsj-chugoku.jp/))
 
 1. 情報処理学会 論文誌査読委員, 2021年4月-現在
+
+1. コンピュータセキュリティシンポジウム2025 実行委員, 2025年度 ([url](https://www.iwsec.org/css/2025/committee.html))
 
 ### 委員(国外)
 

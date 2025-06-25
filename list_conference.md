@@ -1,3 +1,7 @@
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Refining specifications for configuration repair with side effect diagnosis," The ACM SIGCOMM Workshop on Formal Methods Aided Network Operation (FMANO'25), Sydney, Australia, August 2025 (To appear)
+
+1. Gaspard Damoiseau-Malraux, __Satoru Kobayashi__, Kensuke Fukuda, "Automatically pinpointing original logging functions from log messages for network troubleshooting," The 49th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2025), Toronto, Canada, July 2025 (To appear)
+
 1. Daigo Michishita, __Satoru Kobayashi__, Toshihiro Yamauchi, "Investigation Towards Detecting Landing Websites for Fake Japanese Shopping Websites," The 13-th International Conference on Emerging Internet, Data & Web Technologies (EIDWT-2025), Lecture Notes in Data Engineering and Communication Technologies, Springer, vol. 243, pp. 107-119, Feb 2025 ([10.1007/978-3-031-86149-9_11](https://doi.org/10.1007/978-3-031-86149-9_11))
 
 1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Exploring the Discovery Process of Fresh IPv6 Prefixes: An Analysis of Scanning Behavior in Darknet and Honeynet," Passive and Active Measurement Conference (PAM 2024), Lecture Notes in Computer Science (LNCS), Springer, vol.14537, pp.95-111, Mar 2024 ([10.1007/978-3-031-56249-5_4](https://doi.org/10.1007/978-3-031-56249-5_4), [paper](https://pam2024.cs.northwestern.edu/pdfs/paper-15.pdf))

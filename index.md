@@ -56,6 +56,8 @@ Okayama University
 
 ### Journal
 
+1. __Satoru Kobayashi__, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "Topology-Driven Configuration of Emulation Networks With Deterministic Templating", IEEE Transactions on Network and Service Management, 2025 (Early access, [10.1109/TNSM.2025.3582212](https://doi.org/10.1109/TNSM.2025.3582212), [paper](papers/tnsm2025.pdf))
+
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Verifying network-level properties for large-scale networks with header transformations in realtime," Journal of Information Processing, vol.33, pp.41-54, 2025 ([10.2197/ipsjjip.33.41](https://doi.org/10.2197/ipsjjip.33.41))
 
 1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Effectiveness of MAC Systems Based on LSM and Their Security Policy Configuration for Protecting IoT Device", Journal of Internet Services and Information Security (JISIS), vol.14, issue 3, pp. 293-315, 2024 ([10.58346/JISIS.2024.I3.018](https://doi.org/10.58346/JISIS.2024.I3.018))
@@ -70,6 +72,10 @@ Okayama University
 
 
 ### International Conference (w/ review)
+
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Refining specifications for configuration repair with side effect diagnosis," The ACM SIGCOMM Workshop on Formal Methods Aided Network Operation (FMANO'25), Sydney, Australia, August 2025 (To appear)
+
+1. Gaspard Damoiseau-Malraux, __Satoru Kobayashi__, Kensuke Fukuda, "Automatically pinpointing original logging functions from log messages for network troubleshooting," The 49th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2025), Toronto, Canada, July 2025 (To appear)
 
 1. Daigo Michishita, __Satoru Kobayashi__, Toshihiro Yamauchi, "Investigation Towards Detecting Landing Websites for Fake Japanese Shopping Websites," The 13-th International Conference on Emerging Internet, Data & Web Technologies (EIDWT-2025), Lecture Notes in Data Engineering and Communication Technologies, Springer, vol. 243, pp. 107-119, Feb 2025 ([10.1007/978-3-031-86149-9_11](https://doi.org/10.1007/978-3-031-86149-9_11))
 
