@@ -53,19 +53,21 @@
 
 ### 論文誌
 
-1. __Satoru Kobayashi__, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "Topology-Driven Configuration of Emulation Networks With Deterministic Templating", IEEE Transactions on Network and Service Management, 2025 (Early access, [10.1109/TNSM.2025.3582212](https://doi.org/10.1109/TNSM.2025.3582212), [paper](papers/tnsm2025.pdf))
+1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Insights into the IPv6 Scanning Landscape: An Extended Study Using Passive Darknets and Responsive Honeynets with Prefix Exposing Techniques," IEICE Transactions on Communications, Feb 2026 (To appear)
+
+1. __Satoru Kobayashi__, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "Topology-Driven Configuration of Emulation Networks With Deterministic Templating," IEEE Transactions on Network and Service Management, 2025 (Early access, [10.1109/TNSM.2025.3582212](https://doi.org/10.1109/TNSM.2025.3582212), [paper](papers/tnsm2025.pdf))
 
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Verifying network-level properties for large-scale networks with header transformations in realtime," Journal of Information Processing, vol.33, pp.41-54, 2025 ([10.2197/ipsjjip.33.41](https://doi.org/10.2197/ipsjjip.33.41))
 
-1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Effectiveness of MAC Systems Based on LSM and Their Security Policy Configuration for Protecting IoT Device", Journal of Internet Services and Information Security (JISIS), vol.14, issue 3, pp. 293-315, 2024 ([10.58346/JISIS.2024.I3.018](https://doi.org/10.58346/JISIS.2024.I3.018))
+1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Effectiveness of MAC Systems Based on LSM and Their Security Policy Configuration for Protecting IoT Device," Journal of Internet Services and Information Security (JISIS), vol.14, issue 3, pp. 293-315, 2024 ([10.58346/JISIS.2024.I3.018](https://doi.org/10.58346/JISIS.2024.I3.018))
 
-1. __Satoru Kobayashi__, Yuya Yamashiro, Kazuki Otomo, Kensuke Fukuda, "amulog: A General Log Analysis Framework for Comparison and Combination of Diverse Template Generation Methods", International Journal of Network Management, Wiley, vol.32, no.4, 2022 ([10.1002/nem.2195](http://doi.org/10.1002/nem.2195), [accepted_version](papers/ijnm2021_accepted.pdf), [submit_version](papers/ijnm2021_submit.pdf))
+1. __Satoru Kobayashi__, Yuya Yamashiro, Kazuki Otomo, Kensuke Fukuda, "amulog: A General Log Analysis Framework for Comparison and Combination of Diverse Template Generation Methods," International Journal of Network Management, Wiley, vol.32, no.4, 2022 ([10.1002/nem.2195](http://doi.org/10.1002/nem.2195), [accepted_version](papers/ijnm2021_accepted.pdf), [submit_version](papers/ijnm2021_submit.pdf))
 
 1. 新津 雄大, __小林 諭__, 福田 健介, 江崎 浩, "大規模IPv6アドレスの収集・分析", 電子情報通信学会論文誌, Vol.J103-B, No.6, pp.223-233, Jun, 2020 ([10.14923/transcomj.2019JBT0002](http://doi.org/10.14923/transcomj.2019JBT0002), [paper](papers/aratsu_ieice2020.pdf))
 
-1. Kazuki Otomo, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Latent Variable based Anomaly Detection in Network System Logs", IEICE Transactions on Information and Systems, pp.1644-1652, Vol.E102-D, No.9, September, 2019 ([10.1587/transinf.2018OFP0007](https://doi.org/10.1587/transinf.2018OFP0007), [paper](papers/otomo_ieice2019.pdf))
+1. Kazuki Otomo, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Latent Variable based Anomaly Detection in Network System Logs," IEICE Transactions on Information and Systems, pp.1644-1652, Vol.E102-D, No.9, September, 2019 ([10.1587/transinf.2018OFP0007](https://doi.org/10.1587/transinf.2018OFP0007), [paper](papers/otomo_ieice2019.pdf))
 
-1. __Satoru Kobayashi__, Kazuki Otomo, Kensuke Fukuda, Hiroshi Esaki, "Mining Causality of Network Events in Log Data", IEEE Transactions on Network and Service Management, pp.53-67, vol.15, no.1, March, 2018 ([10.1109/TNSM.2017.2778096](https://doi.org/10.1109/TNSM.2017.2778096), [paper](papers/tnsm2018.pdf))
+1. __Satoru Kobayashi__, Kazuki Otomo, Kensuke Fukuda, Hiroshi Esaki, "Mining Causality of Network Events in Log Data," IEEE Transactions on Network and Service Management, pp.53-67, vol.15, no.1, March, 2018 ([10.1109/TNSM.2017.2778096](https://doi.org/10.1109/TNSM.2017.2778096), [paper](papers/tnsm2018.pdf))
 
 ### 国際会議
 
@@ -73,15 +75,15 @@
 
 1. Gaspard Damoiseau-Malraux, __Satoru Kobayashi__, Kensuke Fukuda, "Automatically pinpointing original logging functions from log messages for network troubleshooting," The 49th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2025), Toronto, Canada, July 2025 (To appear)
 
-1. Daigo Michishita, __Satoru Kobayashi__, Toshihiro Yamauchi, "Investigation Towards Detecting Landing Websites for Fake Japanese Shopping Websites," The 13-th International Conference on Emerging Internet, Data & Web Technologies (EIDWT-2025), Lecture Notes in Data Engineering and Communication Technologies, Springer, vol. 243, pp. 107-119, Feb 2025 ([10.1007/978-3-031-86149-9_11](https://doi.org/10.1007/978-3-031-86149-9_11))
+1. Daigo Michishita, __Satoru Kobayashi__, Toshihiro Yamauchi, "Investigation Towards Detecting Landing Websites for Fake Japanese Shopping Websites," The 13-th International Conference on Emerging Internet, Data & Web Technologies (EIDWT-2025), Lecture Notes in Data Engineering and Communication Technologies, Springer, vol. 243, pp. 107-119, Feb 2025 ([10.1007/978-3-031-86149-9_11](https://doi.org/10.1007/978-3-031-86149-9_11), [ousar](https://ousar.lib.okayama-u.ac.jp/ja/68930))
 
 1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Exploring the Discovery Process of Fresh IPv6 Prefixes: An Analysis of Scanning Behavior in Darknet and Honeynet," Passive and Active Measurement Conference (PAM 2024), Lecture Notes in Computer Science (LNCS), Springer, vol.14537, pp.95-111, Mar 2024 ([10.1007/978-3-031-56249-5_4](https://doi.org/10.1007/978-3-031-56249-5_4), [paper](https://pam2024.cs.northwestern.edu/pdfs/paper-15.pdf))
 
 1. Colin Regal-Mezin, __Satoru Kobayashi__, Toshihiro Yamauchi, "netroub: Towards an Emulation Platform for Network Trouble Scenarios", in Proceedings of the CoNEXT Student Workshop 2023 (CoNEXT-SW '23), ACM SIGCOMM, pp.17-18, Paris, France, Dec 2023 ([10.1145/3630202.3630222](https://doi.org/10.1145/3630202.3630222))
 
-1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Evaluation of Effectiveness of MAC Systems Based on LSM for Protecting IoT Devices", in Proceedings of the 11th International Symposium on Computing and Networking (CANDAR 2023), p.161-167, Matsue, Japan, Nov 2023 ([10.1109/CANDAR60563.2023.00029](https://doi.org/10.1109/CANDAR60563.2023.00029))
+1. Masato Miki, Toshihiro Yamauchi, __Satoru Kobayashi__, "Evaluation of Effectiveness of MAC Systems Based on LSM for Protecting IoT Devices", in Proceedings of the 11th International Symposium on Computing and Networking (CANDAR 2023), p.161-167, Matsue, Japan, Nov 2023 ([10.1109/CANDAR60563.2023.00029](https://doi.org/10.1109/CANDAR60563.2023.00029), [ousar](https://ousar.lib.okayama-u.ac.jp/ja/68933))
 
-1. Hervet Victor, __Satoru Kobayashi__, Toshihiro Yamauchi, "Analyzing Post-injection Attacker Activities in IoT Devices: A Comprehensive Log Analysis Approach", in Proceedings of the 2023 Eleventh International Symposium on Computing and Networking Workshops (CANDARW), presented in the 10th International Workshop on Information and Communication Security (WICS 2023), p.292-297, Matsue, Japan, Nov 2023 ([10.1109/CANDARW60564.2023.00055](https://doi.org/10.1109/CANDARW60564.2023.00055))
+1. Hervet Victor, __Satoru Kobayashi__, Toshihiro Yamauchi, "Analyzing Post-injection Attacker Activities in IoT Devices: A Comprehensive Log Analysis Approach", in Proceedings of the 2023 Eleventh International Symposium on Computing and Networking Workshops (CANDARW), presented in the 10th International Workshop on Information and Communication Security (WICS 2023), p.292-297, Matsue, Japan, Nov 2023 ([10.1109/CANDARW60564.2023.00055](https://doi.org/10.1109/CANDARW60564.2023.00055), [ousar](https://ousar.lib.okayama-u.ac.jp/ja/68935))
 
 1. __Satoru Kobayashi__, Ryusei Shiiba, Ryosuke Miura, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "dot2net: A labeled graph approach for template-based configuration of emulation networks", in Proceedings of the 19th International Conference on Network and Service Management (CNSM 2023), pp.342-350, Niagara Falls, Canada, Oct 2023 ([10.23919/CNSM59352.2023.10327865](https://doi.org/10.23919/CNSM59352.2023.10327865), [IFIP](https://dl.ifip.org/db/conf/cnsm/cnsm2023/index.html), [paper](papers/cnsm2023.pdf), [slide](papers/cnsm2023_slide.pdf))
 
@@ -219,11 +221,9 @@
 
 ### 競争的研究費
 
-1. 科研費基盤研究(C), "オペレータ知識を活用するネットワーク障害原因究明支援技術の研究", 2025年4月-2030年3月 ([25K15079](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K15079/), 研究代表者)
-
 1. 科研費若手研究, "ネットワーク自動運用のための運用データ連携解析", 2022年4月-2025年3月 ([22K17886](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K17886/), 研究代表者)
 
-1. 戦略的情報通信研究開発推進事業(SCOPE)社会展開指向型研究開発(3年枠), "セマンティクス抽出と因果解析によるネットワーク障害対応支援に関する研究", 2019年4月-2022年3月 (#191603009, 研究分担者)
+1. 戦略的情報通信研究開発推進事業(SCOPE)社会展開指向型研究開発(3年枠), "セマンティクス抽出と因果解析によるネットワーク障害対応支援に関する研究", 2019年4月-2022年3月 (研究分担者, #191603009)
 
 1. 科研費若手研究, "トラブルシューティング・予測のための大規模ネットワークシステムログからの知識抽出", 2019年4月-2021年3月 ([19K20262](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K20262/), 研究代表者)
 
@@ -233,11 +233,9 @@
 
 1. 電子情報通信学会 英文論文誌B編集委員, 2024年6月-現在
 
-1. 情報処理学会中国支部運営委員, 2023年6月-2025年6月 ([url](https://www.ipsj-chugoku.jp/))
+1. 情報処理学会中国支部運営委員, 2023年4月-2025年3月 ([url](https://www.ipsj-chugoku.jp/))
 
 1. 情報処理学会 論文誌査読委員, 2021年4月-現在
-
-1. コンピュータセキュリティシンポジウム2025 実行委員, 2025年度 ([url](https://www.iwsec.org/css/2025/committee.html))
 
 ### 委員(国外)
 
