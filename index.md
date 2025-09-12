@@ -56,7 +56,7 @@ Okayama University
 
 ### Journal
 
-1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Insights into the IPv6 Scanning Landscape: An Extended Study Using Passive Darknets and Responsive Honeynets with Prefix Exposing Techniques," IEICE Transactions on Communications, vol.E109-B, no.2, Feb. 2026 (To appear)
+1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Insights into the IPv6 Scanning Landscape: An Extended Study Using Passive Darknets and Responsive Honeynets with Prefix Exposing Techniques," IEICE Transactions on Communications, vol.E109-B, no.2, Feb. 2026 (Early access, [10.23919/transcom.2025CEP0010](http://dx.doi.org/10.23919/transcom.2025CEP0010))
 
 1. __Satoru Kobayashi__, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "Topology-Driven Configuration of Emulation Networks With Deterministic Templating," IEEE Transactions on Network and Service Management, 2025 (Early access, [10.1109/TNSM.2025.3582212](https://doi.org/10.1109/TNSM.2025.3582212), [paper](papers/tnsm2025.pdf))
 
@@ -75,7 +75,7 @@ Okayama University
 
 ### International Conference (w/ review)
 
-1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Refining specifications for configuration repair with side effect diagnosis," The ACM SIGCOMM Workshop on Formal Methods Aided Network Operation (FMANO'25), Sydney, Australia, August 2025 (To appear)
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Refining specifications for configuration repair with side effect diagnosis," The 2nd Workshop on Formal Methods Aided Network Operation (FMANO'25), pp. 43-48, Sydney, Australia, August 2025 ([10.1145/3750022.3750464](https://doi.org/10.1145/3750022.3750464))
 
 1. Gaspard Damoiseau-Malraux, __Satoru Kobayashi__, Kensuke Fukuda, "Automatically pinpointing original logging functions from log messages for network troubleshooting," The 49th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2025), pp. 766-775, Toronto, Canada, July 2025 ([10.1109/COMPSAC65507.2025.00104](https://doi.org/10.1109/COMPSAC65507.2025.00104), [paper](papers/gaspard_compsac2025.pdf), [slide](papers/gaspard_compsac2025_slide.pdf))
 
