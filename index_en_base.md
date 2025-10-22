@@ -101,13 +101,17 @@ Okayama University
 
 ### Committee
 
+1. Expert Committee, IEICE Internet Architecture Research Group, Jun 2024 - Current
+
+1. Editor, IEICE Transactions on Communications, Jun 2024 - Current
+
+1. Reviewer, IPSJ Journal, 2021-Current
+
+1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees), [2025](https://networking.ifip.org/2025/index.php/committees)
+
 1. Student Travel Awards chair, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees)
 
-1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees)
-
 1. Technical Program Committee, International Workshop on Intent-Based Networking, [2023](http://www.adda-association.org/win-2023/Committees.html)
-
-1. IPSJ Journal Reviewer, 2021-Current
 
 <!--
 ### External Peer Review

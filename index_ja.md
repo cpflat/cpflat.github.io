@@ -55,7 +55,9 @@
 
 1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Insights into the IPv6 Scanning Landscape: An Extended Study Using Passive Darknets and Responsive Honeynets with Prefix Exposing Techniques," IEICE Transactions on Communications, vol.E109-B, no.2, Feb. 2026 (Early access, [10.23919/transcom.2025CEP0010](http://dx.doi.org/10.23919/transcom.2025CEP0010))
 
-1. __Satoru Kobayashi__, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "Topology-Driven Configuration of Emulation Networks With Deterministic Templating," IEEE Transactions on Network and Service Management, 2025 (Early access, [10.1109/TNSM.2025.3582212](https://doi.org/10.1109/TNSM.2025.3582212), [paper](papers/tnsm2025.pdf))
+1. Kazuma Saji, Toshihiro Yamauchi, __Satoru Kobayashi__, Hideo Taniguchi, "Enhancing Protection Against Code Reuse Attacks on IoT Devices by Randomizing Function Addresses," IEEE Access, 2026 (to appear)
+
+1. __Satoru Kobayashi__, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "Topology-Driven Configuration of Emulation Networks With Deterministic Templating," IEEE Transactions on Network and Service Management, vol.22, no.5, pp. 3933-3946, 2025 ([10.1109/TNSM.2025.3582212](https://doi.org/10.1109/TNSM.2025.3582212), [ousar](http://ousar.lib.okayama-u.ac.jp/69429), [paper](papers/tnsm2025.pdf))
 
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Verifying network-level properties for large-scale networks with header transformations in realtime," Journal of Information Processing, vol.33, pp.41-54, 2025 ([10.2197/ipsjjip.33.41](https://doi.org/10.2197/ipsjjip.33.41))
 
@@ -75,7 +77,7 @@
 
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Refining specifications for configuration repair with side effect diagnosis," The 2nd Workshop on Formal Methods Aided Network Operation (FMANO'25), pp. 43-48, Sydney, Australia, August 2025 ([10.1145/3750022.3750464](https://doi.org/10.1145/3750022.3750464))
 
-1. Gaspard Damoiseau-Malraux, __Satoru Kobayashi__, Kensuke Fukuda, "Automatically pinpointing original logging functions from log messages for network troubleshooting," The 49th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2025), pp. 766-775, Toronto, Canada, July 2025 ([10.1109/COMPSAC65507.2025.00104](https://doi.org/10.1109/COMPSAC65507.2025.00104), [paper](papers/gaspard_compsac2025.pdf), [slide](papers/gaspard_compsac2025_slide.pdf))
+1. Gaspard Damoiseau-Malraux, __Satoru Kobayashi__, Kensuke Fukuda, "Automatically pinpointing original logging functions from log messages for network troubleshooting," The 49th IEEE International Conference on Computers, Software, and Applications (COMPSAC 2025), pp. 766-775, Toronto, Canada, July 2025 ([10.1109/COMPSAC65507.2025.00104](https://doi.org/10.1109/COMPSAC65507.2025.00104), [ousar](https://ousar.lib.okayama-u.ac.jp/69270), [paper](papers/gaspard_compsac2025.pdf), [slide](papers/gaspard_compsac2025_slide.pdf))
 
 1. Daigo Michishita, __Satoru Kobayashi__, Toshihiro Yamauchi, "Investigation Towards Detecting Landing Websites for Fake Japanese Shopping Websites," The 13-th International Conference on Emerging Internet, Data & Web Technologies (EIDWT-2025), Lecture Notes in Data Engineering and Communication Technologies, Springer, vol. 243, pp. 107-119, Feb 2025 ([10.1007/978-3-031-86149-9_11](https://doi.org/10.1007/978-3-031-86149-9_11), [ousar](https://ousar.lib.okayama-u.ac.jp/ja/68930))
 
@@ -223,6 +225,8 @@
 
 ### 競争的研究費
 
+1. 科研費基盤研究(C), "オペレータ知識を活用するネットワーク障害原因究明支援技術の研究", 2025年4月-2030年3月 ([25K15079](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K15079/), 研究代表者)
+
 1. 科研費若手研究, "ネットワーク自動運用のための運用データ連携解析", 2022年4月-2025年3月 ([22K17886](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K17886/), 研究代表者)
 
 1. 戦略的情報通信研究開発推進事業(SCOPE)社会展開指向型研究開発(3年枠), "セマンティクス抽出と因果解析によるネットワーク障害対応支援に関する研究", 2019年4月-2022年3月 (研究分担者, #191603009)
@@ -235,20 +239,24 @@
 
 1. 電子情報通信学会 英文論文誌B編集委員, 2024年6月-現在
 
-1. 情報処理学会中国支部運営委員, 2023年4月-2025年3月 ([url](https://www.ipsj-chugoku.jp/))
+1. コンピュータセキュリティシンポジウム(CSS) 実行委員 ([2025年](https://www.iwsec.org/css/2025/committee.html))
+
+1. マルウェアとサイバー攻撃対策研究人材育成ワークショップ(MWS) プログラム委員 ([2025年](https://www.iwsec.org/mws/2025/committee.html))
 
 1. 情報処理学会 論文誌査読委員, 2021年4月-現在
 
+1. 情報処理学会中国支部運営委員, 2023年4月-2025年3月 ([url](https://www.ipsj-chugoku.jp/))
+
 ### 委員(国外)
 
-1. Student Travel Awards chair, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees)
+1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees), [2025](https://networking.ifip.org/2025/index.php/committees)
 
-1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees)
+1. Student Travel Awards chair, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees)
 
 1. Technical Program Committee, International Workshop on Intent-Based Networking, [2023](http://www.adda-association.org/win-2023/Committees.html)
 
 
-### 外部講義
+### 講義
 
 - 岡山大学での講義情報は[こちら](https://soran.cc.okayama-u.ac.jp/html/f5c5f5b65f24e484d077bc38d49d4023_ja.html)
 
