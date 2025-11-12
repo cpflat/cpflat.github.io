@@ -1,4 +1,6 @@
-% 小林 諭
+---
+title: "小林 諭"
+---
 
 ![](crw_speak_face.jpg)
 

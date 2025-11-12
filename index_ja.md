@@ -1,4 +1,6 @@
-% 小林 諭
+---
+title: "小林 諭"
+---
 
 ![](crw_speak_face.jpg)
 
@@ -53,11 +55,11 @@
 
 ### 論文誌
 
-1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Insights into the IPv6 Scanning Landscape: An Extended Study Using Passive Darknets and Responsive Honeynets with Prefix Exposing Techniques," IEICE Transactions on Communications, vol.E109-B, no.2, Feb. 2026 (Early access, [10.23919/transcom.2025CEP0010](http://dx.doi.org/10.23919/transcom.2025CEP0010))
+1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Insights into the IPv6 Scanning Landscape: An Extended Study Using Passive Darknets and Responsive Honeynets with Prefix Exposing Techniques," IEICE Transactions on Communications, vol.E109-B, no.2, Feb, 2026 (Early access, [10.23919/transcom.2025CEP0010](http://dx.doi.org/10.23919/transcom.2025CEP0010))
 
-1. Kazuma Saji, Toshihiro Yamauchi, __Satoru Kobayashi__, Hideo Taniguchi, "Enhancing Protection Against Code Reuse Attacks on IoT Devices by Randomizing Function Addresses," IEEE Access, 2025 (Early Access, [10.1109/ACCESS.2025.3626065](https://doi.org/10.1109/ACCESS.2025.3626065))
+1. Kazuma Saji, Toshihiro Yamauchi, __Satoru Kobayashi__, Hideo Taniguchi, "Enhancing Protection Against Code Reuse Attacks on IoT Devices by Randomizing Function Addresses," IEEE Access, vol.13, pp.185111-185124, Dec, 2025 ([10.1109/ACCESS.2025.3626065](https://doi.org/10.1109/ACCESS.2025.3626065))
 
-1. __Satoru Kobayashi__, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "Topology-Driven Configuration of Emulation Networks With Deterministic Templating," IEEE Transactions on Network and Service Management, vol.22, no.5, pp. 3933-3946, 2025 ([10.1109/TNSM.2025.3582212](https://doi.org/10.1109/TNSM.2025.3582212), [ousar](http://ousar.lib.okayama-u.ac.jp/69429), [paper](papers/tnsm2025.pdf))
+1. __Satoru Kobayashi__, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "Topology-Driven Configuration of Emulation Networks With Deterministic Templating," IEEE Transactions on Network and Service Management, vol.22, no.5, pp.3933-3946, 2025 ([10.1109/TNSM.2025.3582212](https://doi.org/10.1109/TNSM.2025.3582212), [ousar](http://ousar.lib.okayama-u.ac.jp/69429), [paper](papers/tnsm2025.pdf))
 
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Verifying network-level properties for large-scale networks with header transformations in realtime," Journal of Information Processing, vol.33, pp.41-54, 2025 ([10.2197/ipsjjip.33.41](https://doi.org/10.2197/ipsjjip.33.41))
 

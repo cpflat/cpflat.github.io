@@ -1,4 +1,6 @@
-% Satoru Kobayashi
+---
+title: "Satoru Kobayashi"
+---
 
 ![](crw_speak_face.jpg)
 
