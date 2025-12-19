@@ -60,7 +60,7 @@ Okayama University
 
 1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Insights into the IPv6 Scanning Landscape: An Extended Study Using Passive Darknets and Responsive Honeynets with Prefix Exposing Techniques," IEICE Transactions on Communications, vol.E109-B, no.2, Feb, 2026 (Early access, [10.23919/transcom.2025CEP0010](http://dx.doi.org/10.23919/transcom.2025CEP0010))
 
-1. Kazuma Saji, Toshihiro Yamauchi, __Satoru Kobayashi__, Hideo Taniguchi, "Enhancing Protection Against Code Reuse Attacks on IoT Devices by Randomizing Function Addresses," IEEE Access, vol.13, pp.185111-185124, Oct, 2025 ([10.1109/ACCESS.2025.3626065](https://doi.org/10.1109/ACCESS.2025.3626065))
+1. Kazuma Saji, Toshihiro Yamauchi, __Satoru Kobayashi__, Hideo Taniguchi, "Enhancing Protection Against Code Reuse Attacks on IoT Devices by Randomizing Function Addresses," IEEE Access, vol.13, pp.185111-185124, Oct, 2025 ([10.1109/ACCESS.2025.3626065](https://doi.org/10.1109/ACCESS.2025.3626065), [ousar](http://ousar.lib.okayama-u.ac.jp/69513))
 
 1. __Satoru Kobayashi__, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "Topology-Driven Configuration of Emulation Networks With Deterministic Templating," IEEE Transactions on Network and Service Management, vol.22, no.5, pp.3933-3946, Oct, 2025 ([10.1109/TNSM.2025.3582212](https://doi.org/10.1109/TNSM.2025.3582212), [ousar](http://ousar.lib.okayama-u.ac.jp/69429), [paper](papers/tnsm2025.pdf))
 
@@ -79,7 +79,7 @@ Okayama University
 
 ### International Conference (w/ review)
 
-1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Exposed in the Pool: An Analysis of IPv6 NTP Server Scanning Activities," 2025 IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, December 2025 (To appear)
+1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Exposed in the Pool: An Analysis of IPv6 NTP Server Scanning Activities," 2025 IEEE Global Communications Conference (GLOBECOM), pp. 3801-3806, Taipei, Taiwan, December 2025
 
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Refining specifications for configuration repair with side effect diagnosis," The 2nd Workshop on Formal Methods Aided Network Operation (FMANO'25), pp. 43-48, Sydney, Australia, August 2025 ([10.1145/3750022.3750464](https://doi.org/10.1145/3750022.3750464))
 
