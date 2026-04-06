@@ -16,12 +16,19 @@ Please direct these requests to the appropriate person.
 ## Profile
 
 ### Affiliation
+Associate Professor,
+Graduate School of Information Sciences,
+Hiroshima City University
+
+<!--
 Assistant Professor,
 Faculty of Environmental, Life, Natural Science and Technology,
 Okayama University
+-->
 
 ### Experience
-- Oct 2022 - Current: Okayama University, Assistant Professor
+- Apr 2026 - Current: Hiroshima City University, Associate Professor
+- October 2022 - March 2026: Okayama University, Assistant Professor
 - April 2018 - Sep 2022: National Institute of Informatics, Project Researcher
 - September 2019 - March 2022: Shibaura Institute of Technology, Part-time Lecturer
 
@@ -38,12 +45,14 @@ Okayama University
 
 ### Related organization
 - [WIDE Project](http://www.wide.ad.jp/index.html)
+- [Consortium of Complex Communication Science (CCCS), Hiroshima City University](https://www.cccs.info.hiroshima-cu.ac.jp/)
 - [Yamauchi Lab., Okayama University](https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index.html)
 - [Fukuda Lab., National Institute of Informatics](http://www.fukuda-lab.org/)
 - [Esaki Lab., The University of Tokyo](https://www.hongo.wide.ad.jp/en/)
 
 ### E-mail
-- sat [at] okayama-u [dt] ac [dt] jp
+- sat3 [at] hiroshima-cu [dt] ac [dt] jp
+<!-- - sat [at] okayama-u [dt] ac [dt] jp -->
 - sat [at] 3at [dt] work
 
 
@@ -173,7 +182,9 @@ Okayama University
 
 ### Poster Presentation
 
-1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Design and Implementation of IPv6 Scan Detection System", IEICE General Conference, Omiya, 2023年3月
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Towards Separating Routing State Exploration from Protocol Semantics in Control Plane Verification", IEEE INFOCOM 2026 - IEEE Conference on Computer Communications: Poster, Tokyo, Japan, May 2026
+
+1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Design and Implementation of IPv6 Scan Detection System", IEICE General Conference, Omiya, Japan, Mar 2023
 
 1. __Satoru Kobayashi__, Ryusei Shiiba, Kensuke Fukuda, "Dot2tinet: A graph-based network configuration platform for large-scale emulation networks", The 17th Asian Internet Engineering Conference (AINTEC 2022), Hiroshima, Japan, Dec 2022
 
@@ -232,11 +243,19 @@ Okayama University
 1. IEEE International Workshop on Big Data Management and Infrastructure for the Internet of Things, 2018
 -->
 
+<!--
 ### Lecture
+
+- Information Technology Track, Information Technology, Electrical Engineering, and Mathematical and Data Sciences Program, Faculty of Engineering, "Exercises on Programming 1 and 2" (Summar term, 2023-2025)
+
+- Information Technology Track, Information Technology, Electrical Engineering, and Mathematical and Data Sciences Program, Faculty of Engineering, "Information Engineering Experiment C" (Second half of winter term, 2022-2025)
+
+-
 
 - Lectures at Okayama University -> [url](https://soran.cc.okayama-u.ac.jp/html/f5c5f5b65f24e484d077bc38d49d4023_en.html)
 
 - College of Engineering and Design Department of Engineering and Design, Shibaura Institute of Technology, "Information Network" (Winter term, [2019](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2019/dsn/115765.html.en), [2020](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2020/dsn/120860.html.en), [2021](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2021/dsn/126034.html.en))
+-->
 
 ### Others
 
@@ -255,6 +274,5 @@ His research interests are network management and data mining.
 ## About this page
 
 - [www.3at.work](http://www.3at.work) is hosted on Github Pages. [cpflat.github.io](https://cpflat.github.io)
-- [www.swlab.cs.okayama-u.ac.jp/~sat/](https://www.swlab.cs.okayama-u.ac.jp/~sat/index.html) is hosted on [Yamauchi Lab.](https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index.html) servers.
 
 

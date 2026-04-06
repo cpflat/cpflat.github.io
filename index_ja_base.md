@@ -9,11 +9,12 @@ title: "小林 諭"
 ## 概要
 
 ### 所属
-岡山大学 学術研究院環境生命自然科学学域
-助教
+広島市立大学 大学院情報科学研究科
+准教授
 
 ### 経歴
-- 2023年4月 - 現職: 岡山大学 学術研究院環境生命自然科学学域 助教
+- 2026年4月 - 現職: 広島市立大学 大学院情報科学研究科 准教授
+- 2023年4月 - 2026年3月: 岡山大学 学術研究院環境生命自然科学学域 助教
 - 2022年10月 - 2023年3月: 岡山大学 学術研究院自然科学学域(工) 助教
 - 2018年4月 - 2022年9月: 国立情報学研究所 特任研究員
 - 2019年9月 - 2022年3月: 芝浦工業大学 非常勤講師
@@ -31,12 +32,14 @@ title: "小林 諭"
 
 ### 関連組織
 - [WIDE Project](http://www.wide.ad.jp/index.html)
+- [複雑コミュニケーション科学研究グループ@広島市立大学](https://www.cccs.info.hiroshima-cu.ac.jp/)
 - [山内研究室@岡山大学](https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index-j.html)
 - [福田研究室@国立情報学研究所](http://www.fukuda-lab.org/)
 - [江崎研究室@東京大学](http://www.hongo.wide.ad.jp/)
 
 ### メール
-- sat [at] okayama-u [dt] ac [dt] jp
+- sat3 [at] hiroshima-cu [dt] ac [dt] jp
+<!-- - sat [at] okayama-u [dt] ac [dt] jp -->
 - sat [at] 3at [dt] work
 
 
@@ -128,18 +131,24 @@ title: "小林 諭"
 
 ### 委員(国外)
 
-1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees), [2025](https://networking.ifip.org/2025/index.php/committees)
+1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees), [2025](https://networking.ifip.org/2025/index.php/committees), [2026]
 
 1. Student Travel Awards chair, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees)
 
 1. Technical Program Committee, International Workshop on Intent-Based Networking, [2023](http://www.adda-association.org/win-2023/Committees.html)
 
 
-### 講義
+### 主な講義担当歴
 
-- 岡山大学での講義情報は[こちら](https://soran.cc.okayama-u.ac.jp/html/f5c5f5b65f24e484d077bc38d49d4023_ja.html)
+- 岡山大学工学部工学科 情報・電気・数理データサイエンス系 情報工学コース 「プログラミング演習1, 2」(1, 2学期, 2023-2025)
 
-- 芝浦工業大学デザイン工学部 情報ネットワーク (冬学期, [2019](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2019/dsn/115765.html.ja), [2020](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2020/dsn/120860.html.ja), [2021](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2021/dsn/126034.html.ja))
+- 岡山大学工学部工学科 情報・電気・数理データサイエンス系 情報工学コース 「情報工学実験C」(主にネットワーク実験を担当, 4学期, 2022-2025)
+
+- 岡山大学大学院環境生命自然科学研究科 「ソフトウェア開発法(基礎), ソフトウェア開発法(応用), ソフトウェア開発実習」(前期, 2024-2025)
+
+- 岡山大学大学院環境生命自然科学研究科 「AI・IoT統合開発実践」(前期, 2025)
+
+- 芝浦工業大学デザイン工学部 「情報ネットワーク」 (冬学期, [2019](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2019/dsn/115765.html.ja), [2020](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2020/dsn/120860.html.ja), [2021](http://syllabus.sic.shibaura-it.ac.jp/syllabus/2021/dsn/126034.html.ja))
 
 ### その他
 
@@ -158,6 +167,5 @@ His research interests are network management and data mining.
 ## このページについて
 
 - [www.3at.work](http://www.3at.work) はGithub Pagesでホストされています [cpflat.github.io](https://cpflat.github.io)
-- [www.swlab.cs.okayama-u.ac.jp/~sat/](https://www.swlab.cs.okayama-u.ac.jp/~sat/index_ja.html) は[山内研究室@岡山大学](https://www.swlab.cs.okayama-u.ac.jp/lab/yamauchi/index-j.html)でホストされています
 
 

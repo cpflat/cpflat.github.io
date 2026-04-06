@@ -1,3 +1,5 @@
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Towards Separating Routing State Exploration from Protocol Semantics in Control Plane Verification", IEEE INFOCOM 2026 - IEEE Conference on Computer Communications: Poster, Tokyo, Japan, May 2026
+
 1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Design and Implementation of IPv6 Scan Detection System", 電子情報通信学会総合大会, 大宮, 2023年3月
 
 1. __Satoru Kobayashi__, Ryusei Shiiba, Kensuke Fukuda, "Dot2tinet: A graph-based network configuration platform for large-scale emulation networks", The 17th Asian Internet Engineering Conference (AINTEC 2022), Hiroshima, Japan, Dec 2022
