@@ -131,7 +131,7 @@ title: "小林 諭"
 
 ### 委員(国外)
 
-1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees), [2025](https://networking.ifip.org/2025/index.php/committees), [2026]
+1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees), [2025](https://networking.ifip.org/2025/index.php/committees), [2026](https://networking.ifip.org/2026/index.php/committees)
 
 1. Student Travel Awards chair, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees)
 
@@ -160,7 +160,7 @@ title: "小林 諭"
 - Bio 
 ```
 Satoru Kobayashi received the Ph.D. degree in information science and technology from the University of Tokyo, Tokyo Japan, in 2018.
-He is an Assistant Professor at Faculty of Environmental, Life, Natural Science and Technology, Okayama University.
+He is an Associate Professor at Graduate School of Information Sciences, Hiroshima City University.
 His research interests are network management and data mining.
 ```
 

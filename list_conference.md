@@ -1,4 +1,6 @@
-1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Exposed in the Pool: An Analysis of IPv6 NTP Server Scanning Activities," 2025 IEEE Global Communications Conference (GLOBECOM), pp. 3801-3806, Taipei, Taiwan, December 2025
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Iterative Specification Refinement towards Side Effect Free Configuration Repair," The 22nd International Conference on emerging Networking EXperiments and Technologies (CoNEXT'26), Utrecht, Netherlands, December 2026 (To appear)
+
+1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Exposed in the Pool: An Analysis of IPv6 NTP Server Scanning Activities," 2025 IEEE Global Communications Conference (GLOBECOM), pp. 3801-3806, Taipei, Taiwan, December 2025 ([10.1109/GLOBECOM59602.2025.11432775](https://doi.org/10.1109/GLOBECOM59602.2025.11432775))
 
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Refining specifications for configuration repair with side effect diagnosis," The 2nd Workshop on Formal Methods Aided Network Operation (FMANO'25), pp. 43-48, Sydney, Australia, August 2025 ([10.1145/3750022.3750464](https://doi.org/10.1145/3750022.3750464))
 

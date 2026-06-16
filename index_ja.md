@@ -58,11 +58,15 @@ title: "小林 諭"
 
 ### 論文誌
 
-1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Insights into the IPv6 Scanning Landscape: An Extended Study Using Passive Darknets and Responsive Honeynets with Prefix Exposing Techniques," IEICE Transactions on Communications, vol.E109-B, no.2, Feb, 2026 (Early access, [10.23919/transcom.2025CEP0010](http://dx.doi.org/10.23919/transcom.2025CEP0010))
+1. __Satoru Kobayashi__, Gaspard Damoiseau-Malraux, Kensuke Fukuda, "Efficient Identification of Original Logging Functions from Log Messages for Network Troubleshooting," Journal of Information Processing, vol.34, September, 2026 (To appear)
 
-1. Kazuma Saji, Toshihiro Yamauchi, __Satoru Kobayashi__, Hideo Taniguchi, "Enhancing Protection Against Code Reuse Attacks on IoT Devices by Randomizing Function Addresses," IEEE Access, vol.13, pp.185111-185124, Oct, 2025 ([10.1109/ACCESS.2025.3626065](https://doi.org/10.1109/ACCESS.2025.3626065), [ousar](http://ousar.lib.okayama-u.ac.jp/69513))
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Symbolic Extraction of Packet Forwarding Behaviors to Identify Causes and Impacts of Network Failures," Journal of Information Processing, vol.34, September, 2026 (To appear)
 
-1. __Satoru Kobayashi__, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "Topology-Driven Configuration of Emulation Networks With Deterministic Templating," IEEE Transactions on Network and Service Management, vol.22, no.5, pp.3933-3946, Oct, 2025 ([10.1109/TNSM.2025.3582212](https://doi.org/10.1109/TNSM.2025.3582212), [ousar](http://ousar.lib.okayama-u.ac.jp/69429), [paper](papers/tnsm2025.pdf))
+1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Insights into the IPv6 Scanning Landscape: An Extended Study Using Passive Darknets and Responsive Honeynets with Prefix Exposing Techniques," IEICE Transactions on Communications, vol.E109-B, no.2, pp.269-281, February, 2026 ([10.23919/transcom.2025CEP0010](http://dx.doi.org/10.23919/transcom.2025CEP0010))
+
+1. Kazuma Saji, Toshihiro Yamauchi, __Satoru Kobayashi__, Hideo Taniguchi, "Enhancing Protection Against Code Reuse Attacks on IoT Devices by Randomizing Function Addresses," IEEE Access, vol.13, pp.185111-185124, October, 2025 ([10.1109/ACCESS.2025.3626065](https://doi.org/10.1109/ACCESS.2025.3626065), [ousar](http://ousar.lib.okayama-u.ac.jp/69513))
+
+1. __Satoru Kobayashi__, Ryusei Shiiba, Shinsuke Miwa, Toshiyuki Miyachi, Kensuke Fukuda, "Topology-Driven Configuration of Emulation Networks With Deterministic Templating," IEEE Transactions on Network and Service Management, vol.22, no.5, pp.3933-3946, October, 2025 ([10.1109/TNSM.2025.3582212](https://doi.org/10.1109/TNSM.2025.3582212), [ousar](http://ousar.lib.okayama-u.ac.jp/69429), [paper](papers/tnsm2025.pdf))
 
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Verifying network-level properties for large-scale networks with header transformations in realtime," Journal of Information Processing, vol.33, pp.41-54, 2025 ([10.2197/ipsjjip.33.41](https://doi.org/10.2197/ipsjjip.33.41))
 
@@ -78,7 +82,9 @@ title: "小林 諭"
 
 ### 国際会議
 
-1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Exposed in the Pool: An Analysis of IPv6 NTP Server Scanning Activities," 2025 IEEE Global Communications Conference (GLOBECOM), pp. 3801-3806, Taipei, Taiwan, December 2025
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Iterative Specification Refinement towards Side Effect Free Configuration Repair," The 22nd International Conference on emerging Networking EXperiments and Technologies (CoNEXT'26), Utrecht, Netherlands, December 2026 (To appear)
+
+1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Exposed in the Pool: An Analysis of IPv6 NTP Server Scanning Activities," 2025 IEEE Global Communications Conference (GLOBECOM), pp. 3801-3806, Taipei, Taiwan, December 2025 ([10.1109/GLOBECOM59602.2025.11432775](https://doi.org/10.1109/GLOBECOM59602.2025.11432775))
 
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Refining specifications for configuration repair with side effect diagnosis," The 2nd Workshop on Formal Methods Aided Network Operation (FMANO'25), pp. 43-48, Sydney, Australia, August 2025 ([10.1145/3750022.3750464](https://doi.org/10.1145/3750022.3750464))
 
@@ -256,7 +262,7 @@ title: "小林 諭"
 
 ### 委員(国外)
 
-1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees), [2025](https://networking.ifip.org/2025/index.php/committees), [2026]
+1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees), [2025](https://networking.ifip.org/2025/index.php/committees), [2026](https://networking.ifip.org/2026/index.php/committees)
 
 1. Student Travel Awards chair, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees)
 
@@ -285,7 +291,7 @@ title: "小林 諭"
 - Bio
 ```
 Satoru Kobayashi received the Ph.D. degree in information science and technology from the University of Tokyo, Tokyo Japan, in 2018.
-He is an Assistant Professor at Faculty of Environmental, Life, Natural Science and Technology, Okayama University.
+He is an Associate Professor at Graduate School of Information Sciences, Hiroshima City University.
 His research interests are network management and data mining.
 ```
 

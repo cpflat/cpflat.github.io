@@ -7,10 +7,12 @@ title: "Satoru Kobayashi"
 [english](./index.html) / [japanese](./index_ja.html)
 
 
+<!--
 ## For foreign students
 Satoru Kobayashi is not the head of a laboratory, so he will not handle the admission of international students or research fellows.
 He will not respond to any emails requesting such admissions.
 Please direct these requests to the appropriate person.
+-->
 
 
 ## Profile
@@ -103,6 +105,8 @@ Okayama University
 
 ### Research Funds
 
+1. JSPS Grant-in-Aid for Scientific Research (C), "Root cause analysis of network troubles by leveraging operator knowledge", Apr 2025 - Mar 2030 (As principal researcher, [25K15079](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-25K15079/))
+
 1. JSPS Grant-in-Aid for Early-Career Scientists, "Collaborative operational data analysis for network automation", Apr 2022 - Mar 2025 (As principal researcher, [22K17886](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22K17886/))
 
 1. MIC Strategic Information and Communications R&D Promotion Programme (SCOPE), "セマンティクス抽出と因果解析によるネットワーク障害対応支援に関する研究", Apr 2019 - Mar 2022 (#191603009)
@@ -118,7 +122,7 @@ Okayama University
 
 1. Reviewer, IPSJ Journal, 2021-Current
 
-1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees), [2025](https://networking.ifip.org/2025/index.php/committees)
+1. Technical Program Committee, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees), [2025](https://networking.ifip.org/2025/index.php/committees), [2026](https://networking.ifip.org/2026/index.php/committees)
 
 1. Student Travel Awards chair, IFIP Networking, [2024](https://networking.ifip.org/2024/index.php/committees)
 
@@ -162,7 +166,7 @@ Okayama University
 - Bio 
 ```
 Satoru Kobayashi received the Ph.D. degree in information science and technology from the University of Tokyo, Tokyo Japan, in 2018.
-He is an Assistant Professor at Faculty of Environmental, Life, Natural Science and Technology, Okayama University.
+He is an Associate Professor at Graduate School of Information Sciences, Hiroshima City University.
 His research interests are network management and data mining.
 ```
 
