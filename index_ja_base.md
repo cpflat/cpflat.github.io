@@ -66,7 +66,7 @@ title: "小林 諭"
 
 ### 査読あり国内会議
 
-1. 大友 一樹, __小林 諭__, 福田 健介, 江崎 浩, "システムログ異常予測に向けたバースト性と因果関係の解析", The Eighteenth Workshop on Internet Technology (WIT2017), p.8, 愛媛, 2017年6月
+1. 大友 一樹, __小林 諭__, 福田 健介, 江崎 浩, "システムログ異常予測に向けたバースト性と因果関係の解析", The Eighteenth Workshop on Internet Technology (WIT2017), 8 pages, 愛媛, 2017年6月
 
 
 ### 国内会議・技術報告
@@ -92,6 +92,8 @@ title: "小林 諭"
 ## 活動
 
 ### 受賞
+
+1. Ryusei Shiiba, Ryo Nakamura, Yohei Kuga, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Symbolic Extraction of Packet Forwarding Behaviors to Identify Causes and Impacts of Network Failures", IPSJ JIP Specially Selected Paper, Sep 1, 2026
 
 1. 佐治和馬, 山内利宏, __小林諭__, 谷口秀夫, コンピュータセキュリティシンポジウム2023 CSS奨励賞 "実行ファイルにおける関数配置順序のランダム化によるコード再利用攻撃への耐性向上手法の提案", 2023年11月
 
@@ -152,6 +154,7 @@ title: "小林 諭"
 
 ### その他
 
+- [広島市立大学教員総覧](https://hcur1.acoffice.biz/hcuhp/KgApp/k03/resid/S001888)
 - [GitHub](https://github.com/cpflat)
 - [Google scholar](https://scholar.google.co.jp/citations?user=9G_WRYEAAAAJ)
 - [Linkedin](https://www.linkedin.com/in/sat-pub/)

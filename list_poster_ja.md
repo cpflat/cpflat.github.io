@@ -1,4 +1,4 @@
-1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Towards Separating Routing State Exploration from Protocol Semantics in Control Plane Verification", IEEE INFOCOM 2026 - IEEE Conference on Computer Communications: Poster, Tokyo, Japan, May 2026
+1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Towards Separating Routing State Exploration from Protocol Semantics in Control Plane Verification", IEEE INFOCOM 2026 - IEEE Conference on Computer Communications: Poster, pp.2999-3000, Tokyo, Japan, May 2026 ([10.1109/INFOCOM59046.2026.11571304](https://doi.org/10.1109/INFOCOM59046.2026.11571304))
 
 1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Design and Implementation of IPv6 Scan Detection System", 電子情報通信学会総合大会, 大宮, 2023年3月
 
@@ -10,5 +10,5 @@
 
 1. Yudai Aratsu, __Satoru Kobayashi__, Kensuke Fukuda, Hiroshi Esaki, "Collecting a large number of active IPv6 addresses", Internet Conference 2018, Tokyo, Japan, Nov, 2018 ([Poster Award](https://www.internetconference.org/ic2018/program.html#award))
 
-1. __小林 諭__, 福田 健介, 江崎 浩, "システムログの意味抽出のための自然言語処理的アプローチによる解析手法の検討", インターネットコンファレンス2013, p.2, 東京, 2013年10月
+1. __小林 諭__, 福田 健介, 江崎 浩, "システムログの意味抽出のための自然言語処理的アプローチによる解析手法の検討", インターネットコンファレンス2013, 東京, 2013年10月
 

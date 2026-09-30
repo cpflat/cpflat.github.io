@@ -96,6 +96,8 @@ Okayama University
 
 ### Awards
 
+1. Ryusei Shiiba, Ryo Nakamura, Yohei Kuga, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Symbolic Extraction of Packet Forwarding Behaviors to Identify Causes and Impacts of Network Failures", IPSJ JIP Specially Selected Paper, Sep 1, 2026
+
 1. IEEE/IFIP IM 2017 Student Travel Grants, May, 2017
 
 1. ACM SIGCOMM Grants/CoNext 2016, Dec, 2016
@@ -158,6 +160,7 @@ Okayama University
 
 ### Others
 
+- [Hiroshima City University - Faculty Information](https://hcur1.acoffice.biz/hcuhp/KgApp/k03/resid/S001888?lang=en)
 - [GitHub](https://github.com/cpflat)
 - [Google scholar](https://scholar.google.co.jp/citations?user=9G_WRYEAAAAJ)
 - [Linkedin](https://www.linkedin.com/in/sat-pub/)
