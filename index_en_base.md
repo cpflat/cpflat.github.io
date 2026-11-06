@@ -96,7 +96,7 @@ Okayama University
 
 ### Awards
 
-1. Ryusei Shiiba, Ryo Nakamura, Yohei Kuga, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Symbolic Extraction of Packet Forwarding Behaviors to Identify Causes and Impacts of Network Failures", IPSJ JIP Specially Selected Paper, Sep 1, 2026
+1. Ryusei Shiiba, Ryo Nakamura, Yohei Kuga, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Symbolic Extraction of Packet Forwarding Behaviors to Identify Causes and Impacts of Network Failures", IPSJ JIP Specially Selected Paper, Sep 1, 2026 ([link](https://www.ipsj.or.jp/english/organization/aboutipsj/award/ssp_award.html))
 
 1. IEEE/IFIP IM 2017 Student Travel Grants, May, 2017
 
@@ -120,7 +120,7 @@ Okayama University
 
 1. Expert Committee, IEICE Internet Architecture Research Group, Jun 2024 - Current
 
-1. Editor, IEICE Transactions on Communications, Jun 2024 - Current
+1. Editor, IEICE Transactions on Communications, Jun 2024 - Current ([link](https://globals.ieice.org/en_publications/editorial_board/EB/))
 
 1. Reviewer, IPSJ Journal, 2021-Current
 

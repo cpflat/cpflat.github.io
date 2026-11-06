@@ -2,10 +2,6 @@
 
 1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Comparing IPv4 and IPv6 Scanning Activities in the Wild: A Cross-Protocol and Cross-Exposure Study," Proceedings of the 22nd International Conference on Network and Service Management (CNSM2026), 7 pages, Oct 2026 (To appear)
 
-<!-- 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Iterative Specification Refinement towards Side Effect Free Configuration Repair," The 22nd International Conference on emerging Networking EXperiments and Technologies (CoNEXT'26), Utrecht, Netherlands, 23 pages, Dec 2026 (To appear) -->
-
-<!--1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Towards Separating Routing State Exploration from Protocol Semantics in Control Plane Verification," IEEE INFOCOM 2026 - IEEE Conference on Computer Communications: Poster, pp.2999-3000, May 2026 ([10.1109/INFOCOM59046.2026.11571304](https://doi.org/10.1109/INFOCOM59046.2026.11571304))-->
-
 1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Exposed in the Pool: An Analysis of IPv6 NTP Server Scanning Activities," 2025 IEEE Global Communications Conference (GLOBECOM), pp.3807-3812, Taipei, Taiwan, Dec 2025 ([10.1109/GLOBECOM59602.2025.11432775](https://doi.org/10.1109/GLOBECOM59602.2025.11432775))
 
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Refining specifications for configuration repair with side effect diagnosis," The 2nd Workshop on Formal Methods Aided Network Operation (FMANO'25), pp. 43-48, Coimbra, Portugal, Sep 2025 ([10.1145/3750022.3750464](https://doi.org/10.1145/3750022.3750464))

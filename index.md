@@ -100,10 +100,6 @@ Okayama University
 
 1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Comparing IPv4 and IPv6 Scanning Activities in the Wild: A Cross-Protocol and Cross-Exposure Study," Proceedings of the 22nd International Conference on Network and Service Management (CNSM2026), 7 pages, Oct 2026 (To appear)
 
-<!-- 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Iterative Specification Refinement towards Side Effect Free Configuration Repair," The 22nd International Conference on emerging Networking EXperiments and Technologies (CoNEXT'26), Utrecht, Netherlands, 23 pages, Dec 2026 (To appear) -->
-
-1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Towards Separating Routing State Exploration from Protocol Semantics in Control Plane Verification," IEEE INFOCOM 2026 - IEEE Conference on Computer Communications: Poster, pp.2999-3000, May 2026 ([10.1109/INFOCOM59046.2026.11571304](https://doi.org/10.1109/INFOCOM59046.2026.11571304))
-
 1. Liang Zhao, __Satoru Kobayashi__, Kensuke Fukuda, "Exposed in the Pool: An Analysis of IPv6 NTP Server Scanning Activities," 2025 IEEE Global Communications Conference (GLOBECOM), pp.3807-3812, Taipei, Taiwan, Dec 2025 ([10.1109/GLOBECOM59602.2025.11432775](https://doi.org/10.1109/GLOBECOM59602.2025.11432775))
 
 1. Ryusei Shiiba, __Satoru Kobayashi__, Osamu Akashi, Kensuke Fukuda, "Refining specifications for configuration repair with side effect diagnosis," The 2nd Workshop on Formal Methods Aided Network Operation (FMANO'25), pp. 43-48, Coimbra, Portugal, Sep 2025 ([10.1145/3750022.3750464](https://doi.org/10.1145/3750022.3750464))
@@ -215,7 +211,7 @@ Okayama University
 
 ### Awards
 
-1. Ryusei Shiiba, Ryo Nakamura, Yohei Kuga, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Symbolic Extraction of Packet Forwarding Behaviors to Identify Causes and Impacts of Network Failures", IPSJ JIP Specially Selected Paper, Sep 1, 2026
+1. Ryusei Shiiba, Ryo Nakamura, Yohei Kuga, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Symbolic Extraction of Packet Forwarding Behaviors to Identify Causes and Impacts of Network Failures", IPSJ JIP Specially Selected Paper, Sep 1, 2026 ([link](https://www.ipsj.or.jp/english/organization/aboutipsj/award/ssp_award.html))
 
 1. IEEE/IFIP IM 2017 Student Travel Grants, May, 2017
 
@@ -239,7 +235,7 @@ Okayama University
 
 1. Expert Committee, IEICE Internet Architecture Research Group, Jun 2024 - Current
 
-1. Editor, IEICE Transactions on Communications, Jun 2024 - Current
+1. Editor, IEICE Transactions on Communications, Jun 2024 - Current ([link](https://globals.ieice.org/en_publications/editorial_board/EB/))
 
 1. Reviewer, IPSJ Journal, 2021-Current
 

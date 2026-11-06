@@ -93,13 +93,13 @@ title: "小林 諭"
 
 ### 受賞
 
-1. Ryusei Shiiba, Ryo Nakamura, Yohei Kuga, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Symbolic Extraction of Packet Forwarding Behaviors to Identify Causes and Impacts of Network Failures", IPSJ JIP Specially Selected Paper, Sep 1, 2026
+1. Ryusei Shiiba, Ryo Nakamura, Yohei Kuga, __Satoru Kobayashi__, Osamu Akashi, Hiroki Shirokura, Kensuke Fukuda, "Symbolic Extraction of Packet Forwarding Behaviors to Identify Causes and Impacts of Network Failures", IPSJ JIP Specially Selected Paper, Sep 1, 2026 ([link](https://www.ipsj.or.jp/english/organization/aboutipsj/award/ssp_award.html))
 
 1. 佐治和馬, 山内利宏, __小林諭__, 谷口秀夫, コンピュータセキュリティシンポジウム2023 CSS奨励賞 "実行ファイルにおける関数配置順序のランダム化によるコード再利用攻撃への耐性向上手法の提案", 2023年11月
 
-1. 徳備彩人, 大友 一樹, __小林 諭__, 福田 健介, 江崎 浩, 電子情報通信学会インターネットアーキテクチャ研究会IA研究賞(優秀研究賞) "ネットワークログデータへの自動文書ラベリングの提案", 2021年6月
+1. 徳備彩人, 大友一樹, __小林諭__, 福田健介, 江崎 浩, 電子情報通信学会インターネットアーキテクチャ研究会IA研究賞(優秀研究賞) "ネットワークログデータへの自動文書ラベリングの提案", 2021年6月
 
-1. 新津 雄大, __小林 諭__, 福田 健介, 江崎 浩, 電子情報通信学会インターネットアーキテクチャ研究会IA研究賞(優秀研究賞) "大規模IPv6アドレス収集手法に関する検討", 2019年6月
+1. 新津雄大, __小林諭__, 福田健介, 江崎浩, 電子情報通信学会インターネットアーキテクチャ研究会IA研究賞(優秀研究賞) "大規模IPv6アドレス収集手法に関する検討", 2019年6月
 
 1. IEEE/IFIP IM 2017 Student Travel Grants, May, 2017
 
@@ -121,7 +121,7 @@ title: "小林 諭"
 
 1. 電子情報通信学会 インターネットアーキテクチャ研究会 専門委員, 2024年6月-現在 ([url](https://www.ieice.org/cs/ia/jpn/doku.php))
 
-1. 電子情報通信学会 英文論文誌B編集委員, 2024年6月-現在
+1. 電子情報通信学会 英文論文誌B編集委員, 2024年6月-現在 ([link](https://globals.ieice.org/en_publications/editorial_board/EB/))
 
 1. コンピュータセキュリティシンポジウム(CSS) 実行委員 ([2025年](https://www.iwsec.org/css/2025/committee.html))
 
